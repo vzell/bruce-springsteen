@@ -1,0 +1,846 @@
+<metadata xmlns="http://musicbrainz.org/ns/mmd-2.0#">
+  <release-list count="4469">
+    <release id="3ce46b79-5e8c-470a-bcdc-45f301d09f60">
+      <title>Greetings From Asbury Park, N.J.</title>
+      <status id="4e304316-386d-3409-af2e-78857eec5cfe">
+      Official</status>
+      <quality>normal</quality>
+      <packaging id="f7101ce3-0384-39ce-9fde-fbbd0044d35f">
+      Cardboard/Paper Sleeve</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973-01-05</date>
+      <country>US</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973-01-05</date>
+          <area id="489ce91b-6658-3307-9877-795b68554c98">
+            <name>United States</name>
+            <sort-name>United States</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>US</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode />
+      <cover-art-archive>
+        <artwork>false</artwork>
+        <count>0</count>
+        <front>false</front>
+        <back>false</back>
+      </cover-art-archive>
+    </release>
+    <release id="4918b02c-c0ce-4d03-88f1-2eba7924a4ee">
+      <title>Greetings From Asbury Park, N.J.</title>
+      <status id="4e304316-386d-3409-af2e-78857eec5cfe">
+      Official</status>
+      <quality>normal</quality>
+      <packaging id="f7101ce3-0384-39ce-9fde-fbbd0044d35f">
+      Cardboard/Paper Sleeve</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973-01-05</date>
+      <country>US</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973-01-05</date>
+          <area id="489ce91b-6658-3307-9877-795b68554c98">
+            <name>United States</name>
+            <sort-name>United States</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>US</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode>074643190312</barcode>
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>5</count>
+        <front>true</front>
+        <back>true</back>
+      </cover-art-archive>
+    </release>
+    <release id="65f35399-f638-4295-8c78-0ddea0e36ed8">
+      <title>Blinded by the Light</title>
+      <status id="518ffc83-5cde-34df-8627-81bff5093d92">
+      Promotion</status>
+      <quality>normal</quality>
+      <packaging id="f7101ce3-0384-39ce-9fde-fbbd0044d35f">
+      Cardboard/Paper Sleeve</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973-02-23</date>
+      <country>US</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973-02-23</date>
+          <area id="489ce91b-6658-3307-9877-795b68554c98">
+            <name>United States</name>
+            <sort-name>United States</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>US</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode />
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>4</count>
+        <front>true</front>
+        <back>true</back>
+      </cover-art-archive>
+    </release>
+    <release id="6c3f110f-d45b-4a80-a0a8-21f53c29ab38">
+      <title>Blinded By the Light / The Angel</title>
+      <status id="4e304316-386d-3409-af2e-78857eec5cfe">
+      Official</status>
+      <quality>normal</quality>
+      <packaging id="f7101ce3-0384-39ce-9fde-fbbd0044d35f">
+      Cardboard/Paper Sleeve</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973-02-23</date>
+      <country>US</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973-02-23</date>
+          <area id="489ce91b-6658-3307-9877-795b68554c98">
+            <name>United States</name>
+            <sort-name>United States</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>US</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode />
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>3</count>
+        <front>true</front>
+        <back>true</back>
+      </cover-art-archive>
+    </release>
+    <release id="d1e5e2a0-1404-42c6-b345-f413f5137c7f">
+      <title>Blinded by the Light</title>
+      <status id="518ffc83-5cde-34df-8627-81bff5093d92">
+      Promotion</status>
+      <quality>normal</quality>
+      <disambiguation>promo sticker versions</disambiguation>
+      <packaging id="f7101ce3-0384-39ce-9fde-fbbd0044d35f">
+      Cardboard/Paper Sleeve</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973-02-23</date>
+      <country>US</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973-02-23</date>
+          <area id="489ce91b-6658-3307-9877-795b68554c98">
+            <name>United States</name>
+            <sort-name>United States</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>US</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode />
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>6</count>
+        <front>true</front>
+        <back>true</back>
+      </cover-art-archive>
+    </release>
+    <release id="6e4fe7b0-6795-44a4-bdc9-94dbf60a46fc">
+      <title>Greetings From Asbury Park, N.J.</title>
+      <status id="4e304316-386d-3409-af2e-78857eec5cfe">
+      Official</status>
+      <quality>normal</quality>
+      <packaging id="f7101ce3-0384-39ce-9fde-fbbd0044d35f">
+      Cardboard/Paper Sleeve</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973-03-09</date>
+      <country>GB</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973-03-09</date>
+          <area id="8a754a16-0027-3a29-b6d7-2b40ea0481ed">
+            <name>United Kingdom</name>
+            <sort-name>United Kingdom</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>GB</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode />
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>6</count>
+        <front>true</front>
+        <back>true</back>
+      </cover-art-archive>
+    </release>
+    <release id="28137427-cc90-41b9-b474-a1d5fe3703c6">
+      <title>Greetings From Asbury Park, N.J.</title>
+      <status id="4e304316-386d-3409-af2e-78857eec5cfe">
+      Official</status>
+      <quality>normal</quality>
+      <packaging id="f7101ce3-0384-39ce-9fde-fbbd0044d35f">
+      Cardboard/Paper Sleeve</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973-03</date>
+      <country>GB</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973-03</date>
+          <area id="8a754a16-0027-3a29-b6d7-2b40ea0481ed">
+            <name>United Kingdom</name>
+            <sort-name>United Kingdom</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>GB</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode />
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>6</count>
+        <front>true</front>
+        <back>true</back>
+      </cover-art-archive>
+    </release>
+    <release id="31efd561-0bba-464b-a870-dcf9e902e26d">
+      <title>Spirit in the Night</title>
+      <status id="518ffc83-5cde-34df-8627-81bff5093d92">
+      Promotion</status>
+      <quality>normal</quality>
+      <packaging id="f7101ce3-0384-39ce-9fde-fbbd0044d35f">
+      Cardboard/Paper Sleeve</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973-05-11</date>
+      <country>US</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973-05-11</date>
+          <area id="489ce91b-6658-3307-9877-795b68554c98">
+            <name>United States</name>
+            <sort-name>United States</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>US</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode />
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>4</count>
+        <front>true</front>
+        <back>true</back>
+      </cover-art-archive>
+    </release>
+    <release id="5dd25c46-185b-4b07-91b0-0131b7b4c767">
+      <title>Spirit in the Night / For You</title>
+      <status id="518ffc83-5cde-34df-8627-81bff5093d92">
+      Promotion</status>
+      <quality>normal</quality>
+      <disambiguation>sticker version</disambiguation>
+      <packaging id="f7101ce3-0384-39ce-9fde-fbbd0044d35f">
+      Cardboard/Paper Sleeve</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973-05-11</date>
+      <country>US</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973-05-11</date>
+          <area id="489ce91b-6658-3307-9877-795b68554c98">
+            <name>United States</name>
+            <sort-name>United States</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>US</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode />
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>2</count>
+        <front>true</front>
+        <back>true</back>
+      </cover-art-archive>
+    </release>
+    <release id="e50bc0eb-3924-40cb-b919-04be3efa2f6f">
+      <title>Spirit In the Night / For You</title>
+      <status id="4e304316-386d-3409-af2e-78857eec5cfe">
+      Official</status>
+      <quality>normal</quality>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973-05-11</date>
+      <country>US</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973-05-11</date>
+          <area id="489ce91b-6658-3307-9877-795b68554c98">
+            <name>United States</name>
+            <sort-name>United States</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>US</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>2</count>
+        <front>true</front>
+        <back>true</back>
+      </cover-art-archive>
+    </release>
+    <release id="5b0c80bc-e570-4bb3-a9cb-ccec2bbd7255">
+      <title>The Wild, the Innocent &amp; The E Street
+      Shuffle</title>
+      <status id="4e304316-386d-3409-af2e-78857eec5cfe">
+      Official</status>
+      <quality>normal</quality>
+      <disambiguation>US, first stock issue</disambiguation>
+      <packaging id="f7101ce3-0384-39ce-9fde-fbbd0044d35f">
+      Cardboard/Paper Sleeve</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973-11-05</date>
+      <country>US</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973-11-05</date>
+          <area id="489ce91b-6658-3307-9877-795b68554c98">
+            <name>United States</name>
+            <sort-name>United States</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>US</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode />
+      <asin>B000QXTG1A</asin>
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>8</count>
+        <front>true</front>
+        <back>true</back>
+      </cover-art-archive>
+    </release>
+    <release id="68136206-2939-42ed-a39d-f9c41b0defb1">
+      <title>The Wild, the Innocent and the E Street
+      Shuffle</title>
+      <status id="4e304316-386d-3409-af2e-78857eec5cfe">
+      Official</status>
+      <quality>normal</quality>
+      <packaging id="815b7785-8284-3926-8f04-e48bc6c4d102">
+      Other</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973-11</date>
+      <country>US</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973-11</date>
+          <area id="489ce91b-6658-3307-9877-795b68554c98">
+            <name>United States</name>
+            <sort-name>United States</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>US</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode />
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>3</count>
+        <front>true</front>
+        <back>true</back>
+      </cover-art-archive>
+    </release>
+    <release id="8d9b1aa5-345b-4dfb-94c1-0a690737685b">
+      <title>The Wild, the Innocent &amp; The E Street
+      Shuffle</title>
+      <status id="4e304316-386d-3409-af2e-78857eec5cfe">
+      Official</status>
+      <quality>normal</quality>
+      <disambiguation>Canada, version 1</disambiguation>
+      <packaging id="f7101ce3-0384-39ce-9fde-fbbd0044d35f">
+      Cardboard/Paper Sleeve</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973-11</date>
+      <country>CA</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973-11</date>
+          <area id="71bbafaa-e825-3e15-8ca9-017dcad1748b">
+            <name>Canada</name>
+            <sort-name>Canada</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>CA</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode />
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>3</count>
+        <front>true</front>
+        <back>true</back>
+      </cover-art-archive>
+    </release>
+    <release id="baa789cb-6ef7-44d5-9968-900e44100e00">
+      <title>The Wild, the Innocent &amp; The E Street
+      Shuffle</title>
+      <status id="4e304316-386d-3409-af2e-78857eec5cfe">
+      Official</status>
+      <quality>normal</quality>
+      <packaging id="f7101ce3-0384-39ce-9fde-fbbd0044d35f">
+      Cardboard/Paper Sleeve</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973-11</date>
+      <country>CA</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973-11</date>
+          <area id="71bbafaa-e825-3e15-8ca9-017dcad1748b">
+            <name>Canada</name>
+            <sort-name>Canada</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>CA</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode />
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>4</count>
+        <front>true</front>
+        <back>true</back>
+      </cover-art-archive>
+    </release>
+    <release id="5d3b793a-5853-44c0-9821-e2c2bb79ae5d">
+      <title>The Wild, the Innocent and the E Street
+      Shuffle</title>
+      <status id="4e304316-386d-3409-af2e-78857eec5cfe">
+      Official</status>
+      <quality>normal</quality>
+      <packaging id="815b7785-8284-3926-8f04-e48bc6c4d102">
+      Other</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973-11</date>
+      <country>US</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973-11</date>
+          <area id="489ce91b-6658-3307-9877-795b68554c98">
+            <name>United States</name>
+            <sort-name>United States</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>US</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode />
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>2</count>
+        <front>true</front>
+        <back>true</back>
+      </cover-art-archive>
+    </release>
+    <release id="dc4a73e5-0f14-49a3-a91a-cb7e82e511de">
+      <title>The Wild, the Innocent and the E Street
+      Shuffle</title>
+      <status id="4e304316-386d-3409-af2e-78857eec5cfe">
+      Official</status>
+      <quality>normal</quality>
+      <packaging id="815b7785-8284-3926-8f04-e48bc6c4d102">
+      Other</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973-11</date>
+      <country>US</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973-11</date>
+          <area id="489ce91b-6658-3307-9877-795b68554c98">
+            <name>United States</name>
+            <sort-name>United States</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>US</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode />
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>2</count>
+        <front>true</front>
+        <back>true</back>
+      </cover-art-archive>
+    </release>
+    <release id="9f7a4999-97d0-4e8c-a6c4-4b0cc57282f7">
+      <title>The Wild, the Innocent and the E Street
+      Shuffle</title>
+      <status id="4e304316-386d-3409-af2e-78857eec5cfe">
+      Official</status>
+      <quality>normal</quality>
+      <packaging id="c70b737a-0114-39a9-88f7-82843e54f906">Cassette
+      Case</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973-11</date>
+      <country>US</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973-11</date>
+          <area id="489ce91b-6658-3307-9877-795b68554c98">
+            <name>United States</name>
+            <sort-name>United States</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>US</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode>074643243247</barcode>
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>2</count>
+        <front>true</front>
+        <back>false</back>
+      </cover-art-archive>
+    </release>
+    <release id="02a3c67f-d415-4a79-bd26-5432bd44466e">
+      <title>Greetings From Asbury Park, N.J.</title>
+      <status id="4e304316-386d-3409-af2e-78857eec5cfe">
+      Official</status>
+      <quality>normal</quality>
+      <packaging id="c70b737a-0114-39a9-88f7-82843e54f906">Cassette
+      Case</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973</date>
+      <country>BR</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973</date>
+          <area id="f45b47f8-5796-386e-b172-6c31b009a5d8">
+            <name>Brazil</name>
+            <sort-name>Brazil</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>BR</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode />
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>5</count>
+        <front>true</front>
+        <back>false</back>
+      </cover-art-archive>
+    </release>
+    <release id="c0ef0f2b-6d8a-4684-a9a7-cbd768994403">
+      <title>Greetings From Asbury Park, N.J.</title>
+      <status id="4e304316-386d-3409-af2e-78857eec5cfe">
+      Official</status>
+      <quality>normal</quality>
+      <packaging id="f7101ce3-0384-39ce-9fde-fbbd0044d35f">
+      Cardboard/Paper Sleeve</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973</date>
+      <country>GB</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973</date>
+          <area id="8a754a16-0027-3a29-b6d7-2b40ea0481ed">
+            <name>United Kingdom</name>
+            <sort-name>United Kingdom</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>GB</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode />
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>3</count>
+        <front>true</front>
+        <back>true</back>
+      </cover-art-archive>
+    </release>
+    <release id="69727b14-ca30-4113-910d-5610124b412a">
+      <title>The Wild, the Innocent &amp; The E Street
+      Shuffle</title>
+      <status id="4e304316-386d-3409-af2e-78857eec5cfe">
+      Official</status>
+      <quality>normal</quality>
+      <disambiguation>UK, version 1</disambiguation>
+      <packaging id="f7101ce3-0384-39ce-9fde-fbbd0044d35f">
+      Cardboard/Paper Sleeve</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973</date>
+      <country>GB</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973</date>
+          <area id="8a754a16-0027-3a29-b6d7-2b40ea0481ed">
+            <name>United Kingdom</name>
+            <sort-name>United Kingdom</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>GB</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode />
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>6</count>
+        <front>true</front>
+        <back>true</back>
+      </cover-art-archive>
+    </release>
+    <release id="f999d564-a0ee-43e7-a9a9-f6b98d5721c3">
+      <title>The Wild, the Innocent &amp; The E Street
+      Shuffle</title>
+      <status id="4e304316-386d-3409-af2e-78857eec5cfe">
+      Official</status>
+      <quality>normal</quality>
+      <disambiguation>UK, version 3</disambiguation>
+      <packaging id="f7101ce3-0384-39ce-9fde-fbbd0044d35f">
+      Cardboard/Paper Sleeve</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973</date>
+      <country>GB</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973</date>
+          <area id="8a754a16-0027-3a29-b6d7-2b40ea0481ed">
+            <name>United Kingdom</name>
+            <sort-name>United Kingdom</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>GB</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode />
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>4</count>
+        <front>true</front>
+        <back>true</back>
+      </cover-art-archive>
+    </release>
+    <release id="d9475d6b-b05b-4c91-9c7d-205369bae5ae">
+      <title>The Wild, the Innocent &amp; The E Street
+      Shuffle</title>
+      <status id="4e304316-386d-3409-af2e-78857eec5cfe">
+      Official</status>
+      <quality>normal</quality>
+      <disambiguation>UK, version 2</disambiguation>
+      <packaging id="f7101ce3-0384-39ce-9fde-fbbd0044d35f">
+      Cardboard/Paper Sleeve</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973</date>
+      <country>GB</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973</date>
+          <area id="8a754a16-0027-3a29-b6d7-2b40ea0481ed">
+            <name>United Kingdom</name>
+            <sort-name>United Kingdom</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>GB</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode />
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>4</count>
+        <front>true</front>
+        <back>true</back>
+      </cover-art-archive>
+    </release>
+    <release id="540be338-0284-4373-9aba-951a3fc0470e">
+      <title>Avenging Annie / Blinded by the Light</title>
+      <status id="518ffc83-5cde-34df-8627-81bff5093d92">
+      Promotion</status>
+      <quality>normal</quality>
+      <disambiguation>blue labels</disambiguation>
+      <packaging id="f7101ce3-0384-39ce-9fde-fbbd0044d35f">
+      Cardboard/Paper Sleeve</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973</date>
+      <country>US</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973</date>
+          <area id="489ce91b-6658-3307-9877-795b68554c98">
+            <name>United States</name>
+            <sort-name>United States</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>US</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode />
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>9</count>
+        <front>true</front>
+        <back>true</back>
+      </cover-art-archive>
+    </release>
+    <release id="01be6087-c532-46c5-ba6e-339140a1bf0f">
+      <title>Avenging Annie / Blinded by the Light</title>
+      <status id="518ffc83-5cde-34df-8627-81bff5093d92">
+      Promotion</status>
+      <quality>normal</quality>
+      <disambiguation>yellow labels</disambiguation>
+      <packaging id="f7101ce3-0384-39ce-9fde-fbbd0044d35f">
+      Cardboard/Paper Sleeve</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973</date>
+      <country>US</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973</date>
+          <area id="489ce91b-6658-3307-9877-795b68554c98">
+            <name>United States</name>
+            <sort-name>United States</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>US</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode />
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>1</count>
+        <front>false</front>
+        <back>false</back>
+      </cover-art-archive>
+    </release>
+    <release id="9f8149b1-549a-430c-b296-595ed44318fd">
+      <title>Greetings From Asbury Park, N.J.</title>
+      <status id="4e304316-386d-3409-af2e-78857eec5cfe">
+      Official</status>
+      <quality>normal</quality>
+      <packaging id="f7101ce3-0384-39ce-9fde-fbbd0044d35f">
+      Cardboard/Paper Sleeve</packaging>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <date>1973</date>
+      <country>IE</country>
+      <release-event-list count="1">
+        <release-event>
+          <date>1973</date>
+          <area id="390b05d4-11ec-3bce-a343-703a366b34a5">
+            <name>Ireland</name>
+            <sort-name>Ireland</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>IE</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode />
+      <cover-art-archive>
+        <artwork>true</artwork>
+        <count>4</count>
+        <front>true</front>
+        <back>true</back>
+      </cover-art-archive>
+    </release>
+  </release-list>
+</metadata>

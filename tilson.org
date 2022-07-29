@@ -1,0 +1,21 @@
+| Song                    | Duration | can be found on   |
+|-------------------------+----------+-------------------|
+| YOUR HOMETOWN - V1      |     3:30 | LM-17 / MT1       |
+| YOUR HOMETOWN - V2      |     3:14 | LM-17             |
+| YOUR HOMETOWN - V3      |     3:23 | LM-17 / GS#1      |
+| YOUR HOMETOWN - V4      |     3:16 | LM-17 / GS#2      |
+| MY HOMETOWN - V5 take 1 |     6:47 | uncirculating     |
+| MY HOMETOWN - V6 take 2 |     6:22 | uncirculating     |
+| MY HOMETOWN - V7 take 3 |     4:25 | BITUSA / GREATEST |
+| MY HOMETOWN - V8 take 4 |     4:54 | LM-19             |
+
+| Song                    | Duration | Recorded at                                                                        | Recorded by          | Notes              | Can be found on   |
+|-------------------------+----------+------------------------------------------------------------------------------------+----------------------+--------------------+-------------------|
+| YOUR HOMETOWN - V1      |     3:30 | 29,30 Jan 1970; 9,17 Feb 1983 - 7965 Fareholm Drive, Los Angeles, California 90046 | Bruce and Toby Scott |                    | LM-17 / MT1       |
+| YOUR HOMETOWN - V2      |     3:14 | "                                                                                  | "                    |                    | LM-17             |
+| YOUR HOMETOWN - V3      |     3:23 | "                                                                                  | "                    |                    | LM-17 / GS#1      |
+| YOUR HOMETOWN - V4      |     3:16 | "                                                                                  | "                    |                    | LM-17 / GS#2      |
+| MY HOMETOWN - V5 take 1 |     6:47 | 29 Jun 1983 - The Hit Factory                                                      |                      |                    | uncirculating     |
+| MY HOMETOWN - V6 take 2 |     6:22 | "                                                                                  |                      |                    | uncirculating     |
+| MY HOMETOWN - V7 take 3 |     4:25 | "                                                                                  |                      | feat. Ruth Jackson | BITUSA / GREATEST |
+| MY HOMETOWN - V8 take 4 |     4:54 | "                                                                                  |                      | "                  | LM-19             |

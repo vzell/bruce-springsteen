@@ -1,0 +1,6 @@
+        /* hyphens for non standard dates, e.g. 30-07-1987 */
+        [/(?<=\W|^)\d{1,2}-\d{1,2}-\d{4}(?=\W|$)/g, (potentialDMY) => {
+            const potentialYMD = potentialDMY.split('-').reverse().join('-');
+            if (Number.isNaN(Date.parse(potentialYMD))) return potentialDMY; // skip invalid date strings
+            return potentialDMY.replaceAll('-', '‐');
+        }],

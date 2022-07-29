@@ -1,0 +1,190 @@
+* Rename
+
+Tags(2)->Configure Fields->
+
+| Original Label      | Override Label        | Alignment | Type   | Definition                                                                                                                                                                                                                                                                                                                                                   | 
+|---------------------+-----------------------+-----------+--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-
+| Episode Description | Recording Comment     |           | String |                                                                                                                                                                                                                                                                                                                                                              | 
+| Original Album      | Recording             |           | String |                                                                                                                                                                                                                                                                                                                                                              | 
+| Occasion            | Release Type          |           | String |                                                                                                                                                                                                                                                                                                                                                              | 
+| Tempo               | Release Status        |           | String |                                                                                                                                                                                                                                                                                                                                                              | 
+| Virtual1            | EventType             |           | String | $IsNull(<Recording Comment>,,$Split(<Recording Comment>,", ",1))                                                                                                                                                                                                                                                                                             | 
+| Virtual2            | EventDate             |           | String | $Split($IsNull(<Recording Comment>,,$Split(<Recording Comment>,", ",2)),": ",1)                                                                                                                                                                                                                                                                              | 
+| Virtual3            | EventPlace            |           | String | $Split($IsNull(<Recording Comment>,,$Split(<Recording Comment>,": ",2)),", ",1)                                                                                                                                                                                                                                                                              | 
+| Virtual4            | EventCountry          |           | String | $RSplit($IsNull(<Recording Comment>,,$Split(<Recording Comment>,": ",2)),", ",1)                                                                                                                                                                                                                                                                             | 
+| Virtual5            | EventState            |           | String | $If($Or($RSplit($IsNull(<Recording Comment>,,$Split(<Recording Comment>,": ",2)),", ",1)="USA",$RSplit($IsNull(<Recording Comment>,,$Split(<Recording Comment>,": ",2)),", ",1)="Canada"),$RSplit($IsNull(<Recording Comment>,,$Split(<Recording Comment>,": ",2)),", ",2),)                                                                                 | 
+| Virtual6            | EventCity             |           | String | $If($Or($RSplit($IsNull(<Recording Comment>,,$Split(<Recording Comment>,": ",2)),", ",1)="USA",$RSplit($IsNull(<Recording Comment>,,$Split(<Recording Comment>,": ",2)),", ",1)="Canada"),$RSplit($IsNull(<Recording Comment>,,$Split(<Recording Comment>,": ",2)),", ",3),$RSplit($IsNull(<Recording Comment>,,$Split(<Recording Comment>,": ",2)),", ",2)) | 
+| Virtual7            | LyricsState           |           | String | $If($Contains(<Lyrics?>,"[no lyrics]")="T",N,$If($Contains(<Lyrics?>,/unsynched)="T",B,$If($Contains(<Lyrics?>,[unsynched])="T",U,$If($Contains(<Lyrics?>,[synched])="T",S,))))                                                                                                                                                                              | 
+| Virtual8            | LyricsURL             |           | String | $First($Split(<Misc>,LyricsURL:,2))                                                                                                                                                                                                                                                                                                                          | 
+| Virtual9            | Sub-Header [variable] |           | String | • Disc <Disc#>$IsNull(<Set Subtitle>,," • "<Set Subtitle>)$IsNull(<Media>,," • "<Media>)$IsNull(<ReleaseStatus>,," ("<ReleaseStatus>") • ")$IsNull(<ReleaseType>,," ("$Replace(<ReleaseType>,;,",")") • ")                                                                                                                                                   | 
+| Virtual10           | Header [variable]     |           | String | • <Album Artist> •                                                                                                                                                                                                                                                                                                                                           | 
+| Virtual11           | ASIN                  |           | String | $First($Split(<Misc>,ASIN:,2))                                                                                                                                                                                                                                                                                                                               | 
+| Virtual12           | Barcode               |           | String | $First($Split(<Misc>,Barcode:,2))                                                                                                                                                                                                                                                                                                                            | 
+| Virtual13           | Catalognumber         |           | String | $First($Split(<Misc>,CatalogNumber:,2))                                                                                                                                                                                                                                                                                                                      | 
+| Virtual14           |                       |           | String |                                                                                                                                                                                                                                                                                                                                                              | 
+| Virtual15           |                       |           | String |                                                                                                                                                                                                                                                                                                                                                              | 
+| Virtual16           | ReleaseCountry        |           | String | $First($Split(<Misc>,ReleaseCountry:,2))                                                                                                                                                                                                                                                                                                                     | 
+| Virtual17           | Media                 |           | String | $First($Split(<Misc>,Media:,2))                                                                                                                                                                                                                                                                                                                              | 
+| Virtual18           | Homepage              |           | String | $First($Split(<Misc>,HomePage:,2))                                                                                                                                                                                                                                                                                                                           | 
+| Virtual19           | Musicians             |           | String | $RxReplace($Replace($RxReplace(<Artists: Performer>,"(?:([^;\(]*\([^\)]*\))(?:;                                                                                                                                                                                                                                                                              | 
+| Virtual20           |                       |           | String |                                                                                                                                                                                                                                                                                                                                                              | 
+| Virtual21           |                       |           | String |                                                                                                                                                                                                                                                                                                                                                              | 
+| Virtual22           |                       |           | String |                                                                                                                                                                                                                                                                                                                                                              | 
+| Virtual23           |                       |           | String |                                                                                                                                                                                                                                                                                                                                                              | 
+| Virtual24           | DisplayArtist         |           | String |                                                                                                                                                                                                                                                                                                                                                              | 
+| Virtual25           | Test                  |           | String | <Disc#> <MediaType> <Set Subtitle>                                                                                                                                                                                                                                                                                                                           | 
+
+  
+* Virtual Tags
+
+EventType     - $IsNull(<Recording Comment>,,$Split(<Recording Comment>,", ",1))
+EventDate     - $Split($IsNull(<Recording Comment>,,$Split(<Recording Comment>,", ",2)),": ",1)
+EventPlace    - $Split($IsNull(<Recording Comment>,,$Split(<Recording Comment>,": ",2)),", ",1)
+EventCountry  - $RSplit($IsNull(<Recording Comment>,,$Split(<Recording Comment>,": ",2)),", ",1)
+EventState    - $If($Or($RSplit($IsNull(<Recording Comment>,,$Split(<Recording Comment>,": ",2)),", ",1)="USA",$RSplit($IsNull(<Recording Comment>,,$Split(<Recording Comment>,": ",2)),", ",1)="Canada"),$RSplit($IsNull(<Recording Comment>,,$Split(<Recording Comment>,": ",2)),", ",2),)
+EventCity     - $If($Or($RSplit($IsNull(<Recording Comment>,,$Split(<Recording Comment>,": ",2)),", ",1)="USA",$RSplit($IsNull(<Recording Comment>,,$Split(<Recording Comment>,": ",2)),", ",1)="Canada"),$RSplit($IsNull(<Recording Comment>,,$Split(<Recording Comment>,": ",2)),", ",3),$RSplit($IsNull(<Recording Comment>,,$Split(<Recording Comment>,": ",2)),", ",2))
+LyricsState   - $If($Contains(<Lyrics?>,"[no lyrics]")="T",N,$If($Contains(<Lyrics?>,/unsynched)="T",B,$If($Contains(<Lyrics?>,[unsynched])="T",U,$If($Contains(<Lyrics?>,[synched])="T",S,))))
+LyricsURL     - $First($Split(<Misc>,LyricsURL:,2))
+Sub-Header [variable] - • Disc <Disc#>$IsNull(<Set Subtitle>,," • "<Set Subtitle>)$IsNull(<Media>,," • "<Media>)$IsNull(<ReleaseStatus>,," ("<ReleaseStatus>") • ")$IsNull(<ReleaseType>,," ("$Replace(<ReleaseType>,;,",")") • ")
+Header [variable]     - • <Album Artist> •
+ASIN           - $First($Split(<Misc>,ASIN:,2))
+Barcode        - $First($Split(<Misc>,Barcode:,2))
+Catalognumber  - $First($Split(<Misc>,CatalogNumber:,2))
+ReleaseType    - $First($Split(<Misc>,ReleaseType:,2))
+ReleaseStatus  - $First($Split(<Misc>,ReleaseStatus:,2))
+ReleaseCountry - $First($Split(<Misc>,ReleaseCountry:,2))
+Media          - $First($Split(<Misc>,Media:,2))
+Homepage       - $First($Split(<Misc>,HomePage:,2))
+
+Musicians - $RxReplace($Replace($RxReplace(<Artists: Performer>,"(?:([^;\(]*\([^\)]*\))(?:;|$))|([^;\(\)]+(?:;|$))","$1"),")",");"),";$","")
+Performer - $Trim($RxReplace($Replace($RxReplace(<Artists: Performer>,"(?:([^;\(]*\([^\)]*\))(?:;|$))|([^;\(\)]+(?:;|$))","$2"),")",");"),";$",""))
+Mixer     - $Trim($RxReplace($Replace($Trim($RxReplace(<Artists: Performer>,"([^;\(]*\(mix\))|(?:([^;\(]*\([^\)]*\))(?:;|$))|([^;\(\)]+(?:;|$))","$1"))," (mix)",),";$",""))
+Engineer  - $Trim($RxReplace($Replace($Trim($RxReplace(<Artists: Performer>,"([^;\(]*\(engineer\))|(?:([^;\(]*\([^\)]*\))(?:;|$))|([^;\(\)]+(?:;|$))","$1"))," (engineer)",),";$",""))
+Arranger  - $Trim($RxReplace($Replace($Trim($RxReplace(<Artists: Performer>,"([^;\(]*\(arranger\))|(?:([^;\(]*\([^\)]*\))(?:;|$))|([^;\(\)]+(?:;|$))","$1"))," (arranger)",),";$",""))
+Producer  - $Trim($RxReplace($Replace($Trim($RxReplace(<Artists: Performer>,"([^;\(]*\(producer\))|(?:([^;\(]*\([^\)]*\))(?:;|$))|([^;\(\)]+(?:;|$))","$1"))," (producer)",),";$",""))
+Test      - <Disc#> <MediaType> <Set Subtitle>
+
+
+* Custom Tags
+
+Nr  DisplayName - Tag
+1 - Misc - Misc
+
+
+* Arrange Panels
+
+** Left sidebar
+
+ Navigator
+ Library Explorer
+
+** 
+
+
+* Track Information
+
+Show artwork above fields
+
+
+1 - $If(<Title>=<Recording>,<Recording>,<Title>;<Recording>)$If(<Recording>=<Work>,,;<Work>)
+2 - $If(<Composer>=<Lyricist>,$IsNull(<Composer>,,"("$Replace(<Composer>,;,",")")"),$IsNull(<Composer>,,"Writer: "$Replace(<Composer>,;,","));$IsNull(<Lyricist>,,"Lyrics: "$Replace(<Lyricist>,;,",")))$If($Replace($First($Split(<Misc>,ReleaseStatus:,2)),",",;)="bootleg",; <Recording Comment>,); $Replace($First($Split(<Misc>,WorkDesc:,2)),",",;)$IsNull($First($Split(<Misc>,TOPE:,2)),,"; by "$Replace($First($Split(<Misc>,TOPE:,2)),",",;))
+3 - $If(<Original Year>=<Year (yyyy)>,$IsNull(<Original Year>,,"("<Original Year>")"),"("<Original Year>/<Year (yyyy)>")")$IsNull(<Publisher>,," - "<Publisher>)$IsNull(<ReleaseCountry>,,", "<ReleaseCountry>)$IsNull(<ReleaseStatus>,,", "<ReleaseStatus>)$IsNull(<ReleaseType>,,", "$Replace(<ReleaseType>,;,","))
+4 -
+5 - 
+6 - 
+7 - $If($Replace($First($Split(<Misc>,RecordingAttributes:,2)),",",;)="cover","Cover of: "<Work>,)$If($Replace($First($Split(<Misc>,RecordingAttributes:,2)),",",;)="instrumental","Instrumental of: "<Work>,)$If($Replace($First($Split(<Misc>,RecordingAttributes:,2)),",",;)="live;cover","Live cover of: "<Work>,)
+
+
+<Musicians>;<Involved>
+
+$Replace($First($Split(<Misc>,WorkAttributes:,2)),",",;)
+=live;cover,Live cover)
+
+$If($Replace($First($Split(<Misc>,WorkAttributes:,2)),",",;)="cover","Cover of "<Work>,)$If($Replace($First($Split(<Misc>,WorkAttributes:,2)),",",;)="instrumental","Instrumental of "<Work>,)$If($Replace($First($Split(<Misc>,WorkAttributes:,2)),",",;)="live;cover","Live cover of "<Work>,)
+
+
+    (False, False, False, False, False): N_(u"Recording of"),
+    (False, False, False, False, True): N_(u"Cover recording of"),
+    (False, False, False, True, False): N_(u"Instrumental recording of"),
+    (False, False, False, True, True): N_(u"Instrumental cover recording of"),
+    (False, False, True, False, False): N_(u"Partial recording of"),
+    (False, False, True, False, True): N_(u"Partial cover recording of"),
+    (False, False, True, True, False): N_(u"Partial instrumental recording of"),
+    (False, False, True, True, True): N_(u"Partial instrumental cover recording of"),
+    (False, True, False, False, False): N_(u"Medley including a recording of"),
+    (False, True, False, False, True): N_(u"Medley including a cover recording of"),
+    (False, True, False, True, False): N_(u"Medley including an instrumental recording of"),
+    (False, True, False, True, True): N_(u"Medley including an instrumental cover recording of"),
+    (False, True, True, False, False): N_(u"Medley including a partial recording of"),
+    (False, True, True, False, True): N_(u"Medley including a partial cover recording of"),
+    (False, True, True, True, False): N_(u"Medley including a partial instrumental recording of"),
+    (False, True, True, True, True): N_(u"Medley including a partial instrumental cover recording of"),
+    (True, False, False, False, False): N_(u"Live recording of"),
+    (True, False, False, False, True): N_(u"Live cover recording of"),
+    (True, False, False, True, False): N_(u"Live instrumental recording of"),
+    (True, False, False, True, True): N_(u"Live instrumental cover recording of"),
+    (True, False, True, False, False): N_(u"Live partial recording of"),
+    (True, False, True, False, True): N_(u"Live partial cover recording of"),
+    (True, False, True, True, False): N_(u"Live partial instrumental recording of"),
+    (True, False, True, True, True): N_(u"Live partial instrumental cover recording of"),
+    (True, True, False, False, False): N_(u"Live medley including a recording of"),
+    (True, True, False, False, True): N_(u"Live medley including a cover recording of"),
+    (True, True, False, True, False): N_(u"Live medley including an instrumental recording of"),
+    (True, True, False, True, True): N_(u"Live medley including an instrumental cover recording of"),
+    (True, True, True, False, False): N_(u"Live medley including a partial recording of"),
+    (True, True, True, False, True): N_(u"Live medley including a partial cover recording of"),
+    (True, True, True, True, False): N_(u"Live medley including a partial instrumental recording of"),
+    (True, True, True, True, True): N_(u"Live medley including a partial instrumental cover recording of"),
+
+
+* Tools->external application
+
+| name      | application path | parameters                                                                          | wait |
+|-----------+------------------+-------------------------------------------------------------------------------------+------|
+|           |                  |                                                                                     |      |
+| Demux m4a | ffmpeg           | -i "<URL>" -vn -acodec copy $RxSplit(<URL>,"\.[^.]+?$",1).m4a                       |      |
+| Demux m4a | ffmpeg           | -i "<Path><Filename>" -vn -acodec copy <Path>$RxSplit(<Filename>,"\.[^.]+?$",1).m4a |      |
+ 
+
+* AppData/CustomTagConfig.xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomTags>
+  <Tag id="Barcode" id3v23="TXXX/BARCODE" id3v24="TXXX/BARCODE" wma="Barcode" vorbisComments="Barcode" mpeg="Barcode" ape2="Barcode" />
+  <Tag id="Performer" id3v23="TXXX/PERFORMING ARTIST" id3v24="TXXX/PERFORMING ARTIST" wma="Performer" vorbisComments="Performer" mpeg="Performer" ape2="Performer" />
+  <Tag id="MusicBrainz Recording Comment" id3v23="TXXX/MusicBrainz Recording Comment" id3v24="TXXX/MusicBrainz Recording Comment" wma="MusicBrainz Recording Comment" vorbisComments="MusicBrainz Recording Comment" mpeg="MusicBrainz Recording Comment" ape2="MusicBrainz Recording Comment" />
+  <Tag id="MusicBrainz Release Comment" id3v23="TXXX/MusicBrainz Release Comment" id3v24="TXXX/MusicBrainz Release Comment" wma="MusicBrainz Release Comment" vorbisComments="MusicBrainz Release Comment" mpeg="MusicBrainz Release Comment" ape2="MusicBrainz Release Comment" />
+  <Tag id="MusicBrainz Release Group Comment" id3v23="TXXX/MusicBrainz Release Group Comment" id3v24="TXXX/MusicBrainz Release Group Comment" wma="MusicBrainz Release Group Comment" vorbisComments="MusicBrainz Release Group Comment" mpeg="MusicBrainz Release Group Comment" ape2="MusicBrainz Release Group Comment" />
+  <Tag id="MusicBrainzTrackID" id3v23="TXXX/MusicBrainz Release Track Id" id3v24="TXXX/MusicBrainz Release Track Id" wma="MusicBrainz Release Track ID" vorbisComments="MusicBrainz Release Track ID" mpeg="MusicBrainz Release Track ID" ape2="MusicBrainz Release Track ID" />
+  <Tag id="MusicBrainzRecordingID" id3v23="TXXX/MusicBrainz Recording Id" id3v24="TXXX/MusicBrainz Recording Id" wma="MusicBrainz Recording ID" vorbisComments="MusicBrainz Recording ID" mpeg="MusicBrainz Recording ID" ape2="MusicBrainz Recording ID" />
+  <Tag id="MusicBrainzWorkID" id3v23="TXXX/MusicBrainz Work Id" id3v24="TXXX/MusicBrainz Work Id" wma="MusicBrainz Work ID" vorbisComments="MusicBrainz Work ID" mpeg="MusicBrainz Work ID" ape2="MusicBrainz Work ID" />
+  <Tag id="MusicBrainzReleaseID" id3v23="TXXX/MusicBrainz Album Id" id3v24="TXXX/MusicBrainz Album Id" wma="MusicBrainz Album ID" vorbisComments="MusicBrainz Album ID" mpeg="MusicBrainz Album ID" ape2="MusicBrainz Album ID" />
+  <Tag id="MusicBrainzReleaseGroupID" id3v23="TXXX/MusicBrainz Release Group Id" id3v24="TXXX/MusicBrainz Release Group Id" wma="MusicBrainz Releasegroup ID" vorbisComments="MusicBrainz Releasegroup ID" mpeg="MusicBrainz Releasegroup ID" ape2="MusicBrainz Releasegroup ID" />
+  <Tag id="MusicBrainzAlbumArtistID" id3v23="TXXX/MusicBrainz Album Artist Id" id3v24="TXXX/MusicBrainz Album Artist Id" wma="MusicBrainz Album Artist ID" vorbisComments="MusicBrainz Album Artist ID" mpeg="MusicBrainz Album Artist ID" ape2="MusicBrainz Album Artist ID" />
+  <Tag id="MusicBrainzArtistID" id3v23="TXXX/MusicBrainz Artist Id" id3v24="TXXX/MusicBrainz Artist Id" wma="MusicBrainz Artist ID" vorbisComments="MusicBrainz Artist ID" mpeg="MusicBrainz Artist ID" ape2="MusicBrainz Artist ID" />
+  <Tag id="MusicBrainzRecording" id3v23="TXXX/MusicBrainz Recording" id3v24="TXXX/MusicBrainz Recording" wma="MusicBrainz Recording" vorbisComments="MusicBrainz Recording" mpeg="MusicBrainz Recording" ape2="MusicBrainz Recording" />
+  <Tag id="MusicBrainzReleaseGroup" id3v23="TXXX/MusicBrainz Release Group" id3v24="TXXX/MusicBrainz Release Group" wma="MusicBrainz Release Group" vorbisComments="MusicBrainz Release Group" mpeg="MusicBrainzReleaseGroup" ape2="MusicBrainzReleaseGroup" />
+  <Tag id="MusicBrainzAlbumStatus" id3v23="TXXX/MusicBrainz Album Status" id3v24="TXXX/MusicBrainz Album Status" wma="MusicBrainz Album Status" vorbisComments="MusicBrainz Album Status" mpeg="MusicBrainz Album Status" ape2="MusicBrainz Album Status" />
+  <Tag id="MusicBrainzAlbumType" id3v23="TXXX/MusicBrainz Album Type" id3v24="TXXX/MusicBrainz Album Type" wma="MusicBrainzAlbumType" vorbisComments="MusicBrainz AlbumType" mpeg="MusicBrainzAlbumType" ape2="MusicBrainzAlbumType" />
+  <Tag id="MusicBrainzAlbumReleaseCountry" id3v23="TXXX/MusicBrainz Album Release Country" id3v24="TXXX/MusicBrainz Album Release Country" wma="MusicBrainzAlbumReleaseCountry" vorbisComments="MusicBrainz Album Release Country" mpeg="MusicBrainzAlbumReleaseCountry" ape2="MusicBrainzAlbumReleaseCountry" />
+  <Tag id="MusicBrainzWork" id3v23="TXXX/Work" id3v24="TXXX/Work" wma="Work" vorbisComments="Work" mpeg="Work" ape2="Work" />
+  <Tag id="SortAbbrevArtist" id3v23="TXXX/SORT ABBREV ARTIST" id3v24="TXXX/SORT ABBREV ARTIST" wma="SortAbbrevArtist" vorbisComments="Sort Abbrev Artist" mpeg="SortAbbrevArtist" ape2="SortAbbrevArtist" />
+  <Tag id="SortAbbrevAlbumArtist" id3v23="TXXX/SORT ABBREV ALBUMARTIST" id3v24="TXXX/SORT ABBREV ALBUMARTIST" wma="SortAbbrevAlbumArtist" vorbisComments="Sort Abbrev Albumartist" mpeg="SortAbbrevAlbumArtist" ape2="SortAbbrevAlbumArtist" />
+  <Tag id="SortAbbrevComposer" id3v23="TXXX/SORT ABBREV COMPOSER" id3v24="TXXX/SORT ABBREV COMPOSER" wma="SortAbbrevComposer" vorbisComments="Sort Abbrev Composer" mpeg="SortAbbrevComposer" ape2="SortAbbrevComposer" />
+  <Tag id="Arranger" id3v23="TXXX/ARRANGER" id3v24="TXXX/ARRANGER" wma="Arranger" vorbisComments="Arranger" mpeg="Arranger" ape2="Arranger" />
+  <Tag id="Engineer" id3v23="TXXX/ENGINEER" id3v24="TXXX/ENGINEER" wma="Engineer" vorbisComments="Engineer" mpeg="Engineer" ape2="Engineer" />
+  <Tag id="Producer" id3v23="TXXX/PRODUCER" id3v24="TXXX/PRODUCER" wma="Producer" vorbisComments="Producer" mpeg="Producer" ape2="Producer" />
+  <Tag id="Mixer" id3v23="TXXX/MIXER" id3v24="TXXX/MIXER" wma="Mixer" vorbisComments="Mixer" mpeg="Mixer" ape2="Mixer" />
+  <Tag id="DJMixer" id3v23="TXXX/DJMIXER" id3v24="TXXX/DJMIXER" wma="DJMixer" vorbisComments="DJMixer" mpeg="DJMixer" ape2="DJMixer" />
+  <Tag id="Script" id3v23="TXXX/SCRIPT" id3v24="TXXX/SCRIPT" wma="Script" vorbisComments="Script" mpeg="Script" ape2="Script" />
+  <Tag id="Misc" id3v23="TXXX/MISC" id3v24="TXXX/MISC" wma="Misc" vorbisComments="Misc" mpeg="Misc" ape2="Misc" />
+  <Tag id="Catalognumber" id3v23="TXXX/CATALOGNUMBER" id3v24="TXXX/CATALOGNUMBER" wma="Catalognumber" vorbisComments="Catalognumber" mpeg="Catalognumber" ape2="Catalognumber" />
+  <Tag id="ASIN" id3v23="TXXX/ASIN" id3v24="TXXX/ASIN" wma="ASIN" vorbisComments="ASIN" mpeg="ASIN" ape2="ASIN" />
+  <Tag id="LyricsURL" id3v23="TXXX/LYRICSURL" id3v24="TXXX/LYRICSURL" wma="LyricsURL" vorbisComments="LyricsURL" mpeg="LyricsURL" ape2="LyricsURL" />
+</CustomTags>
+
+
+* Questions
+
+Originalyear and Lyricist are both missing from the Library Explorer. Is there a technical difficulty to add them
+

@@ -1,0 +1,1045 @@
+* Style guides
+
+Style guide for "Capitalization standards" see https://musicbrainz.org/doc/Style/Language/English
+
+Style guide for “Punctuation” see “Use of special characters” in
+ – https://community.metabrainz.org/t/correct-hyphen-unicode-hyphen-or-hyphen-minus/19610
+ – https://musicbrainz.org/doc/Style/Miscellaneous#Use_of_special_characters
+ – https://wiki.musicbrainz.org/User:Jacobbrett/English_Punctuation_Guide)
+ – https://wiki.musicbrainz.org/User:Yurim/Punctuation_and_Special_Characters
+
+hyphen         (‐) – U2010 – 8208 – joins words and syllables of a word (e.g. “Tenth Avenue Freeze‐Out” or “The Live B‐Sides”) and dates (e. g. 2021‐01‐01 or 1998-12)
+figure dash    (‒) – U2012 – 8210 – used as a dash within numbers (e.g. 634‒5789 (Soulsville, U.S.A.))
+en dash        (–) – U2013 – 8211 – indicates a range of numbers (e.g. 1989–90 or 1990-2000), is used for ranges, relationships (e.g. see above listing), and connections (e.g. Hollywood Studios ‘Human Touch’ Tour 1992 – FM Broadcast)
+em dash        (—) – U2014 – 8212 – separate thoughts—like this (e.g. separate thoughts—like this)
+quotation dash (―) – U2015 – 8213 – introduces quoted text in some cases (non‐standard for English dialect)
+minus sign     (−) – U2212 – 8722 – indicates subtraction (e.g. 4−5=1)
+hyphen minus   (‐) – U002D –   45 – on alphanumeric keys
+
+English apostrophe  (’)  – U2019        – 8217      – indicates omitted characters (e.g. Ninety‐Nine and a Half (Won’t Do))
+English quoted text (‘’) – U2018/U2019  – 8216/8217 – indicates quoted text (e.g. Lucky Man: ‘Tunnel of Love’ Demos & Rough Mixes 1987)
+English quoted text (“”) – U201C/U201D  – 8220/8221 – indicates quoted text (e.g. [talking intro to “The E Street Shuffle”])
+Horizontal ellipsis (…)  – U2026        – 8230      – indicates intentional omission in original text…or a pause in speech or thought (e.g. Across the Borderline… With the Boss)
+
+’
+‐
+“”
+' "  ` ´
+
+' vs ’ vs ´
+" vs „“”
+... vs …
+
+    deutsch – for German „quotation marks“ and ‚single quotation marks‘ (default)
+    francais – for French «double quotation marks» and ‹single quotation marks›
+    deutsch-2 – for an alternative style of German »double« and ›single quotation marks‹
+    english – for English “double” and ‘single quotation marks’
+
+Preferred Unicode characters for English punctuation
+Preferred	                                Usage	                                                Deprecates
+‐	Hyphen	                                Joins words and syllables of a word (e.g. co‐operate).	-	Hyphen-minus
+‒	Figure Dash	                        Used as a dash within numbers (e.g. 555‒1212).
+–	En Dash	                                Indicates a range of numbers (e.g. 1989–90).
+−	Minus sign	                        Indicates subtraction.
+—	Em Dash	                                Separate thoughts—like this.	                        --	Hyphen-minus ×2
+―	Horizontal bar aka Quotation dash	Introduces quoted text in some cases (non‐standard for English dialect).
+‘	Left single quotation mark	        Indicates start of quoted text.	                        '	Apostrophe
+’	Right single quotation mark Apostrophe	Indicates end of quoted text, or omitted characters.
+′	Prime	                                Minutes; feet
+“	Left double quotation mark	        Indicates start of quoted text.	                        "	Quotation mark
+”	Right double quotation mark	        Indicates end of quoted text.
+″	Double prime	                        Seconds; inches
+〃	Ditto mark	                        Indicates that the word(s) or figure(s) below which it is placed are to be repeated.
+…	Horizontal ellipsis	                Indicates intentional omission in original text…or a pause in speech or thought.	...	Full stop ×3
+×	Multiplication				Indicates a multiplication operation.	                x	(the letter ‘X’) when used to indicate multiplication
+⁄	Fraction slash				Indicates arbitrary fractions of decimal numbers (e.g. 15⁄16). Hardcoded fractions: ¼, ½, ¾, ⅐, ⅑, ⅒, ⅓, ⅔, ⅕, ⅖, ⅗, ⅘, ⅙, ⅚, ⅛, ⅜, ⅝, ⅞, ⅟ and ↉.	/	Slash
+∕	Division slash				Indicates a division operation (e.g. 3.14∕2n).	        /	Slash
+
+curl https://musicbrainz.org/artist/22a1f4d7-81ff-4216-ac06-3387da6bc118 -H "Accept: application/ld+json"
+
+http://www.disckid.nl/pages/56299/Home.html
+
+http://www.fire-sale-lots.com/store/+/springsteen-vinyl.html
+
+http://vivalesbootlegs.blogspot.de/2014/06/bruce-springsteen-and-band-played-agora.html
+
+http://www.connect-ed.de/%7Ekarltoms/offiziell/titel.html (deutsche veröffentlicheungen)
+
+Popsike.com: http://www.popsike.com/php/quicksearch.php?searchtext=bruce+springsteen
+
+The Castilles - https://books.google.de/books?id=SxRHjLl2HaUC&pg=PA185&lpg=PA185&dq=vinnie+manniello+springsteen&source=bl&ots=UkoUZvTnSf&sig=BzBZhK8V0h7tbgpp8UnGn9U8Hgg&hl=en&sa=X&redir_esc=y#v=onepage&q=vinnie%20manniello%20springsteen&f=false
+
+Edit #17260071 - Edit relationship
+
+~ Edit by murdos_bot (bot)
+Add Note
+Relationship: 	Circle (live, 1979-12-05: Coffee With Harry: The Cleveland Agora, Cleveland, OH, USA) by Harry Chapin is a live recording of Circles
+Circle (live, 1979-12-05: Coffee With Harry: The Cleveland Agora, Cleveland, OH, USA) by Harry Chapin is a live recording of Circles on 1979-12-05
+murdos_bot
+2012-04-14 22:54 CEST
+(bot)
+Setting relationship dates from recording comment: "live, 1979-12-05: Coffee With Harry: The Cleveland Agora, Cleveland, OH, USA"
+
+
+''Lyrics:'' [http://www.springsteenlyrics.com/lyrics.php?song=angelsblues|springsteenlyrics.com]
+
+
+''Studio and Session Info:'' [http://brucebase.wikispaces.com/The+Wild%2C+The+Innocent+%26+The+E+Street+Shuffle+-+Studio+Sessions|The Wild, The Innocent & The E Street Shuffle - Studio Sessions]|[http://brucebase.wikispaces.com/The+Promise+-+Studio+Sessions|The Promise]|''Lyrics:'' [http://www.springsteenlyrics.com/lyrics.php?song=fire|springsteenlyrics.com]|[http://www.brucespringsteen.it/DB/sd3.aspx?sid=168|brucespringsteen.it]|[http://brucebase.wikispaces.com/Fire|All known Springsteen live performances]
+
+''Studio and Session Info:'' [http://brucebase.wikispaces.com/The+Wild%2C+The+Innocent+%26+The+E+Street+Shuffle+-+Studio+Sessions|The Wild, The Innocent & The E Street Shuffle - Studio Sessions]|''Lyrics:'' [http://www.springsteenlyrics.com/lyrics.php?song=angelsblues|springsteenlyrics.com], [http://www.brucespringsteen.it/DB/sd3.aspx?sid=514|brucespringsteen.it]|[https://brucebase.wikispaces.com/Angel%27s+Blues|All known Springsteen live performances]
+
+
+Artist:
+ | See also: [[http://musicbrainz.org/artist/7e4bfa5f-a8b8-4fb0-81b5-f74f6ac72133|MusicBrainz]]
+Venue: 
+ | See also: [[http://musicbrainz.org/place/6a59a67c-fcc5-491f-949c-bfc45bc97463|MusicBrainz]]
+Song:
+//See also: [[http://musicbrainz.org/work/9893a23c-f282-3b07-a2db-b4f2f3b9f4b2|MusicBrainz]]//
+
+
+
+http://musicbrainz.org/event/2b5f8899-bb5a-47af-9e5d-ac93c09047c7
+ 
+ 
+[http://brucebase.wikispaces.com/2002#041202|Brucebase gig page]
+“”
+
+"Love Of The Common People" from this show is officially released on the Live In Dublin CD and DVD.
+ 
+Audio recording of "Bring 'em Home" (minus the spoken intro) from this show was first 
+officially released on We Shall Overcome: The Seeger Sessions - American Land Edition album in 2006.
+
+Audio recording of "American Land" was released as a bonus track on the We Shall Overcome: The Seeger Sessions - American Land Edition album in 2006. 
+A music video for the same performance was also included on the DVD accompanying the album.
+
+Video for this version of "Bring 'em Home" (minus the spoken intro) was included on the DVD accompanying the 
+We Shall Overcome: The Seeger Sessions - American Land Edition album in 2006. 
+
+murdos_bot: Please run script to set dates to live recording relationships
+Could you run your script to set dates to live recording relationships, 
+using normalized live recording comments again. 
+I made lots of entries for Bruce Springsteen which could benefit from it
+
+Thanks
+  Volker
+
+It’s now in the "reviews" relationship
+
+[http://www.springsteenlyrics.com/collection.php?item=5269|Releases from springsteenlyrics.com]
+
+
+Style guide for "Featured artists" see https://musicbrainz.org/doc/Style/Artist_Credits/Featured_artists
+
+Style guide for "Parts of titles inside parentheses" in http://musicbrainz.org/doc/Style/Language/English
+
+Style guide for "Tracks that do not contain songs and that are not named by the artist", you can enter a descriptive name between brackets in all lowercase 
+(see "Untitled tracks" in https://musicbrainz.org/doc/Style/Unknown_and_untitled/Special_purpose_track_title)
+
+Style guide, majority - https://musicbrainz.org/doc/Style/Recording
+
+Style guide for "Titles of live recordings" in https://musicbrainz.org/doc/Style/Specific_types_of_releases/Live_bootlegs
+
+Style guide for "Titles of live release groups" in https://musicbrainz.org/doc/Style/Specific_types_of_releases/Live_bootlegs
+Other releases from the same event will be added soon
+see http://www.jungleland.it/html/artwork.htm
+
+Title taken from cover, event info now in release group name, see "Titles of live release groups" in https://musicbrainz.org/doc/Style/Specific_types_of_releases/Live_bootlegs
+
+Style guide for "recording disambiguation comment" in "Disambiguation of live recordings" at https://musicbrainz.org/doc/Style/Recording
+
+Style guide for "Multiple titles / Splits" in https://musicbrainz.org/doc/Style/Titles
+
+Made an error during initial editing by choosing the wrong relationship type
+This is actually of type "recording location for:" and NOT "available releases:"
+See also https://musicbrainz.org/edit/37191822
+
+brucebase is considered the single source of truth
+
+Made an error during my first edit
+
+Align with the rest of Springsteen releases
+
+Have to edit it like this otherwise it shows up as two entries on the events page of the artist
+
+################ Brucebase
+
+To: brucebase.wiki@gmail.com
+To: peterussell727@gmail.com
+CC: vzell@volkerzell.de
+Subject: 
+From: "Volker Zell" <vzell@volkerzell.de>
+--text follows this line--
+Hi
+
+It seems the official name is ""
+
+See also
+
+ o 
+ o 
+ o 
+
+Would you mind changing this at
+
+ o http://brucebase.wikispaces.com/Songlist#sectM
+ o http://brucebase.wikispaces.com/1984#141284
+ o http://brucebase.wikispaces.com/Memphis+Tennessee
+
+Thanks
+  Volker
+
+
+##############################
+  
+
+To: peterussell727@gmail.com
+CC: vzell@volkerzell.de
+Subject: 
+From: "Volker Zell" <vzell@volkerzell.de>
+--text follows this line--
+Hi
+
+Which song at
+
+ o 
+
+is ""
+
+Maybe this one
+
+ o 
+
+Thanks
+  Volker
+
+################ Springsteenlyrics
+
+To: Eddy Wehbe <webmaster@springsteenlyrics.com>
+CC: vzell@volkerzell.de
+Subject: 
+From: "Volker Zell" <vzell@volkerzell.de>
+--text follows this line--
+Hi
+
+It seems the official name is ""
+
+See also
+
+ o 
+ o 
+ o 
+
+Would you mind changing this on
+
+ o http://www.springsteenlyrics.com/lyrics.php?song=
+
+Thanks
+  Volker
+
+
+#################
+
+https://rateyourmusic.com/~vzell - &rateyourmusic$1
+http://www.setlist.fm/user/vzell - &setlistfm$1
+http://www.bootlegzone.com/user.php?action=profile - &bootlegzone$1
+
+
+http://www.springsteenlyrics.com/trading/index.php?category=cdcomp
+* http://crystal-dog.blogspot.de/2011/11/bruce-springsteen-e-street-band_21.html
+
+* BRUCE SPRINGSTEEN COVER SONG DISCOGRAPHY - a list of songs written & co-written by Bruce Springsteen that have been recorded by others.
+
+http://nebraska_99.tripod.com/covermehome.html
+
+* Official album links
+
+http://www.brucespringsteen.it/Disco/Albums.htm
+http://www.brucespringsteen.it/Discox.htm
+
+* Rate Your Music
+
+http://rateyourmusic.com/release/album/bruce_springsteen/the_wild__the_innocent_and_the_e_street_shuffle_f8/
+
+######################
+
+Links to Covers: http://www.angelfire.com/art2/jsjoyceartwork/artlinks.html
+-> http://jhowlett.users4.50megs.com/brucetrade/artwork_links.htm
+
+https://coverartarchive.org/release/c9ed3246-00ac-48ff-8beb-e14e65ff2580
+
+Reviews + Bootlegs + Cover: http://www.collectorsmusicreviews.com/springsteen-bruce/
+
+* MP3 Downloads
+
+http://6082.unknownsecret.info/mp3/Bruce+Springsteen/Grand+Collection/
+
+
+’
+-
+Tenth Avenue Freeze-Out
+
+http://brucebase.wikispaces.com/1996#121296
+http://www.greasylake.org/setlists_show_record.php?id=7&ID=1280&s_tour=The+Ghost+of+Tom+Joad+Tour&concert_date=1996-12-12&venue=Ryman+Auditorium&city=Nashville&statecountry=TN&concert_id=1280&login=
+http://www.brucespringsteen.it/DB/mn.aspx?yr=1996&mt=12#199612121
+
+    
+http://musicbrainz.org/event/f575f533-e6ba-41b0-aa79-855ba2e7c9e6 - Patti Scialfa 2 times listed as performer
+http://musicbrainz.org/artist/7bef92eb-f2b1-4790-935a-6e411eff406e/relationships - artsists listed multiple times
+
+For You   - f73ef1a9-33fe-3f8c-8c87-16e4c0469382
+The River - fe0f14e5-de68-3aa6-bf48-80c4cbe2a1f7
+Fire      - f3f7023a-4486-3341-bac8-b479443da96f
+Mona      - 2e0de115-e833-3b42-8fba-b20314b0284f
+Gloria    - 5923fa49-79c3-4251-84fe-d54a1ed9db86
+Night     - 23669454-daab-4b99-bd87-d051b61d2d98
+’
+[http://brucebase.wikispaces.com/Greatest+Hits+-+Studio+Sessions|Studio and Session Info]
+[http://www.springsteenlyrics.com/lyrics.php?song=shessurethegirlilove|Lyrics from springsteenlyrics.com]
+[http://www.brucespringsteen.it/DB/sd3.aspx?sid=515|Lyrics from brucespringsteen.it]
+[http://brucebase.wikispaces.com/She's+Sure+The+Girl+I+Love|All known live performances]
+[http://brucebase.wikispaces.com/I+Ain%27t+Got+No+Home|All known live performances (Bruce Springsteen)]
+
+http://brucebase.wikispaces.com/Darkness+On+The+Edge+Of+Town+-+Studio+Sessions
+http://www.springsteenlyrics.com/lyrics/i/ihearatrain.php
+http://www.brucespringsteen.it/DB/sd3.aspx?sid=729#VRS2
+http://brucebase.wikispaces.com/In+Michigan
+
+[http://brucebase.wikispaces.com/The+E+Street+Horns|Brucebase]
+
+@ [70248960-cb53-4ea4-943a-edb18f7d336f|Bruce Springsteen]
+# &
+@ [d6652e7b-33fe-49ef-8336-4c863b4f996f|The E Street Band]
+2013-07-11: Ippodromo Delle Capannelle, Rome, Italy
+
+’
+[http://brucebase.wikispaces.com/1999#020599|Brucebase gig page]
+
+[http://brucebase.wikispaces.com/1974#140774|Brucebase gig page]
+[http://www.greasylake.org/setlists_show_record.php?id=22&ID=327&s_tour=The+Wild%2C+the+Innocent+%26+the+E+Street+Shuffle+Tour&concert_date=1974-07-14&venue=The+Bottom+Line&city=New+York&statecountry=NY&concert_id=327|Greasy Lake gig page]
+
+
+Could you upload front and back cover images if possible, thanks.
+Uploaded with much higher resolution
+Uploaded with higher resolution
+http://a3.mzstatic.com/us/r30/Music/v4/ec/3a/c3/ec3ac326-129a-0264-997a-b752af3583a0/cover1200x1200.jpeg
+
+http://brucebase.wikispaces.com/1996#130396
+http://brucebase.wikispaces.com/2000#010700
+http://www.springsteenlyrics.com/collection/moreinfo.php?item=6594&height=500&width=700
+
+’
+[http://www.springsteenlyrics.com/collection.php?item=4902|Releases from springsteenlyrics.com]
+[https://brucebase.wikispaces.com/Missing+Tracks+Vol.+One|Brucebase bootlegs]
+[http://bruceboots.com/bootlegs/river/19810820-AsDreamsDon'tMeanNothing/19810820-AsDreamsDon'tMeanNothing.html|Bootlegs from bruceboots.com]
+[http://springsteenbootlegs.blogspot.com.es/2011/10/love-soul-broken-heart.html|Bootlegs from springsteenbootlegs.blogspot.com.es]
+[http://bootlegzone.com/album.php?name=PH6|Bootlegs from bootlegzone.com]
+[http://bootlegpedia.com/en/product/G.R._191|Bootlegs from bootlegpedia.com]
+[http://www.giginjapan.com/bruce-springsteen-first-night-of-river-tour|Bootlegs from giginjapan.com]
+[http://www.springsteenlyrics.com/bootlegs.php?item=5195|Bootlegs from springsteenlyrics.com]
+[http://www.brucespringsteen.it/DB/detrec.aspx?code=CDSITC1|Bootlegs from brucespringsteen.it]
+[http://www.jungleland.it/html/20001217_5.htm|Bootlegs from www.jungleland.it/]
+
+# Bootlegs
+http://springsteenbootlegcollection.com/category/ev2/
+http://springsteenbootlegcollection.com/tag/bootleg/
+http://www.giginjapan.com/category/bruce-springsteen-the-e-street-band/
+http://www.guitars101.com/forums/f90/bruce-springsteen-san-siro-stadium-milan-3-june-2013-godfatherecords-895-896-897-a-162692.html
+http://www.brucetapes.com/1979.html
+http://brucetapes.com/2012/04/page/3/
+http://www.amoeba.com/vol-1-winterland-night-1978-lp-bruce-springsteen/albums/3697545/
+http://bootlegpedia.com/en/artist/Bruce-Springsteen
+http://www.bootlegzone.com/album.php?name=ansobscol
+
+# Artslink
+http://www.angelfire.com/art2/jsjoyceartwork/artlinks.html
+http://www.badlands.it/artwork/index.html
+
+# Torrents
+http://jungleland.dnsalias.com/account-login.php?returnto=%2Ftorrents-details.php%3Fid%3D34618%26hit%3D1
+http://www.bootlegzone.com/index.php?faq=1
+http://vgd.no/musikk-tv-og-film/musikk/tema/1359911/tittel/springsteen-magic-tour-boots-older-boots/side/2
+http://lostintheflood.com/security/register.php
+
+Just double checked with my own copy, CD listing is actually right...don't know why I messed it up in the first place
+
+Put into annotations
+
+Release Group:  
+1973-01-31: Max’s Kansas City, New York City, NY, USA
+
+Release: 
+Max's Kansas City Night
+
+
+Misunderstood relationship ... see https://musicbrainz.org/doc/Event (see also https://musicbrainz.org/edit/34441359)
+
+On http://brucebase.wikispaces.com/1978-05-30+-+MUSIC+HALL%2C+BOSTON%2C+MA
+the link for "Info & Setlist" must point to http://brucebase.wikispaces.com/1978#300578 and NOT http://brucebase.wikispaces.com/1978#30578
+
+http://www.springsteenlyrics.com/lyrics/r/rideonsweetwilliam.php
+
+Made an error during mass editing
+
+The underlying addition of a medium was voted against, but didn't get enough votes.
+I already added a relationship during the voting period so now we have an orphaned recording which I herby remove
+See also edit http://musicbrainz.org/edit/34455546
+
+[intro]
+
+[outro]
+
+https://en.wikipedia.org/wiki/Radio_Nowhere
+’
+[http://brucebase.wikispaces.com/The+Seeger+Sessions+-+Studio+Sessions|Studio and Session Info]
+[http://www.springsteenlyrics.com/lyrics.php?song=onceuponatimeinthewest|Lyrics from springsteenlyrics.com]
+[http://www.brucespringsteen.it/DB/sd3.aspx?sid=1101|Lyrics from brucespringsteen.it]
+[http://brucebase.wikispaces.com/Inside+The+Castle+Walls|All known live performances]
+
+http://brucebase.wikispaces.com/The+Seeger+Sessions+-+Studio+Sessions
+http://www.springsteenlyrics.com/lyrics/p/prettyboyfloyd.php
+http://www.brucespringsteen.it/DB/sd3.aspx?sid=1101
+http://brucebase.wikispaces.com/How+Can+A+Poor+Man+Stand+Such+Times+And+Live%3F
+
+http://bruce.orel.ws/seegersessions/songs/bring_them_home_notes.html
+
+Info also taken from booklet of Bruce Springsteens "We Shall Overcome: The Seeger Sessions"
+
+
+Please do NOT remove this relationship (it's an EVENT based one) whereas the other one http://musicbrainz.org/place/f9762d62-3fbd-4777-9dd5-e28e43f50a85 is a PLACE one.
+I took me a LOT of work to enter ALL these relationships.
+
+Check out http://musicbrainz.org/place/f9762d62-3fbd-4777-9dd5-e28e43f50a85
+The "event" relationship shows up under the "Events" tab http://musicbrainz.org/place/f9762d62-3fbd-4777-9dd5-e28e43f50a85/events
+and the "place" relationship under the "Performances" tab http://musicbrainz.org/place/f9762d62-3fbd-4777-9dd5-e28e43f50a85/performances
+
+
+https://wiki.musicbrainz.org/Proposal:Medley_Style
+
+[http://brucebase.wikispaces.com/The+Seeger+Sessions+-+Studio+Sessions|Studio and Session Info (Bruce Springsteen)]
+[http://www.springsteenlyrics.com/lyrics/h/hoboslullaby.php|Lyrics from springsteenlyrics.com (Bruce Springsteen)]
+[http://www.brucespringsteen.it/DB/sd3.aspx?sid=221|Lyrics from brucespringsteen.it (Bruce Springsteen)]
+[http://brucebase.wikispaces.com/Hobo%27s+Lullaby|All known live performances (Bruce Springsteen)]
+
+* ToDo
+
+’
+Split according the discussion in http://forums.musicbrainz.org/viewtopic.php?id=5747
+Because of the split according the discussion in http://forums.musicbrainz.org/viewtopic.php?id=5747
+70248960-cb53-4ea4-943a-edb18f7d336f - Bruce
+d6652e7b-33fe-49ef-8336-4c863b4f996f - The E Street Band
+
+
+We Shall Overcome: The Seeger Sessions (Deluxe Edition) - 5d297108-0717-42b1-81a9-579aa708830a
+https://musicbrainz.org/work/9cb737bc-1ad3-3324-b0d5-62512fb6bc7a - How Can a Poor Man Stand Such Times and Live? (Bruce Springsteen version)
+
+Someday, Tonight - https://musicbrainz.org/recording/ebc217e2-16da-49cf-98b1-13ff9ed8a4d0 (Someday (We’ll Be Together))
+
+Sad Eyes - ac150725-fd4c-371e-911e-18a8b139efa6
+Backstreets(Sad Eyes) - 1d6a209e-1101-451a-a51a-abad95bd6c92
+
+Johnny Bye-Bye - e2c39ab9-be7b-4248-af0f-383883d2714d
+By Bye Johnny  - 24ee6709-2d97-3059-89ec-8f189a287136
+Johnny Bye Bye - d49f9a8f-11bb-4471-90dc-6516a47b7ffd
+
+break out - all night long (are merged)
+change it - changing children (are merged)
+Come on Billy Break Up the Wine - Nothing Can Stop Me (are merged)
+
+Don't Do It to Me - 4bee4eab-e5ba-42e8-9edf-f80840b07f7e
+CHICKEN LIPS AND LIZARD HIPS
+Viva Las Vegas
+Detroit Medley
+Little Things - https://musicbrainz.org/work/194d9b68-306e-42b8-b9c8-126cfeacc238 => It’s the Little Things That Count - 6a8bc935-7d7e-4220-962d-e0f8adbce03e
+
+Sha-La-La - https://musicbrainz.org/work/53838f9a-6d1a-3dc3-bb15-40f80c4510e7 (writers not OK)
+Give My Love to Rose - https://musicbrainz.org/work/d0f2c6b0-1fbf-3fdd-9057-9e8774d51641
+Trapped (arrangement by Bruce Springsteen) - 58976436-655f-4cda-8aa7-2b3f45dc1bf2  (Trapped - 0c2b0780-c681-40ff-b2b6-9410f316e38d)
+Dream baby dream - 31a12e89-adca-4e07-a9d9-2a9af2381234  -> 89f180f3-1cf4-45cf-984f-77f93e81978e
+
+* smartPlaylist format
+
+If you pass this as the query: "<SmartPlaylist />", it will return all the items in the list.
+
+You can customize as well, for example, to return all the items containing "song" pass the query: "<SmartPlaylist><Source Type="1"><Conditions CombineMethod="All"><Condition Field="None" Comparison="Contains" Value="song" /></Conditions></Source></SmartPlaylist>"
+
+You can create more of these by create auto playlists in MusicBee and saving them, to find out how the smartPlaylist format works.
+
+* Discrepancy between panels -http://getmusicbee.com/forum/index.php?topic=13416.0;topicseen
+
+$If(<Lyric Status>="?","«lyrics not saved»",); $IsNull(<Full Filename>,<Title>,<Full Filename>)
+$If($Left($If(<Lyric Status>="?","«lyrics not saved»",);$IsNull(<Full Filename>,<Title>,<Full Filename>),1)=";",$Split($If(<Lyric Status>="?","«lyrics not saved»",);$IsNull(<Full Filename>,<Title>,<Full Filename>),;,2),$If(<Lyric Status>="?","«lyrics not saved»",)"; "$IsNull(<Full Filename>,<Title>,<Full Filename>))
+
+* MusicBrainz Track - http://musicbrainz.org/track/<TrackID>
+
+https://musicbrainz.org/ws/2/release-group?artist=f41490ce-fe39-435d-86c0-ab5ce098b423&inc=url-rels&offset=0
+
+http://forums.musicbrainz.org/viewtopic.php?id=5738
+
+$Replace($First($Split(<Misc>,ReleaseType:,2)),",",;)
+$First($Split(<Misc>,ReleaseType:,2))
+
+(<Writer>)
+<Musicians>
+<Involved>
+
+OK
+$If(<Composer>=<Lyricist>,$IsNull(<Composer>,,"("$Replace(<Composer>,;,",")")"),$IsNull(<Composer>,,"Writer: "$Replace(<Composer>,;,","));$IsNull(<Lyricist>,,"Lyrics: "$Replace(<Lyricist>,;,",")))$If($Replace($First($Split(<Misc>,ReleaseStatus:,2)),",",;)="bootleg",;$IsNull($First($Split(<Misc>,DateEvent:,2)),,$Replace($First($Split(<Misc>,DateEvent:,2)),",",;)": ")$IsNull($First($Split(<Misc>,Venue:,2)),,$Replace($First($Split(<Misc>,Venue:,2)),",",;)", ")$IsNull($First($Split(<Misc>,CityEvent:,2)),,$Replace($First($Split(<Misc>,CityEvent:,2)),",",;)", ")$IsNull($First($Split(<Misc>,StateEvent:,2)),,$Replace($First($Split(<Misc>,StateEvent:,2)),",",;)", ")$IsNull($First($Split(<Misc>,CountryEvent:,2)),,$Replace($First($Split(<Misc>,CountryEvent:,2)),",",;)),); $Replace($First($Split(<Misc>,WorkDesc:,2)),",",;)$IsNull($First($Split(<Misc>,TOPE:,2)),,"; by "$Replace($First($Split(<Misc>,TOPE:,2)),",",;))
+
+
+$Replace($First($Split(<Misc>,DateEvent:,2)),",",;): $Replace($First($Split(<Misc>,Venue:,2)),",",;), $Replace($First($Split(<Misc>,CityEvent:,2)),",",;), $Replace($First($Split(<Misc>,CountryEvent:,2)),",",;)
+$If($Replace($First($Split(<Misc>,ReleaseStatus:,2)),",",;)=bootleg,$Replace($First($Split(<Misc>,DateEvent:,2)),",",;)": "$Replace($First($Split(<Misc>,Venue:,2)),",",;)", "$Replace($First($Split(<Misc>,CityEvent:,2)),",",;)", "$Replace($First($Split(<Misc>,CountryEvent:,2)),",",;),)
+
+(<Original Year> / <Year (yyyy)>)
+$If(<Original Year>=<Year (yyyy)>,"("<Original Year>")","("<Original Year>/<Year (yyyy)>")")
+$If(<Original Year>=<Year (yyyy)>,$IsNull(<Original Year>,,"("<Original Year>")"),"("<Original Year>/<Year (yyyy)>")")
+$If(<Original Year>=<Year (yyyy)>,$IsNull(<Original Year>,,"("<Original Year>")"),"("<Original Year>/<Year (yyyy)>")")$IsNull(<Publisher>,, - <Publisher>)$IsNull(<ReleaseCountry>,,", "<ReleaseCountry>)$IsNull(<ReleaseStatus>,,", "<ReleaseStatus>)$IsNull(<ReleaseType>,,", "$Replace(<ReleaseType>,";",","))
+
+$If(<Composer>=<Lyricist>,"("$Replace(<Composer>,;,",")")","Composer: "$Replace(<Composer>,";",",");"Lyricist: "$Replace(<Lyricist>,";",","))
+$If(<Composer>=<Lyricist>,"("$Replace(<Composer>,;,",")")","Composer: "$Replace(<Composer>,";",",");$IsNull(<Lyricist>,,"Lyricist: "$Replace(<Lyricist>,";",",")))
+$If(<Composer>=<Lyricist>,"("$Replace(<Composer>,;,",")")",$IsNull(<Composer>,,"Composer: "$Replace(<Composer>,";",","));$IsNull(<Lyricist>,,"Lyricist: "$Replace(<Lyricist>,";",",")))
+
+
+$If(<Composer>=<Lyricist>,"("$Replace(<Composer>,;,",")")",$IsNull(<Composer>,,"Composer: "$Replace(<Composer>,";",","));$IsNull(<Lyricist>,,"Lyricist: "$Replace(<Lyricist>,";",",")));$If($Replace($First($Split(<Misc>,ReleaseStatus:,2)),",",;)=bootleg,$Replace($First($Split(<Misc>,DateEvent:,2)),",",;)": "$Replace($First($Split(<Misc>,Venue:,2)),",",;)", "$Replace($First($Split(<Misc>,CityEvent:,2)),",",;)", "$Replace($First($Split(<Misc>,CountryEvent:,2)),",",;),)
+$If(<Composer>=<Lyricist>,$IsNull(<Composer>,,"("$Replace(<Composer>,;,",")")"),$IsNull(<Composer>,,"Composer: "$Replace(<Composer>,";",","));$IsNull(<Lyricist>,,"Lyricist: "$Replace(<Lyricist>,";",",")));$If($Replace($First($Split(<Misc>,ReleaseStatus:,2)),",",;)=bootleg,$Replace($First($Split(<Misc>,DateEvent:,2)),",",;)": "$Replace($First($Split(<Misc>,Venue:,2)),",",;)", "$Replace($First($Split(<Misc>,CityEvent:,2)),",",;)", "$Replace($First($Split(<Misc>,CountryEvent:,2)),",",;),)
+$If(<Composer>=<Lyricist>,$IsNull(<Composer>,,"("$Replace(<Composer>,;,",")")"),$IsNull(<Composer>,,"Comp.: "$Replace(<Composer>,";",","));$IsNull(<Lyricist>,,"Lyrics: "$Replace(<Lyricist>,";",",")))$If($Replace($First($Split(<Misc>,ReleaseStatus:,2)),",",;)=bootleg,;$Replace($First($Split(<Misc>,DateEvent:,2)),",",;)": "$Replace($First($Split(<Misc>,Venue:,2)),",",;)", "$Replace($First($Split(<Misc>,CityEvent:,2)),",",;)", "$Replace($First($Split(<Misc>,CountryEvent:,2)),",",;),)
+
+
+$If(<Composer>=<Lyricist>,$IsNull(<Composer>,,"("$Replace(<Composer>,;,",")")"),$IsNull(<Composer>,,"Writer: "$Replace(<Composer>,;,","));$IsNull(<Lyricist>,,"Lyrics: "$Replace(<Lyricist>,;,",")))$If($Replace($First($Split(<Misc>,ReleaseStatus:,2)),",",;)="bootleg",;$Replace($First($Split(<Misc>,DateEvent:,2)),",",;)": "$Replace($First($Split(<Misc>,Venue:,2)),",",;)", "$Replace($First($Split(<Misc>,CityEvent:,2)),",",;)", "$Replace($First($Split(<Misc>,CountryEvent:,2)),",",;),)
+
+Virtual Tags:
+Featuring Artist   - $Replace($Replace($Split($Split(<Artist>,Featuring,2),")",1),",",&),&,;)
+Duplicate Filename - $If($Left($Right($Replace(<Filename>,.<.Ext>,),2),1)="_",Y,)
+Writer             - Composer: $Replace(<Composer>,;,",");Lyricist: $Replace(<Lyricist>,;,",")
+
+
+
+$IsNull(<ReleaseType>,,"ReleaseType: "<ReleaseType>);$IsNull(<ReleaseStatus>,,"ReleaseStatus: "<ReleaseStatus>);$IsNull(<ReleaseCountry>,,"ReleaseCountry: "<ReleaseCountry>);
+
+$IsNull(<ReleaseStatus>,,"ReleaseStatus: "<ReleaseStatus>);
+$IsNull(<ReleaseCountry>,,"ReleaseCountry: "<ReleaseCountry>);
+
+
+$IsNull($Split(<Arranger>,;,1),,$Split(<Arranger>,;,1)": "$Split(<Arranger>,;,2);)$IsNull($Split(<Arranger>,;,3),,$Split(<Arranger>,;,3)": "$Split(<Arranger>,;,4);)$IsNull($Split(<Arranger>,;,5),,$Split(<Arranger>,;,5)": "$Split(<Arranger>,;,6);)$IsNull($Split(<Arranger>,;,7),,$Split(<Arranger>,;,7)": "$Split(<Arranger>,;,8);)$IsNull($Split(<Arranger>,;,9),,$Split(<Arranger>,;,9)": "$Split(<Arranger>,;,10);)$IsNull($Split(<Arranger>,;,11),,$Split(<Arranger>,;,11)": "$Split(<Arranger>,;,12);)$IsNull($Split(<Arranger>,;,13),,$Split(<Arranger>,;,13)": "$Split(<Arranger>,;,14);)$IsNull($Split(<Arranger>,;,15),,$Split(<Arranger>,;,15)": "$Split(<Arranger>,;,16);)$IsNull($Split(<Arranger>,;,17),,$Split(<Arranger>,;,17)": "$Split(<Arranger>,;,18);)$IsNull($Split(<Arranger>,;,19),,$Split(<Arranger>,;,19)": "$Split(<Arranger>,;,20);)$IsNull($Split(<Arranger>,;,21),,$Split(<Arranger>,;,21)": "$Split(<Arranger>,;,22);)$IsNull($Split(<Arranger>,;,23),,$Split(<Arranger>,;,23)": "$Split(<Arranger>,;,24);)$IsNull($Split(<Arranger>,;,25),,$Split(<Arranger>,;,25)": "$Split(<Arranger>,;,26);)$IsNull($Split(<Arranger>,;,27),,$Split(<Arranger>,;,27)": "$Split(<Arranger>,;,28);)$IsNull($Split(<Arranger>,;,29),,$Split(<Arranger>,;,29)": "$Split(<Arranger>,;,30);)$IsNull($Split(<Arranger>,;,31),,$Split(<Arranger>,;,31)": "$Split(<Arranger>,;,32);)
+
+$copymerge(composer,writer)
+$copymerge(lyricist,writer)
+$unset(writer)
+
+$set(MusicBrainz Recording Id,%musicbrainz_recordingid%)
+
+* ToDo
+
+images: 
+1985-07-04: Wembley Stadium, London, UK
+Born to Be the Boss
+
+More of My Favorite Love Songs 2013
+
+~ Release by Pete Wyoming Bender (see all versions of this release, 1 available)
+
+9 	You Dont't Know Me 
+
+*
+
+CD in hand
+
+CD in hand, taken from inlay credits
+
+CD in hand, taken from medium credits
+
+CD in hand, taken from back credits
+
+
+id3v2.exe -c "desc1:comment1:eng" 06\ Without\ You.mp3
+
+
+
+Single Artist File Naming Format
+
+$replace($if($eq($left($if2(%albumartist%,%artist%),4),The ),[-=$left($right($if2(%albumartist%,%artist%),$sub($len($if2(%albumartist%,%artist%)),4)),1)=-],[-=$left($if2(%albumartist%,%artist%),1)=-])/$rreplace($replace($if2(%albumartist%,%artist%),...,…),\\.\$,$noop(.))/$if(%date%,[$left(%date%,4)] )$rreplace($replace(%album%,...,…),\\.\$,$noop(.))/$num(%tracknumber%,2) - $replace(%title%,...,…),_,$noop(.))
+
+So... What does it do?
+1. All files will be placed into this folder structure:
+[-=First Letter of ArtistName=-]\ArtistName\[Year] AlbumName\TrackNumber - TrackName
+2. The [Year] portion will be omitted from the AlbumName if there is no release date
+3. If the ArtistName starts with "The ", it will take this into account when determining the [-=First Letter of ArtistName=-]
+4. If the ArtistName, AlbumName or TrackName contain a three-dot "..." sequence, it will be replaced with a true ellipsis "…"
+5. If the ArtistName or AlbumName ends in a dot "." then that dot will be removed
+6. Finally, any and all underscores "_" will be removed from the entire path
+
+Example #1: ArtistName Ends in Dot "."
+Sixx:A.M. > The Heroin Diaries > Life is Beautiful
+[-=S=-]\SixxA.M\[2007] The Heroin Diaries Soundtrack\03 - Life Is Beautiful.mp3
+
+Example #2: AlbumName, TrackName Contain Three-Dot "..." Sequence
+Metallica > ...And Justice For All > ...And Justice For All
+[-=M=-]\Metallica\[1988] …and Justice for All\02 - …and Justice for All.mp3
+
+Example #3: ArtistName Begins With "The "
+The Fabulous Thunderbirds > Hot Stuff > Powerful Stuff
+[-=F=-]\The Fabulous Thunderbirds\[1992] Hot Stuff The Greatest Hits\08 - Powerful Stuff.mp3
+
+Multiple Artist File Naming Format
+
+$replace($if($eq(%albumartist%,Various Artists),[~Various Artists~]/,$if($eq($left($if2(%albumartist%,%artist%),4),The ),[-=$left($right($if2(%albumartist%,%artist%),$sub($len($if2(%albumartist%,%artist%)),4)),1)=-],[-=$left($if2(%albumartist%,%artist%),1)=-])/$rreplace($replace($if2(%albumartist%,%artist%),...,…),\\.\$,$noop(.))/$if($ne(%albumartist%,Various Artists),$if(%date%,[$left(%date%,4)] )))$rreplace($replace(%album%,...,…),\\.\$,$noop(.))/$num(%tracknumber%,2) - $replace(%artist% - %title%,...,…),_,$noop(.))
+
+So... What does it do?
+1. Multi-artist albums attributed to "Various Artists" will have files placed into this folder structure:
+[~Various Artists~]\AlbumName\TrackNumber - ArtistName - TrackName
+2. Multi-artist albums attributed to a specific artist will have files placed into this folder structure:
+[-=First Letter of AlbumArtistName=-]\AlbumArtistName\[Year] AlbumName\TrackNumber - ArtistName - TrackName
+3. See Rules 2-6 for Single Artist Format above.
+
+Example #1: Multi-Artist Album Attributed to Various Artists
+Various Artists > Transformers Soundtrack > Mute Math > Transformers Theme
+[~Various Artists~]\Transformers The Album\12 - Mute Math - Transformers Theme.mp3
+
+Example #2: Multi-Artist Album Attributed to Specific Artist, ArtistName Begins With "The "
+The Crystal Method > Community Service > Evil Nine > Cake Hole
+[-=C=-]\The Crystal Method\[2002] Community Service\02 - Evil Nine - Cake Hole.mp3
+
+Example #3: Multi-Artist Album Attributed to Specific Artist, AlbumName Ends in Dot "."
+Yoko Kanno > Ghost in the Shell: Stand Alone Complex Original Soundtrack > Origa > Inner Universe
+[-=Y=-]\Yoko Kanno\[2003] Ghost in the Shell Stand Alone Complex O.S.T\11 - ORIGA - Inner Universe.mp3
+
+I hope people can use this or are at least inspired by this to contribute their own customised code. Again, thanks for your help, outsidecontext.
+
+-----------
+
+
+
+UllicPendragon (and everyone else in this thread), thank you so much for sharing your code! This is a mod of the Single Artist File Naming Format code posted above by UllicPendragon.
+
+For personal preference, when moving files, I wanted the folders named slightly differently than what was posted above:
+1. I wanted the "Artist's Name" folder to be the first in the folder tree, and do away with the first-letter-of-the-artist's-name folder.
+2. I didn't want the year to appear in the Album Name folder
+
+Thus, I just deleted the parts of the code I didn't want, so all the credit for this code goes to UllicPendragon, and the only reason I'm posting this is just in case anyone else whose as clueless as I am wanted a copy/paste solution for this particular modification since this seemed to work for me.
+
+$replace($if($eq($left($if2(%albumartist%,%artist%),4),The ),)/$rreplace($replace($if2(%albumartist%,%artist%),...,…),\\.\$,$noop(.))/$rreplace($replace(%album%,...,…),\\.\$,$noop(.))/$num(%tracknumber%,2) - $replace(%title%,...,…),_,$noop(.))
+
+Example folder structure before:
+[-=B=-]\The Beatles\[1965] Help!\07 - Ticket To Ride.mp3
+
+Example folder structure after:
+The Beatles\Help!\07 - Ticket To Ride.mp3
+
+Hope it works!
+
+--------------
+
+$set(true,-1)
+$set(false,0)
+$set(IsMusicBrainz,%true%)
+$set(SpecialReleaseType,%false%)
+$if2(
+    $if($eq($len(%musicbrainz_albumid%),0),Music - No MBID$set(IsMusicBrainz,%false%)),
+    $if($eq(%releasetype%,live),Music - Live),
+    $if(
+        $or(
+            $or(
+                $eq(%releasetype%,spokenword),
+                $eq(%releasetype%,audiobook)
+            ),
+            $eq(%releasetype%,interview)
+        ),Spoken Word
+    ),
+    $if($eq(%releasetype%,soundtrack),Music - Soundtrack),
+    $if($in(%album%,Promo Only), Music - Promo Only$set(IsMusicBrainz,%false%)),
+    $if(
+        $and(
+            $lt($matchedtracks(),%totaltracks%),
+            $lt($matchedtracks(),60)
+        ),Music - Incomplete Releases),
+    Music$if(%releasetype%,$set(SpecialReleaseType,%true%))
+)/
+
+$if2(%albumartist%,%artist%)/
+
+%album%
+$if(%releasecountry%, - %releasecountry%)
+$noop($if(%SpecialReleaseType%, - %releasetype%))
+
+$if(%IsMusicBrainz%,
+    $set(_y_,$if2($left(%originaldate%,4),$left(%date%,4)))
+    $if($in(%album%,%_y_%),, - %_y_%)
+)/
+
+%tracknumber%
+$if($ne(%artist%,%albumartist%), - %artist%)
+ - %title%
+ 
+----------
+
+$copymerge(composer,writer)
+$copymerge(lyricist,writer)
+$unset(writer)
+
+
+$if(%composer%,$set(comment:,$get(comment:)Composed by: %composer%
+))
+$if(%arranger%,$set(comment:,$get(comment:)Arranged by: %arranger%
+))
+$if(%conductor%,$set(comment:,$get(comment:)Conducted by: %conductor%
+))
+$if(%lyricist%,$set(comment:,$get(comment:)Lyrics by: %lyricist%
+))
+$if(%producer%,$set(comment:,$get(comment:)Produced by: %producer%
+))
+$if(%mixer%,$set(comment:,$get(comment:)Mixed by: %mixer%
+))
+$if(%remixer%,$set(comment:,$get(comment:)Remixed by: %remixer%
+))
+$if(%djmixer%,$set(comment:,$get(comment:)DJ Mixed by: %djmixer%
+))
+$if(%engineer%,$set(comment:,$get(comment:)Engineered by: %engineer%
+))
+$if($get(performer:vocals),$set(comment:,$get(comment:)Vocals Sung by: $get(performer:vocals)
+))
+$if($get(performer:vocal),$set(comment:,$get(comment:)Vocal Sung by: $get(performer:vocal)
+))
+$if($get(performer:guitar),$set(comment:,$get(comment:)Guitar Played by: $get(performer:guitar)
+))
+$if($get(performer:acoustic guitar),$set(comment:,$get(comment:)Acoustic Guitar Played by: $get(performer:acoustic guitar)
+))
+$if($get(performer:electric guitar),$set(comment:,$get(comment:)Electric Guitar Played by: $get(performer:electric guitar)
+))
+$if($get(performer:bass guitar),$set(comment:,$get(comment:)Bass Guitar Played by: $get(performer:bass guitar)
+))
+$if($get(performer:additional guitar),$set(comment:,$get(comment:)Additional Guitar Played by: $get(performer:additional guitar)
+))
+$if($get(performer:violin),$set(comment:,$get(comment:)Violin Played by: $get(performer:violin)
+))
+$if($get(performer:drums),$set(comment:,$get(comment:)Drums Played by: $get(performer:drums)
+))
+$if($get(performer:piano),$set(comment:,$get(comment:)Piano Played by: $get(performer:piano)
+))
+$if($get(performer:trumpet),$set(comment:,$get(comment:)Trumpet Played by: $get(performer:trumpet)
+))
+$if($get(performer:keyboard),$set(comment:,$get(comment:)Keyboards Played by: $get(performer:keyboard)
+))
+$if($get(performer:guest violin and viola),$set(comment:,$get(comment:)Guest Violin and Viola: $get(performer:guest violin and viola)
+))
+$if($get(performer:flute),$set(comment:,$get(comment:)Flute Played by: $get(performer:flute)
+))
+
+
+$if2(%albumartist%,%artist%)/%album%$if($gt(%totaldiscs%,1), \(CD $num(%discnumber%,1)\))/$num(%tracknumber%,2) %title%
+$if2(%albumartist%,%artist%)/%album%$if($gt(%totaldiscs%,1),/CD$num(%discnumber%,1))/$num(%tracknumber%,2) %title%
+$if2(%albumartist%,%artist%)/%album%/$if($gt(%totaldiscs%,1),%discnumber%-,)$num(%tracknumber%,2)$if(%compilation%, %artist% -,) %title%
+$if2(%albumartist%,%artist%)/%album%/$if($gt(%totaldiscs%,1),%discnumber%-,)$num(%tracknumber%,2) %title%
+
+
+$rreplace($rreplace($if2(%albumartist%,%artist%)/%album%/$num(%tracknumber%,2) - %title%,["*:<>?|_], ),\\s+, )
+
+
+
+live, 1988-06-18: Château de Vincennes, Vincennes, FR
+
+$IsNull($Split(<Arranger>,;,1),,$Split(<Arranger>,;,1)": "$Split(<Arranger>,;,2);)$IsNull($Split(<Arranger>,;,3),,$Split(<Arranger>,;,3)": "$Split(<Arranger>,;,4);)$IsNull($Split(<Arranger>,;,5),,$Split(<Arranger>,;,5)": "$Split(<Arranger>,;,6);)$IsNull($Split(<Arranger>,;,7),,$Split(<Arranger>,;,7)": "$Split(<Arranger>,;,8);)$IsNull($Split(<Arranger>,;,9),,$Split(<Arranger>,;,9)": "$Split(<Arranger>,;,10);)$IsNull($Split(<Arranger>,;,11),,$Split(<Arranger>,;,11)": "$Split(<Arranger>,;,12);)$IsNull($Split(<Arranger>,;,13),,$Split(<Arranger>,;,13)": "$Split(<Arranger>,;,14);)$IsNull($Split(<Arranger>,;,15),,$Split(<Arranger>,;,15)": "$Split(<Arranger>,;,16);)$IsNull($Split(<Arranger>,;,17),,$Split(<Arranger>,;,17)": "$Split(<Arranger>,;,18);)$IsNull($Split(<Arranger>,;,19),,$Split(<Arranger>,;,19)": "$Split(<Arranger>,;,20);)$IsNull($Split(<Arranger>,;,21),,$Split(<Arranger>,;,21)": "$Split(<Arranger>,;,22);)$IsNull($Split(<Arranger>,;,23),,$Split(<Arranger>,;,23)": "$Split(<Arranger>,;,24);)$IsNull($Split(<Arranger>,;,25),,$Split(<Arranger>,;,25)": "$Split(<Arranger>,;,26);)$IsNull($Split(<Arranger>,;,27),,$Split(<Arranger>,;,27)": "$Split(<Arranger>,;,28);)$IsNull($Split(<Arranger>,;,29),,$Split(<Arranger>,;,29)": "$Split(<Arranger>,;,30);)$IsNull($Split(<Arranger>,;,31),,$Split(<Arranger>,;,31)": "$Split(<Arranger>,;,32);)
+
+replaygain_album_gain, replaygain_album_peak, replaygain_track_gain, replaygain_track_peak
+
+ALBUMARTISTSORT_ABBREV
+
+$If($Replace($First($Split(<Misc>,ReleaseStatus:,2)),",",;)=bootleg,$Replace($First($Split(<Misc>,DateEvent:,2)),",",;): $Replace($First($Split(<Misc>,Venue:,2)),",",;), $Replace($First($Split(<Misc>,CityEvent:,2)),",",;), $Replace($First($Split(<Misc>,CountryEvent:,2)),",",;),)
+
+
+$If($Replace($First($Split(<Misc>,ReleaseStatus:,2)),",",;)=bootleg,
+
+$Replace($First($Split(<Misc>,DateEvent:,2)),",",;): $Replace($First($Split(<Misc>,Venue:,2)),",",;), $Replace($First($Split(<Misc>,CityEvent:,2)),",",;), $Replace($First($Split(<Misc>,CountryEvent:,2)),",",;)
+                   
+
+
+
+https://brucebase.wikispaces.com/The+Genuine+Tracks+1972-1996
+http://www.brucespringsteen.it/DB/detrec.aspx?code=CDGT1
+
+Song by Bruce Springsteen
+
+$If(<Composer>=<Lyricist>,$IsNull(<Composer>,,"("$Replace(<Composer>,;,",")")"),$IsNull(<Composer>,,"Writer: "$Replace(<Composer>,;,","));$IsNull(<Lyricist>,,"Lyrics: "$Replace(<Lyricist>,;,",")))$If($Replace($First($Split(<Misc>,ReleaseStatus:,2)),",",;)="bootleg",;$IsNull($First($Split(<Misc>,DateEvent:,2)),,$Replace($First($Split(<Misc>,DateEvent:,2)),",",;)": ")$IsNull($First($Split(<Misc>,Venue:,2)),,$Replace($First($Split(<Misc>,Venue:,2)),",",;)", ")$IsNull($First($Split(<Misc>,CityEvent:,2)),,$Replace($First($Split(<Misc>,CityEvent:,2)),",",;)", ")$IsNull($First($Split(<Misc>,StateEvent:,2)),,$Replace($First($Split(<Misc>,StateEvent:,2)),",",;)", ")$IsNull($First($Split(<Misc>,CountryEvent:,2)),,$Replace($First($Split(<Misc>,CountryEvent:,2)),",",;)),)"; "$Replace($First($Split(<Misc>,WorkDesc:,2)),",",;)$IsNull($First($Split(<Misc>,TOPE:,2)),,"; by "$Replace($First($Split(<Misc>,TOPE:,2)),",",;))
+
+
+$Replace($First($Split(<Misc>,WorkDesc:,2)),",",;)" by "$Replace($First($Split(<Misc>,TOPE:,2)),",",;)
+
+$If(<Composer>=<Lyricist>,$IsNull(<Composer>,,"("$Replace(<Composer>,;,",")")"),$IsNull(<Composer>,,"Writer: "$Replace(<Composer>,;,","));$IsNull(<Lyricist>,,"Lyrics: "$Replace(<Lyricist>,;,",")))$If($Replace($First($Split(<Misc>,ReleaseStatus:,2)),",",;)="bootleg",;$IsNull($First($Split(<Misc>,DateEvent:,2)),,$Replace($First($Split(<Misc>,DateEvent:,2)),",",;)": ")$Replace($First($Split(<Misc>,Venue:,2)),",",;)", "$Replace($First($Split(<Misc>,CityEvent:,2)),",",;)", "$Replace($First($Split(<Misc>,StateEvent:,2)),",",;)", "$Replace($First($Split(<Misc>,CountryEvent:,2)),",",;),); $Replace($First($Split(<Misc>,WorkDesc:,2)),",",;)$IsNull($First($Split(<Misc>,TOPE:,2)),,"; by "$Replace($First($Split(<Misc>,TOPE:,2)),",",;))
+
+
+
+* Musicbrainz WS-API
+
+http://musicbrainz.org/ws/2/area/2d65c1a3-b94a-4aeb-b48a-b551a549ddb2?inc=aliases
+http://musicbrainz.org/ws/2/artist/70248960-cb53-4ea4-943a-edb18f7d336f
+http://musicbrainz.org/ws/2/artist/70248960-cb53-4ea4-943a-edb18f7d336f?inc=url-rels
+http://musicbrainz.org/ws/2/recording/e124358e-c282-4ba7-9315-bb59b2ed74c1?inc=recording-rels
+http://musicbrainz.org/ws/2/recording/e124358e-c282-4ba7-9315-bb59b2ed74c1?inc=work-rels
+http://musicbrainz.org/ws/2/recording/e124358e-c282-4ba7-9315-bb59b2ed74c1?inc=artist-credits%2Breleases
+http://musicbrainz.org/ws/2/place/52535e9b-eef5-42b3-b1c5-6e0aa53e7039?inc=aliases
+http://musicbrainz.org/ws/2/release/afc408cd-e443-410c-8bcc-dca2cfe2e2b7?inc=recordings+labels+artist-credits+artist-rels+series-rels+recording-level-rels+work-level-rels
+
+# These are OK
+http://musicbrainz.org/ws/2/recording/e124358e-c282-4ba7-9315-bb59b2ed74c1?inc=place-rels
+http://musicbrainz.org/ws/2/recording/e124358e-c282-4ba7-9315-bb59b2ed74c1?inc=work-rels+place-rels
+
+
+http://musicbrainz.org/ws/2/artist?query=Adele&fmt=json
+query="Adele"
+and query=(artist equals "Adele")
+and query=(artist:"Adele")
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Send to clipboard: <Track#> <Title> <Time>
+                   <Album Artist>/<Album>/$If(<Disc Count>>=2,CD<Disc#>/,)<Track#> <Title>
+
+'copy to the same folder as the music file and name as:' and tick that option:                   
+S:\My Music\Cover Art\+Linked\$Group($Sort(<Album Artist>),1)\$Sort(<Album Artist>)\$Sort(<Album>)\$If($Or(<Release Type>="Single [45]",<Release Type>="Single [78rpm]"),<Album><Track#>_Cover.jpg,<Album>_Cover.jpg)
+                   
+                   
+I think I've got most of them rebuilt now.
+
+
+A script to mark tracks which I've processed with Picard as "Tagged" (I use the Publisher field for this, but you could use any field, or make one up):
+
+$set(label,Tagged)
+
+
+To set Year to Original Year:
+
+$set(date,$truncate(%originaldate%,4))
+$unset(originaldate)
+
+
+To move Disc Subtitle to Grouping:
+
+$set(grouping,%discsubtitle%)
+$unset(discsubtitle)
+
+
+To put non-standard tag Writer in Composer and Lyricist fields:
+
+$copymerge(composer,writer)
+$copymerge(lyricist,writer)
+$unset(writer)
+
+
+To get rid of Album Artist for Compilations:
+
+$if($inmulti(%releasetype%,compilation),$unset(albumartist))
+
+
+To append (live) to tracks from live albums:
+
+$if($and($inmulti(%releasetype%,live),$not($in(%title%,\(live\)))),$set(title,%title% \(live\)))
+
+
+To change ... to an ellipsis:
+
+$set(title,$replace(%title%,...,…))
+$set(album,$replace(%album%,...,…))
+
+
+Tags I just don't want Picard to use:
+
+$unset(artistsort)
+$unset(albumartistsort)
+$unset(titlesort)
+$unset(media)
+$unset(barcode)
+$unset(catalognumber)
+$unset(script)
+
+
+I use these plugins:
+
+Disc Numbers (removes Disc Number from Album, if necessary.  may be defunct, but it's not hurting anything)
+Release Type (appends EP or (single) as appropriate)
+Last.fm Plus (genre and other tags from last.fm)
+
+
+And protect a lot of tags in Options > Tags; that list isn't completely redone yet.
+
+--------
+
+For "artist" and "genre" field that have separate multi-value field "artists" and "genres", it can be done in a single playlist with the following two rules:
+
+(When searching for tracks that has only "Pop" in genre field)
+
+Genre / match RegEx/i / ^pop$
+Genres / does not contain / ;
+
+But for other multi-value fields, it requires an additional playlist to exclude.
+
+Playlist A:
+
+Mood / match RegEx/i / ^easy$
+Playlist / is not / Playlist B
+
+Playlist B:
+
+--
+
+MusicBee v2.5.5469.14126 (Win6.1), 3 Jan 2015 8:51:
+
+System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at System.Collections.Generic.List`1.Enumerator.MoveNext()
+   at #=qpgXZCfdYb$deTCpqLykUoW3Dqd3CWTL4BxqsszNfzK0=.#=qivFfk_AhxJEInwsAXWRafOSIKxUgdxi$lFdncFlcptU=(CloseReason #=qitl6mMrqZHzzs82mwrWfcA==)
+   at #=qpgXZCfdYb$deTCpqLykUoW3Dqd3CWTL4BxqsszNfzK0=.#=qgZOgyxhx2Q8nHDWSzENJFw==(CloseReason #=qSdrQWX_D2wR6J3VMcy9maw==)
+   at #=qpgXZCfdYb$deTCpqLykUoW3Dqd3CWTL4BxqsszNfzK0=.OnFormClosing(FormClosingEventArgs #=qTR9O9FXbDfyWK$Ko6mdrrg==)
+   at System.Windows.Forms.Form.WmClose(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at #=qPBf9YwiElCO73YmWRlkbsAWFzOz_RDKQDSHWvQ8elfpbBpVztOLKRcMFmn6N$2Lo.WndProc(Message& #=qTZHzTwKuehVPCuYEywhCaA==)
+   at #=qpgXZCfdYb$deTCpqLykUoW3Dqd3CWTL4BxqsszNfzK0=.WndProc(Message& #=qkztrUVBK1uQyn33RWqGtCw==)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   
+   
+* mb
+
+http://musicbrainz.org/ws/2/artist/8e494408-8620-4c6a-82c2-c2ca4a1e4f12?inc=release-groups+releases+recordings
+
+   
+Released: $If($Right(<Release Date Sort>,4)=0000,<YYYY>,$If($Right($Right(<Release Date Sort>,4),2)=00,$If($Left($Right(<Release Date Sort>,4),2)=01,"Jan "<YYYY>,$If($Left($Right(<Release Date Sort>,4),2)=02,"Feb "<YYYY>,$If($Left($Right(<Release Date Sort>,4),2)=03,"Mar "<YYYY>,$If($Left($Right(<Release Date Sort>,4),2)=04,"Apr "<YYYY>,$If($Left($Right(<Release Date Sort>,4),2)=05,"May "<YYYY>,$If($Left($Right(<Release Date Sort>,4),2)=06,"Jun "<YYYY>,$If($Left($Right(<Release Date Sort>,4),2)=07,"Jul "<YYYY>,$If($Left($Right(<Release Date Sort>,4),2)=08,"Aug "<YYYY>,$If($Left($Right(<Release Date Sort>,4),2)=09,"Sep "<YYYY>,$If($Left($Right(<Release Date Sort>,4),2)=10,"Oct "<YYYY>,$If($Left($Right(<Release Date Sort>,4),2)=11,"Nov "<YYYY>,"Dec "<YYYY>))))))))))),$If($Left($Right($Right(<Release Date Sort>,4),2),1)=0,$Right($Right(<Release Date Sort>,4),1),$Right($Right(<Release Date Sort>,4),2))" "$If($Left($Right(<Release Date Sort>,4),2)=01,"Jan "<YYYY>,$If($Left($Right(<Release Date Sort>,4),2)=02,"Feb "<YYYY>,$If($Left($Right(<Release Date Sort>,4),2)=03,"Mar "<YYYY>,$If($Left($Right(<Release Date Sort>,4),2)=04,"Apr "<YYYY>,$If($Left($Right(<Release Date Sort>,4),2)=05,"May "<YYYY>,$If($Left($Right(<Release Date Sort>,4),2)=06,"Jun "<YYYY>,$If($Left($Right(<Release Date Sort>,4),2)=07,"Jul "<YYYY>,$If($Left($Right(<Release Date Sort>,4),2)=08,"Aug "<YYYY>,$If($Left($Right(<Release Date Sort>,4),2)=09,"Sep "<YYYY>,$If($Left($Right(<Release Date Sort>,4),2)=10,"Oct "<YYYY>,$If($Left($Right(<Release Date Sort>,4),2)=11,"Nov "<YYYY>,"Dec "<YYYY>)))))))))))))
+
+$Date(<Date Added>,yyyy.MM.dd HH:mm)
+
+###########################
+
+https://musicbrainz.org/release/f55c484a-5519-4f16-8514-a865d0155fff
+
+= Identifying ''This'' Release =
+There are at least three other versions of this album (see their annotations for even more identifying information):
+	* [https://musicbrainz.org/release/1b3eb040-d208-4409-9bcc-1985c390ff47|release 1b3eb040-d208-4409-9bcc-1985c390ff47]
+	* [https://musicbrainz.org/release/56761ce7-5044-414a-aa51-7bd71d21072b|release 56761ce7-5044-414a-aa51-7bd71d21072b]
+	* [https://musicbrainz.org/release/91d9060e-0a42-4faa-a690-eb8dbccf86af|release 91d9060e-0a42-4faa-a690-eb8dbccf86af]
+
+Especially the '''information of origin (“Printed in the U.S.A.”) on the back side of the cardboard slip-sleeve is not enough to identify''' '''''this''''' '''release.''', as there is also an [https://musicbrainz.org/release/91d9060e-0a42-4faa-a690-eb8dbccf86af/edit|EU-version for which this applies as well].
+
+''This'' release is a US-release with (at least) the following characteristics:
+	* The back side of the cardboard slip-sleeve''',''' the spine '''and''' back cover of the jewel case '''and''' the back side of the front cover inlay (that is the black and white picture of “Jor-El” and his wife “Lara”) have the catalogue number “R2 75874”.
+	* The catalogue number “8122-75874-2” of the EU-versions of this album '''doesn’t''' appear at all (except as part of the barcode).
+
+	* The barcode on the back side of the cardboard slip-sleeve is written as “0 8122-75874-2 0”.
+	* The back cover of the jewel case has '''no''' barcode.
+
+	* The back side of the cardboard slip-sleeve '''and''' the back cover of the jewel case have the notice “Printed in the U.S.A.”.
+	* The back side of the cardboard slip-sleeve '''and''' the back cover of the jewel case have '''no''' informational/copyright text below the “RhinoPhonic” logo.
+
+	* The back side of the cardboard slip-sleeve '''and''' the back cover of the jewel case have '''no''' label code.
+	* The back side of the cardboard slip-sleeve '''doesn’t''' have the distribution code “WE856”.
+
+
+
+
+= Track Groups =
+== Medium 1 ==
+Tracks 15-17: Bonus Tracks
+== Medium 2 ==
+Tracks 15-18: Bonus Tracks
+
+* #####################
+
+functions use a different syntax - the old syntax is still parsed but will be saved with the new syntax
+        - before:     <If(<field>="value",a,b)>
+        - new syntax: $If(<field>="value",a,b)
+    - no longer any restrictions on some parameters having to be a field ie. all function parameters now allow any valid expression
+    - new functions:
+        - $Trim(expression)
+        - $And(expression1,expression2)  eg. $If($And(expression1,expression2),true,false)
+        - $Or(expression1,expression2)
+        - $Replace(expression,search-for,replace-with)
+    - $If accepts not equal to condition: $If(expression1 != expression2,a,b)
+    - embed a quote in a string prefix the quote with \ eg. $If(<Custom1> = "[7\"]",true,false)
+    
+For v3
+Custom web links can be configured in configuration dialog of Track Information element. And they can be run either from track info element or now playing tab/bar via context menu. If you have web browser plugin installed, the web content will be displayed inside MB.
+
+Genius.com
+http://genius.com/$Replace($Replace($Replace($Replace($Replace($Replace($Replace($Replace($Replace(<Artist>,/,-),the,)-$Split(<Title>,"(",1)," ",-),',),?,),&,and),",",),!,),.,)-lyrics
+
+Musixmatch.com
+https://www.musixmatch.com/lyrics/$Replace($Replace($Replace($Replace($Replace($Replace($Replace($Replace(<Artist>,/,-)," ",-)/$Replace($Split(<Title>,(,1)," ",-),',),.,),?,),!,),&,),',)
+
+MetroLyrics.com
+http://metrolyrics.com/$Replace($Replace($Replace($Replace($Replace($Replace($Replace($Split(<title>,"(",1)-lyrics-$Replace($Replace(<Artist>,/,),the,)," ",-),',),?,),&,and),",",),!,),.,)
+    
+
+the only way for the theater mode view is to edit the skin and change tags attribute from "artist" to "artist:local"
+
+
+http://brucetapes.com/news.html
+
+------------------------------------------------------------------------------
+
+BRUCE SPRINGSTEEN - http://www.ebay.com/itm/Extremely-Rare-Bruce-Springsteen-Box-Set-Kristen-Carr-Concert-USA-Only-Release-/152672587966?hash=item238bfed0be
+
+A Concert For The Kristen Ann Carr Fund
+
+UNOPEN BOX SET OF 12 CDs 
+
+BRUCE SPRINGSTEEN A Concert For The Kristen Ann Carr Fund (Extremely limited and very rare 1993 US-only 12-CD box set comprising all the studio albums up to and including 'Lucky Town' plus the imported 'In Concert/MTV Plugged'. Each disc is housed in a jewel case picture sleeve and they are presented in a unique deluxe silver flip-top box featuring the official logo of the Kristen Ann Carr Fund across the front and on the lid. These were given to holders of special $1,000 tickets for the benefit concert performed by Bruce in aid of the fund at New York's Madison Square Garden on June 26th 1993. The box shows some signs of age [see additional notes] - a legendary rarity and one of the most elusive and sought after Bruce collectables).
+
+ 
+
+The box shows some general signs of age including some scuff marks and discoloration. The lid has some wear along the crease and there is a small tear to the silver paper. However the contents are complete and in mint condition.
+
+1. Greetings From Asbury Park, N.J.
+2. The Wild, The Innocent And The E-Street Shuffle
+3. Darkness On The Edge Of Town
+4. Born To Run
+5. The River - 2 discs
+6. Nebraska
+7. Born In The U.S.A.
+8. Tunnel Of Love
+9. Human Touch
+10. Lucky Town
+11. In Concert/MTV Plugged
+
+------------------------------------------------------------------------------
+
+Track durations:  http://star.ucl.ac.uk/~jrd/bs/bsboots.html
+
+--
+
+Bruce Springsteen
+As Requested Around The World
+
+The following is an alphabetical (and pretty complete) list of countries that are known to have issued Springsteen records on various formats over the past 30 years...another useless piece of trivia, basically - but we’d like to think it’s pretty interesting nonetheless!
+	
+Argentina 	Hungary 	Portugal
+Australia 	India 	Russia
+Austria 	Indonesia 	Saudi Arabia
+Bolivia 	Ireland 	South Africa
+Brazil 	Israel 	South Korea
+Canada 	Italy 	Spain
+China 	Jamaica 	Sweden
+Colombia 	Japan 	Taiwan
+Costa Rica 	Kenya 	Thailand
+Czechoslovakia 	Malaysia 	The U.K.
+Ecuador 	Mexico 	The U.S.A.
+France 	New Zealand 	Uruguay
+(Former) German Democratic Republic 	Norway 	Venezuela
+Greece 	Peru 	West Germany
+Holland 	The Philippines 	(Former) Yugoslavia
+Hong Kong 	Poland 	Zimbabwe
+
+------------------------------------------------------------------------------
+
+http://springsteencollection.altervista.org/
+
+Box Sets:  http://springsteencollection.altervista.org/boxset.html
+http://www.montibeton.com/lostintheflood/cd-album/cd-unique.htm
+
+------------------------------------------------------------------------------
+
+https://theamazingkornyfonelabel.wordpress.com/category/springsteen-bruce/
+
+
+http://www.nexyzbb.ne.jp/~kzoo/ (Japan mediums)
+
+http://famclair.free.fr/Home.htm
+http://springsteencollection.altervista.org//index.html
+
