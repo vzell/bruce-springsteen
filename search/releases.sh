@@ -20,7 +20,7 @@ offset=0
 page_number=1
 lines=0
 
-result_entity_type_file=~/bruce/$(date "+%Y-%m-%d_%H-%M-%S")-${result_entity_type}
+result_entity_type_file=~/bruce-springsteen/search/$(date "+%Y-%m-%d_%H-%M-%S")-${result_entity_type}
 result_entity_type_file_title=${result_entity_type_file}_title
 
 case "${result_entity_type}" in
