@@ -4753,3 +4753,11 @@ Born To Run – Bruce Springsteen
 *For You My Love – A.R. Rahman (new original song for film)
 
  previously unavailable on an album
+
+
+* Check events in brucebase
+
+live, 2002-10-18: PalaMalaguti, Bologna, Italy
+ ==>
+live, 2002‐10‐18: PalaMalaguti, Casalecchio di Reno, Italy
+
