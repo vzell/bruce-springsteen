@@ -12,45 +12,45 @@ Added MusicBrainz link to "Links" tab
 
 *** Musicbrainz - 
 
-'''''[http://brucebase.wikidot.com/stats:darkness-on-the-edge-of-town-studio-sessions#|Darkness On The Edge Of Town - Studio Sessions]|[http://brucebase.wikidot.com/stats:greatest-hits-studio-sessions|Greatest Hits - Studio Sessions]|[http://brucebase.wikidot.com/stats:the-essential-studio-sessions|The Essential - Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]|[|Killing Floor]'''''
-'''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions#|Western Stars - Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]'''''
-'''''[http://brucebase.wikidot.com/stats:tunnel-of-love-studio-sessions#|Tunnel Of Love - Studio Sessions]|[http://brucebase.wikidot.com/stats:greatest-hits-studio-sessions|Greatest Hits - Studio Sessions]|[http://brucebase.wikidot.com/stats:the-essential-studio-sessions|The Essential - Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]|[|Killing Floor]'''''
-'''''[http://brucebase.wikidot.com/stats:high-hopes-studio-sessions#|High Hopes - Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]'''''
-'''''[http://brucebase.wikidot.com/stats:nebraska-studio-sessions#|Nebraska - Studio Sessions]|[http://brucebase.wikidot.com/stats:chapter-and-verse-studio-sessions|Chapter And Verse - Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]|[|Killing Floor]'''''
-'''''[http://brucebase.wikidot.com/stats:born-in-the-usa-studio-sessions|Born In The U.S.A. - Studio Sessions]|[http://brucebase.wikidot.com/stats:tracks-studio-sessions|Tracks - Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]|[|Killing Floor]'''''
+'''''[http://brucebase.wikidot.com/stats:darkness-on-the-edge-of-town-studio-sessions#|Darkness On The Edge Of Town – Studio Sessions]|[http://brucebase.wikidot.com/stats:greatest-hits-studio-sessions|Greatest Hits – Studio Sessions]|[http://brucebase.wikidot.com/stats:the-essential-studio-sessions|The Essential – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]|[|Killing Floor]'''''
+'''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions#|Western Stars – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]'''''
+'''''[http://brucebase.wikidot.com/stats:tunnel-of-love-studio-sessions#|Tunnel Of Love – Studio Sessions]|[http://brucebase.wikidot.com/stats:greatest-hits-studio-sessions|Greatest Hits – Studio Sessions]|[http://brucebase.wikidot.com/stats:the-essential-studio-sessions|The Essential – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]|[|Killing Floor]'''''
+'''''[http://brucebase.wikidot.com/stats:high-hopes-studio-sessions#|High Hopes – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]'''''
+'''''[http://brucebase.wikidot.com/stats:nebraska-studio-sessions#|Nebraska – Studio Sessions]|[http://brucebase.wikidot.com/stats:chapter-and-verse-studio-sessions|Chapter And Verse – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]|[|Killing Floor]'''''
+'''''[http://brucebase.wikidot.com/stats:born-in-the-usa-studio-sessions|Born In The U.S.A. – Studio Sessions]|[http://brucebase.wikidot.com/stats:tracks-studio-sessions|Tracks – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]|[|Killing Floor]'''''
 
 *** Misc
 
 
 * Sessions
 
-[http://brucebase.wikidot.com/stats:early-bands-studio-sessions|Early Bands - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:demo-studio-sessions|Demo - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-studio-sessions|Greetings From Asbury Park, N.J. - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:wild-innocent-e-street-shuffle-studio-sessions|The Wild, The Innocent & The E Street Shuffle - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:born-to-run-studio-sessions|Born To Run - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:darkness-on-the-edge-of-town-studio-sessions|Darkness On The Edge Of Town - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:the-river-studio-sessions|The River - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:nebraska-studio-sessions|Nebraska - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:born-in-the-usa-studio-sessions|Born In The U.S.A. - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:tunnel-of-love-studio-sessions|Tunnel Of Love - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:human-touch-studio-sessions|Human Touch - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:lucky-town-studio-sessions|Lucky Town - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:greatest-hits-studio-sessions|Greatest Hits - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:the-ghost-of-tom-joad-studio-sessions|The Ghost Of Tom Joad - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:tracks-studio-sessions|Tracks - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:the-rising-studio-sessions|The Rising - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:the-essential-studio-sessions|The Essential - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:devils-and-dust-studio-sessions|Devils & Dust - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:the-seeger-sessions-studio-sessions|The Seeger Sessions - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:magic-studio-sessions|Magic - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:working-on-a-dream-studio-sessions|Working On A Dream - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:the-promise-studio-sessions|The Promise - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:wrecking-ball-studio-sessions|Wrecking Ball - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:high-hopes-studio-sessions|High Hopes - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:the-ties-that-bind-studio-sessions|The Ties That Bind - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:chapter-and-verse-studio-sessions|Chapter And Verse - Studio Sessions]|
-[http://brucebase.wikidot.com/stats:western-stars-studio-sessions|Western Stars - Studio Sessions]|
+[http://brucebase.wikidot.com/stats:early-bands-studio-sessions|Early Bands – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:demo-studio-sessions|Demo – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-studio-sessions|Greetings From Asbury Park, N.J. – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:wild-innocent-e-street-shuffle-studio-sessions|The Wild, The Innocent & The E Street Shuffle – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:born-to-run-studio-sessions|Born To Run – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:darkness-on-the-edge-of-town-studio-sessions|Darkness On The Edge Of Town – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:the-river-studio-sessions|The River – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:nebraska-studio-sessions|Nebraska – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:born-in-the-usa-studio-sessions|Born In The U.S.A. – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:tunnel-of-love-studio-sessions|Tunnel Of Love – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:human-touch-studio-sessions|Human Touch – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:lucky-town-studio-sessions|Lucky Town – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:greatest-hits-studio-sessions|Greatest Hits – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:the-ghost-of-tom-joad-studio-sessions|The Ghost Of Tom Joad – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:tracks-studio-sessions|Tracks – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:the-rising-studio-sessions|The Rising – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:the-essential-studio-sessions|The Essential – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:devils-and-dust-studio-sessions|Devils & Dust – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:the-seeger-sessions-studio-sessions|The Seeger Sessions – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:magic-studio-sessions|Magic – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:working-on-a-dream-studio-sessions|Working On A Dream – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:the-promise-studio-sessions|The Promise – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:wrecking-ball-studio-sessions|Wrecking Ball – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:high-hopes-studio-sessions|High Hopes – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:the-ties-that-bind-studio-sessions|The Ties That Bind – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:chapter-and-verse-studio-sessions|Chapter And Verse – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:western-stars-studio-sessions|Western Stars – Studio Sessions]|
 
 
 * Songs
@@ -800,6 +800,27 @@ Studio Sessions: Tunnel Of Love
 [http://www.brucespringsteen.it/DB/sd3.aspx?sid=98|Lyrics from brucespringsteen.it]
 [http://brucebase.wikispaces.com/Cautious+Man|All known live performances]
 
+** Chasin’ Wild Horses
+*** Brucewiki - http://brucebase.wikidot.com/song:chasin-wild-horses
+**** On the tracks
+
+CHASIN' WILD HORSES - Demo		uncirculating
+CHASIN' WILD HORSES	5:03	WESTERN
+Note: A demo of "Chasin' Wild Horses" was first recorded in 2010 at Stone Hill Studio, Colts Neck, New Jersey. Completed by Ron Aniello and Springsteen over a period of several years, ending early 2019, as stated by Ron Aniello on his Instagram: "started in 2010… finished in 2014… finished again in 2018. Sometimes it takes a minute…"
+
+Studio Sessions: Western Stars
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/07e23e4c-0a41-419c-86b7-47930b7d6945|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/07e23e4c-0a41-419c-86b7-47930b7d6945
+
+'''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions#chasinwildhorses|Western Stars – Studio Sessions]|[http://brucebase.wikidot.com/song:chasin-wild-horses|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=chasinwildhorses|Springsteen Lyrics]'''''
+
+*** Misc
 ** Chrissie's Song
 *** Brucewiki - MISSING
 **** On the tracks
@@ -903,6 +924,27 @@ Studio Sessions: Greetings From Asbury Park
 [http://www.brucespringsteen.it/DB/sd3.aspx?sid=142|Lyrics from brucespringsteen.it]
 [http://brucebase.wikispaces.com/Does+This+Bus+Stop+At+82nd+Street%3F|All known live performances]
 
+** Drive Fast (The Stuntman)
+*** Brucewiki - http://brucebase.wikidot.com/song:drive-fast-the-stuntman
+**** On the tracks
+
+DRIVE FAST (THE STUNTMAN) - Demo		uncirculating
+DRIVE FAST (THE STUNTMAN)	4:16	WESTERN
+Note: A demo of "Drive Fast (The Stuntman)" was first recorded in 2010 at Stone Hill Studio, Colts Neck, New Jersey. Completed by Ron Aniello and Springsteen over a period of several years, ending early 2019, as stated by Ron Aniello on his Instagram: "started in 2010… finished in 2014… finished again in 2018. Sometimes it takes a minute…"
+
+Studio Sessions: Western Stars
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/44c877aa-1293-4141-9df0-e8916507c5ac|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/44c877aa-1293-4141-9df0-e8916507c5ac
+
+'''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions#drivefast|Western Stars – Studio Sessions]|[http://brucebase.wikidot.com/song:drive-fast-the-stuntman|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=drivefast|Springsteen Lyrics]'''''
+
+*** Misc
 ** Factory
 *** Brucewiki - http://brucebase.wikidot.com/song:factory
 **** On the tracks
@@ -1094,6 +1136,27 @@ Studio Sessions: The River
 [http://www.springsteenlyrics.com/lyrics/h/heldupwithoutagun.php|Lyrics from springsteenlyrics.com]
 [http://www.brucespringsteen.it/DB/sd3.aspx?sid=210|Lyrics from brucespringsteen.it]
 [http://brucebase.wikispaces.com/Held+Up+Without+A+Gun|All known live performances]
+** Hello Sunshine
+*** Brucewiki - http://brucebase.wikidot.com/song:hello-sunshine
+**** On the tracks
+
+HELLO SUNSHINE - Demo		uncirculating
+HELLO SUNSHINE	3:56	WESTERN / 2019 single
+Note: A demo of "Hello Sunshine" was most likely recorded 2010 at Stone Hill Studio, Colts Neck, New Jersey. Completed by Ron Aniello and Springsteen over a period of several years, ending early 2019, as stated by Ron Aniello on his Instagram: "started in 2010… finished in 2014… finished again in 2018. Sometimes it takes a minute…"
+
+Studio Sessions: Western Stars
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/193a3729-6546-40d5-b488-5110a1c21717|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/193a3729-6546-40d5-b488-5110a1c21717
+
+'''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions#hellpsunshine|Western Stars – Studio Sessions]|[http://brucebase.wikidot.com/song:hello-sunshine|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=hellosunshine|Springsteen Lyrics]'''''
+
+*** Misc
 ** Hey Blue Eyes
 *** Brucewiki - http://brucebase.wikidot.com/song:hey-blue-eyes
 **** On the tracks
@@ -1156,8 +1219,9 @@ Studio Sessions: Greatest Hits
 *** Brucewiki - http://brucebase.wikidot.com/song:hitch-hikin
 **** On the tracks
 
-HITCH HIKIN'	3:37	WESTERN
-Note: No recording info available yet.
+HITCH HIKIN' - V1		uncirculating
+HITCH HIKIN' - V2	3:37	WESTERN
+Note: V1 of "Hitch Hikin'" was recorded on October 20, 2010, at Stone Hill Studio, Colts Neck, New Jersey. Completed by Ron Aniello and Springsteen over a period of several years, ending early 2019, as stated by Ron Aniello on his Instagram: "started in 2010… finished in 2014… finished again in 2018. Sometimes it takes a minute…"
 
 Studio Sessions: Western Stars
 
@@ -1169,7 +1233,7 @@ Studio Sessions: Western Stars
 
 *** Musicbrainz - https://musicbrainz.org/work/9cbc1561-8a2e-4aae-be7a-d7847f92d386
 
-'''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions|Western Stars - Studio Sessions]|[http://brucebase.wikidot.com/song:hitch-hikin|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=hitchhikin|Springsteen Lyrics]'''''
+'''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions#hitchhikin|Western Stars – Studio Sessions]|[http://brucebase.wikidot.com/song:hitch-hikin|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=hitchhikin|Springsteen Lyrics]'''''
 
 *** Misc
 ** Human Touch
@@ -1696,6 +1760,27 @@ Studio Sessions: Born To Run
 [http://www.brucespringsteen.it/DB/sd3.aspx?sid=371|Lyrics from brucespringsteen.it]
 [http://brucebase.wikispaces.com/Meeting+Across+The+River|All known live performances]
 
+** Moonlight Motel
+*** Brucewiki - http://brucebase.wikidot.com/song:moonlight-motel
+**** On the tracks
+
+MOONLIGHT MOTEL - Demo		uncirculating
+MOONLIGHT MOTEL	4:16	WESTERN
+Note: A demo of "Moonlight Motel" was most likely recorded 2010 at Stone Hill Studio, Colts Neck, New Jersey. Completed by Ron Aniello and Springsteen over a period of several years, ending early 2019, as stated by Ron Aniello on his Instagram: "started in 2010… finished in 2014… finished again in 2018. Sometimes it takes a minute…"
+
+Studio Sessions: Western Stars
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/687034b9-ab9c-4814-bc96-1325e13401e8|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/687034b9-ab9c-4814-bc96-1325e13401e8
+
+'''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions#moonlightmotel|Western Stars – Studio Sessions]|[http://brucebase.wikidot.com/song:moonlight-motel|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=moonlightmotel|Springsteen Lyrics]'''''
+
+*** Misc
 ** My Father’s House
 *** Brucewiki - http://brucebase.wikidot.com/song:my-father-s-house
 **** On the tracks
@@ -2396,6 +2481,27 @@ Studio Sessions: Born To Run
 [http://www.brucespringsteen.it/DB/sd3.aspx?sid=516|Lyrics from brucespringsteen.it]
 [http://brucebase.wikispaces.com/She%27s+The+One|All known live performances]
 
+** Sleepy Joe’s Café
+*** Brucewiki - http://brucebase.wikidot.com/song:sleepy-joe-s-cafe
+**** On the tracks
+
+SLEEPY JOE'S CAFÉ - Demo		uncirculating
+SLEEPY JOE'S CAFÉ	3:14	WESTERN
+Note: A demo of "Sleepy Joe's Cafe" was most likely recorded 2010 at Stone Hill Studio, Colts Neck, New Jersey. Completed by Ron Aniello and Springsteen over a period of several years, ending early 2019, as stated by Ron Aniello on his Instagram: "started in 2010… finished in 2014… finished again in 2018. Sometimes it takes a minute…"
+
+Studio Sessions: Western Stars
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/888df572-ba58-4f2c-b969-c0b2b6382dd7|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/888df572-ba58-4f2c-b969-c0b2b6382dd7
+
+'''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions#sleepyjoescafe|Western Stars – Studio Sessions]|[http://brucebase.wikidot.com/song:sleepy-joe-s-cafe|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=sleepyjoescafe|Springsteen Lyrics]'''''
+
+*** Misc
 ** Something in the Night
 *** Brucewiki - http://brucebase.wikidot.com/song:something-in-the-night
 **** On the tracks
@@ -2426,6 +2532,26 @@ Studio Sessions: Darkness On the Edge of Town
 [http://www.brucespringsteen.it/DB/sd3.aspx?sid=524|Lyrics from brucespringsteen.it]
 [http://brucebase.wikispaces.com/Something+In+The+Night|All known live performances]
 
+** Somewhere North of Nashville
+*** Brucewiki - http://brucebase.wikidot.com/song:somewhere-north-of-nashville
+**** On the tracks
+
+SOMEWHERE NORTH OF NASHVILLE	1:52	WESTERN
+Note: Unlike the rest of the songs released on Western Stars, "Somewhere North of Nashville" was most likely written after 2017.
+
+Studio Sessions: Western Stars
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/b2e0ba23-d3e0-4772-ba2f-fbad31720774|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/b2e0ba23-d3e0-4772-ba2f-fbad31720774
+
+'''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions#somewherenorthofnashville|Western Stars – Studio Sessions]|[http://brucebase.wikidot.com/song:somewhere-north-of-nashville|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=somewherenorthofnashville|Springsteen Lyrics]'''''
+
+*** Misc
 ** Souls of the Departed
 *** Brucewiki - http://brucebase.wikidot.com/song:souls-of-the-departed
 **** On the tracks
@@ -2646,6 +2772,27 @@ Studio Sessions: The River
 [http://www.brucespringsteen.it/DB/sd3.aspx?sid=542|Lyrics from brucespringsteen.it]
 [http://brucebase.wikispaces.com/Stolen+Car|All known live performances]
 
+** Stones
+*** Brucewiki - http://brucebase.wikidot.com/song:stones
+**** On the tracks
+
+STONES - Demo		uncirculating
+STONES	4:44	WESTERN
+Notes: A demo of "Stones" was recorded in 2010 at Stone Hill Studio, Colts Neck, New Jersey. Completed by Ron Aniello and Springsteen over a period of several years, ending early 2019, as stated by Ron Aniello on his Instagram: "started in 2010… finished in 2014… finished again in 2018. Sometimes it takes a minute…"
+
+Studio Sessions: Western Stars
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/2ee8c46c-e453-48d2-8be4-d652aea28f58|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/2ee8c46c-e453-48d2-8be4-d652aea28f58
+
+'''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions#stones|Western Stars – Studio Sessions]|[http://brucebase.wikidot.com/song:stones|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=stones|Springsteen Lyrics]'''''
+
+*** Misc
 ** Streets of Fire
 *** Brucewiki - http://brucebase.wikidot.com/song:streets-of-fire
 **** On the tracks
@@ -2711,6 +2858,27 @@ Studio Sessions: Greatest Hits
 [http://www.brucespringsteen.it/DB/sd3.aspx?sid=546|Lyrics from brucespringsteen.it]
 [http://brucebase.wikidot.com/song:Streets+Of+Philadelphia|All known live performances]
 
+** Sundown
+*** Brucewiki - http://brucebase.wikidot.com/song:sundown
+**** On the tracks
+
+SUNDOWN - Demo		uncirculating
+SUNDOWN	3:17	WESTERN
+Notes: A demo of "Sundown" was recorded in 2010 at Stone Hill Studio, Colts Neck, New Jersey. Completed by Ron Aniello and Springsteen over a period of several years, ending early 2019, as stated by Ron Aniello on his Instagram: "started in 2010… finished in 2014… finished again in 2018. Sometimes it takes a minute…"
+
+Studio Sessions: Western Stars
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/dc5e60c4-5c61-40b0-bac5-7ecbb82633d2|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/dc5e60c4-5c61-40b0-bac5-7ecbb82633d2
+
+'''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions#sundown|Western Stars – Studio Sessions]|[http://brucebase.wikidot.com/song:sundown|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=sundown|Springsteen Lyrics]'''''
+
+*** Misc
 ** Take ’Em as They Come
 *** Brucewiki - http://brucebase.wikidot.com/song:take-em-as-they-come
 **** On the tracks
@@ -3086,8 +3254,10 @@ Studio Sessions: The River
 *** Brucewiki - http://brucebase.wikidot.com/song:the-wayfarer
 **** On the tracks
 
-THE WAYFARER	4:18	WESTERN
-Note: No recording info available yet.
+THE WAYFARER - V1		uncirculating
+THE WAYFARER - V2		uncirculating
+THE WAYFARER - V3	4:18	WESTERN
+Note: "The Wayfarer" was recorded on March 18, 2010 at Stone Hill Studio, Colts Neck, New Jersey. Engineer Toby Scott recorded two complete versions, adding a few bars at the end of V2. V3 was completed by Ron Aniello and Springsteen over a period of several years, ending early 2019.
 
 Studio Sessions: Western Stars
 
@@ -3099,10 +3269,28 @@ Studio Sessions: Western Stars
 
 *** Musicbrainz - https://musicbrainz.org/work/18c6e845-58bf-4d59-af17-af1be5c7ae98
 
-'''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions|Western Stars - Studio Sessions]|[http://brucebase.wikidot.com/song:the-wayfarer|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=thewayfarer|Springsteen Lyrics]'''''
+'''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions#thewayfarer|Western Stars – Studio Sessions]|[http://brucebase.wikidot.com/song:the-wayfarer|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=thewayfarer|Springsteen Lyrics]'''''
 
 *** Misc
+** There Goes My Miracle
+*** Brucewiki - http://brucebase.wikidot.com/song:there-goes-my-miracle
+**** On the tracks
 
+THERE GOES MY MIRACLE - Demo		uncirculating
+THERE GOES MY MIRACLE	4:05	WESTERN / 2019 single
+Note: A demo of "There Goes My Miracle" was recorded in 2010 at Stone Hill Studio, Colts Neck, New Jersey. Completed by Ron Aniello and Springsteen over a period of several years, ending early 2019, as stated by Ron Aniello on his Instagram: "started in 2010… finished in 2014… finished again in 2018. Sometimes it takes a minute…"
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/c4598e0a-6902-40b3-8d3d-5d1ba3b7c3fe|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/c4598e0a-6902-40b3-8d3d-5d1ba3b7c3fe
+
+'''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions#theregoesmymiracle|Western Stars – Studio Sessions]|[http://brucebase.wikidot.com/song:there-goes-my-miracle|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=theregoesmymiracle|Springsteen Lyrics]'''''
+
+*** Misc
 ** Thundercrack
 *** Brucewiki - http://brucebase.wikidot.com/song:thundercrack
 **** On the tracks
@@ -3231,20 +3419,21 @@ Studio Sessions: Tunnel Of Love
 *** Brucewiki - http://brucebase.wikidot.com/song:tucson-train
 **** On the tracks
 
-TUCSON TRAIN	3:31	WESTERN
-Note: released as single on May 30, 2019
+TUCSON TRAIN - V1		uncirculating
+TUCSON TRAIN - V2	3:31	WESTERN / 2019 single
+Note: "Tucson Train" was recorded October 2, 2012, at Stone Hill Studio, Colts Neck, New Jersey. A lyric transcription was completed for its appearance on a proposed release of Western Stars in 2015, but those plans were cancelled. The track was completed by Ron Aniello and Bruce Springsteen, and released in 2019.
 
 Studio Sessions: Western Stars
 
 **** Links
 
- [[tab Links]]
+[[ tab Links]]
  * [[[*https://musicbrainz.org/work/4d55bcdc-72a6-4af9-a1da-9fc24507f4e5|MusicBrainz]]]
- [[/tab]]
+[[ /tab]]
 
 *** Musicbrainz - https://musicbrainz.org/work/4d55bcdc-72a6-4af9-a1da-9fc24507f4e5
 
-'''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions|Western Stars - Studio Sessions]|[http://brucebase.wikidot.com/song:tucson-train|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=tucsontrain|Springsteen Lyrics]'''''
+'''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions#tucsontrain|Western Stars – Studio Sessions]|[http://brucebase.wikidot.com/song:tucson-train|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=tucsontrain|Springsteen Lyrics]'''''
 
 *** Misc
 ** Tunnel of Love
@@ -3407,6 +3596,27 @@ Studio Sessions: Born To Run
 [http://www.springsteenlyrics.com/lyrics/w/walkinginthestreet.php|Lyrics from springsteenlyrics.com]
 [http://www.brucespringsteen.it/DB/sd3.aspx?sid=734|Lyrics from brucespringsteen.it]
 
+** Western Stars
+*** Brucewiki - http://brucebase.wikidot.com/song:western-stars
+**** On the tracks
+
+WESTERN STARS - Demo		uncirculating
+WESTERN STARS	4:41	WESTERN / 2019 single
+Note: A demo of "Western Stars" was recorded most likely in 2010 at Stone Hill Studio, Colts Neck, New Jersey. Completed by Ron Aniello and Springsteen over a period of several years, ending early 2019, as stated by Ron Aniello on his Instagram: "started in 2010… finished in 2014… finished again in 2018. Sometimes it takes a minute…"
+
+Studio Sessions: Western Stars
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/d2194b92-88e9-45cc-bcb6-969ca429fceb|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/d2194b92-88e9-45cc-bcb6-969ca429fceb
+
+'''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions#westernstars|Western Stars – Studio Sessions]|[http://brucebase.wikidot.com/song:western-stars|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=westernstars|Springsteen Lyrics]'''''
+
+*** Misc
 ** When You’re Alone
 *** Brucewiki - http://brucebase.wikidot.com/song:when-you-re-alone
 **** On the tracks
@@ -3643,12 +3853,27 @@ Studio Sessions: The Wild, The Innocent & The E Street Shuffle
 
 *** Misc
 
-
-
 [http://www.springsteenlyrics.com/lyrics/i/iaintgotnohome.php|Lyrics from springsteenlyrics.com]
 [http://www.brucespringsteen.it/DB/sd3.aspx?sid=230|Lyrics from brucespringsteen.it]
 [http://brucebase.wikispaces.com/I+Ain%27t+Got+No+Home|All known live performances (Bruce Springsteen)]
 
+** Rhinestone Cowboy
+*** Brucewiki - http://brucebase.wikidot.com/song:rhinestone-cowboy
+**** On the tracks
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/287d163c-1b99-3b42-8617-98e9ae690b69|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/287d163c-1b99-3b42-8617-98e9ae690b69
+
+'''''[https://www.springsteenlyrics.com/lyrics.php?song=rhinestonecowboy_original-larryweiss|Original Larry Weiss version - Springsteen Lyrics]|[https://www.springsteenlyrics.com/lyrics.php?song=rhinestonecowboy_original-glencampbell|Original Glen Campbell version - Springsteen Lyrics]'''''
+
+'''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions#|Western Stars – Studio Sessions]|[http://brucebase.wikidot.com/song:rhinestone-cowboy|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=rhinestonecowboy|Springsteen Lyrics]|[https://www.springsteenlyrics.com/lyrics.php?song=rhinestonecowboy_original-larryweiss|Original Larry Weiss version - Springsteen Lyrics]|[https://www.springsteenlyrics.com/lyrics.php?song=rhinestonecowboy_original-glencampbell|Original Glen Campbell version - Springsteen Lyrics]'''''
+
+*** Misc
 ** Vigilante Man
 *** Brucewiki - http://brucebase.wikidot.com/song:vigilante-man
 **** On the tracks
