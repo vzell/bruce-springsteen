@@ -13,11 +13,12 @@ Added MusicBrainz link to "Links" tab
 *** Musicbrainz - 
 
 '''''[http://brucebase.wikidot.com/stats:darkness-on-the-edge-of-town-studio-sessions#|Darkness On The Edge Of Town – Studio Sessions]|[http://brucebase.wikidot.com/stats:greatest-hits-studio-sessions|Greatest Hits – Studio Sessions]|[http://brucebase.wikidot.com/stats:the-essential-studio-sessions|The Essential – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]|[|Killing Floor]'''''
-'''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions#|Western Stars – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]'''''
+'''''[http://brucebase.wikidot.com/stats:nebraska-studio-sessions#|Nebraska – Studio Sessions]|[http://brucebase.wikidot.com/stats:chapter-and-verse-studio-sessions|Chapter And Verse – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]|[|Killing Floor]'''''
+'''''[http://brucebase.wikidot.com/stats:born-in-the-usa-studio-sessions#|Born In The U.S.A. – Studio Sessions]|[http://brucebase.wikidot.com/stats:tracks-studio-sessions|Tracks – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]|[|Killing Floor]'''''
 '''''[http://brucebase.wikidot.com/stats:tunnel-of-love-studio-sessions#|Tunnel Of Love – Studio Sessions]|[http://brucebase.wikidot.com/stats:greatest-hits-studio-sessions|Greatest Hits – Studio Sessions]|[http://brucebase.wikidot.com/stats:the-essential-studio-sessions|The Essential – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]|[|Killing Floor]'''''
 '''''[http://brucebase.wikidot.com/stats:high-hopes-studio-sessions#|High Hopes – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]'''''
-'''''[http://brucebase.wikidot.com/stats:nebraska-studio-sessions#|Nebraska – Studio Sessions]|[http://brucebase.wikidot.com/stats:chapter-and-verse-studio-sessions|Chapter And Verse – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]|[|Killing Floor]'''''
-'''''[http://brucebase.wikidot.com/stats:born-in-the-usa-studio-sessions|Born In The U.S.A. – Studio Sessions]|[http://brucebase.wikidot.com/stats:tracks-studio-sessions|Tracks – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]|[|Killing Floor]'''''
+'''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions#|Western Stars – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]'''''
+'''''[http://brucebase.wikidot.com/stats:letter-to-you-studio-sessions#|Letter To You – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]'''''
 
 *** Misc
 
@@ -51,7 +52,7 @@ Added MusicBrainz link to "Links" tab
 [http://brucebase.wikidot.com/stats:the-ties-that-bind-studio-sessions|The Ties That Bind – Studio Sessions]|
 [http://brucebase.wikidot.com/stats:chapter-and-verse-studio-sessions|Chapter And Verse – Studio Sessions]|
 [http://brucebase.wikidot.com/stats:western-stars-studio-sessions|Western Stars – Studio Sessions]|
-
+[http://brucebase.wikidot.com/stats:letter-to-you-studio-sessions|Letter To You – Studio Sessions]|
 
 * Songs
 ** 4th of July, Asbury Park (Sandy)
