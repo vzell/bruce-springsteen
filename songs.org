@@ -54,6 +54,7 @@ Added MusicBrainz link to "Links" tab
 [http://brucebase.wikidot.com/stats:western-stars-studio-sessions|Western Stars – Studio Sessions]|
 [http://brucebase.wikidot.com/stats:letter-to-you-studio-sessions|Letter to You – Studio Sessions]|
 
+
 * Songs
 ** 4th of July, Asbury Park (Sandy)
 *** Brucewiki - http://brucebase.wikidot.com/song:4th-of-july-asbury-park-sandy
@@ -442,7 +443,7 @@ V1f
 [http://www.brucespringsteen.it/DB/sd3.aspx?sid=56|Lyrics from brucespringsteen.it]
 [http://brucebase.wikispaces.com/Be+True|All known live performances]
 
-*** Note to edit 
+*** Note to edit
 
 Be True - Recording - https://musicbrainz.org/recording/221e2125-a941-4682-a074-8570525224b9
 
@@ -488,7 +489,7 @@ So the version in question here is V1g, which can be found on:
 [http://brucebase.wikidot.com/bootleg:backsides|BACK] maps to [https://musicbrainz.org/release/9d3dd2a7-daf2-42bf-a758-d76c618101c8|MB release]
 
 
-That's why I think the advanced relationship "recording of Be True on 1979-07-18" but disambiguation "1981 b-side" 
+That's why I think the advanced relationship "recording of Be True on 1979-07-18" but disambiguation "1981 b-side"
 is OK. I wanted to base the disambiguation on an official release which happend to be on 1981 singles first
 but the actual recording happened on 1979-07-18.
 
@@ -1066,6 +1067,26 @@ Studio Sessions: Greetings From Asbury Park
 [http://www.brucespringsteen.it/DB/sd3.aspx?sid=171|Lyrics from brucespringsteen.it]
 [http://brucebase.wikispaces.com/For+You|All known live performances]
 
+** Ghosts
+*** Brucewiki - http://brucebase.wikidot.com/song:ghosts
+**** On the tracks
+
+GHOSTS - V1	5:49	LETTER / 2020 single
+Note: "Ghosts" was recorded over a five-day period in November 2019 at Stone Hill Studio, Colts Neck, New Jersey, with the E Street Band.
+
+Studio Sessions: Letter To You
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/131f270d-67d8-4f92-8ad8-18c3147cf1ae|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/131f270d-67d8-4f92-8ad8-18c3147cf1ae
+
+'''''[http://brucebase.wikidot.com/stats:letter-to-you-studio-sessions#ghosts|Letter to You – Studio Sessions]|[http://brucebase.wikidot.com/song:ghosts|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=ghosts|Springsteen Lyrics]'''''
+
+*** Misc
 ** Growin’ Up
 *** Brucewiki - http://brucebase.wikidot.com/song:growin-up
 **** On the tracks
@@ -1237,6 +1258,26 @@ Studio Sessions: Western Stars
 '''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions#hitchhikin|Western Stars – Studio Sessions]|[http://brucebase.wikidot.com/song:hitch-hikin|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=hitchhikin|Springsteen Lyrics]'''''
 
 *** Misc
+** House of a Thousand Guitars
+*** Brucewiki - http://brucebase.wikidot.com/song:house-of-a-thousand-guitars
+**** On the tracks
+
+HOUSE OF A THOUSAND GUITARS - V1	4:26	LETTER
+Note: "House Of A Thousand Guitars" was recorded over a five-day period in November 2019 at Stone Hill Studio, Colts Neck, New Jersey, with the E Street Band.
+
+Studio Sessions: Letter To You
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/54be9f02-1cc7-4e69-ae5d-fdb1f23e6a1e|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/54be9f02-1cc7-4e69-ae5d-fdb1f23e6a1e
+
+'''''[http://brucebase.wikidot.com/stats:letter-to-you-studio-sessions#houseofathousandguitars|Letter to You – Studio Sessions]|[http://brucebase.wikidot.com/song:house-of-a-thousand-guitars|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=houseofathousandguitars|Springsteen Lyrics]'''''
+
+*** Misc
 ** Human Touch
 *** Brucewiki - http://brucebase.wikidot.com/song:human-touch
 **** On the tracks
@@ -1375,6 +1416,21 @@ Studio Sessions: Darkness On the Edge of Town
 [http://www.brucespringsteen.it/DB/sd3.aspx?sid=746|Lyrics from brucespringsteen.it]
 [http://brucebase.wikispaces.com/I+Wanna+Be+With+You|All known live performances]
 
+** I’ll See You in My Dreams
+*** Brucewiki - http://brucebase.wikidot.com/song:i-ll-see-you-in-my-dreams
+**** On the tracks
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/a090f54e-9f5b-4ba6-a46f-15eb0e1f0ffc|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/a090f54e-9f5b-4ba6-a46f-15eb0e1f0ffc
+
+'''''[http://brucebase.wikidot.com/stats:letter-to-you-studio-sessions#illseeyouinmydreams|Letter to You – Studio Sessions]|[http://brucebase.wikidot.com/song:i-ll-see-you-in-my-dreams|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=illseeyouinmydreams|Springsteen Lyrics]'''''
+
+*** Misc
 ** I’ll Stand by You
 *** Brucewiki - http://brucebase.wikidot.com/song:i-ll-stand-by-you
 **** On the tracks
@@ -1400,6 +1456,37 @@ Studio Sessions: The Rising
 '''''[http://brucebase.wikidot.com/stats:the-rising-studio-sessions#illstandbyyoualways|The Rising - Studio Sessions]|[http://brucebase.wikidot.com/song:i-ll-stand-by-you|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=illstandbyyou|Springsteen Lyrics]'''''
 
 *** Misc
+
+** If I Was the Priest
+*** Brucewiki - http://brucebase.wikidot.com/song:if-i-was-the-priest
+**** On the tracks
+
+IF I WAS THE PRIEST - V1		uncirculating
+IF I WAS THE PRIEST - V2	5:53	US1 / EDR
+IF I WAS THE PRIEST - V3		uncirculating
+IF I WAS THE PRIEST - V4	5:13	US3 / HDT / EDR
+IF I WAS THE PRIEST - V5	5:33	BTF / US4 / DT / EY / MPD / EDR
+IF I WAS THE PRIEST - V6	6:44	LETTER
+Note: V1 recorded at Pocketful of Tunes, 39 West 55th Street, New York, NY on February 14, 1972. V2 recorded at Mike Appel's office, Laurel Canyon, 75 East 55th Street, Suite 706, New York, NY during April, 1972. V3 was performed at John Hammond's office at "the Black Rock" aka CBS Records, 51 West 52nd Street, New York, NY on May 2, 1972. V4 recorded at the John Hammond audition at Studio E Columbia Records, 6th floor, 49 East 52nd Street, New York City on May 3, 1972. V5 recorded at Mediasound Studios, 311 West 57th Street, New York, NY during May–July, 1972, a solo acoustic number. It was never recorded at the Greetings sessions. According to comments by Bruce this was written in late 1970 or early 1971. Performed live at The Student Prince in the fall of 1971. V6 was recorded over a five-day period in November 2019 at Stone Hill Studio, Colts Neck, New Jersey, with the E Street Band.
+
+Studio Sessions: Greetings From Asbury Park, N.J. and Letter To You
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/a25a665d-6d5f-4b34-ab62-c1e7112f26f1|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/a25a665d-6d5f-4b34-ab62-c1e7112f26f1
+
+'''''[http://brucebase.wikidot.com/stats:letter-to-you-studio-sessions#ifiwasthepriest|Letter to You – Studio Sessions]|[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-studio-sessions#ifiwasthepriest|Greetings From Asbury Park, N.J. – Studio Sessions]|[http://brucebase.wikidot.com/song:if-i-was-the-priest|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=ifiwasthepriest|Springsteen Lyrics]'''''
+
+*** Misc
+
+[http://brucebase.wikispaces.com/Demo+-+Studio+Sessions|Studio and Session Info]
+[http://www.springsteenlyrics.com/lyrics/i/ifiwasthepriest.php|Lyrics from springsteenlyrics.com]
+[http://www.brucespringsteen.it/DB/sd3.aspx?sid=704|Lyrics from brucespringsteen.it]
+[http://brucebase.wikispaces.com/If+I+Was+The+Priest|All known live performances]
 
 ** Incident on 57th Street
 *** Brucewiki - http://brucebase.wikidot.com/song:incident-on-57th-street
@@ -1493,6 +1580,37 @@ Studio Sessions: Born In The U.S.A.
 [http://www.brucespringsteen.it/DB/sd3.aspx?sid=294|Lyrics from brucespringsteen.it]
 [http://brucebase.wikispaces.com/Janey%2C+Don%27t+You+Lose+Heart|All known live performances]
 
+** Janey Needs a Shooter
+*** Brucewiki - http://brucebase.wikidot.com/song:janey-needs-a-shooter
+**** On the tracks
+
+JANEY NEEDS A SHOOTER - V1	6:02	US6 / EY / ATMF
+JANEY NEEDS A SHOOTER - V2	4:30	uncirculating
+JANEY NEEDS A SHOOTER - V3	1:34	LM-8
+JANEY NEEDS A SHOOTER - V4	2:34	LM-8 / PYP
+JANEY NEEDS A SHOOTER - V5	6:50	DDO / DO-1 / EC / ATMF
+JANEY NEEDS A SHOOTER - V6	6:43	LETTER
+Note: "Janey Needs A Shooter" has a long, complicated history. V1 was recorded in a solo piano arrangement at 914 Sound Studios, Blauvelt, NY, on January 29, 1973, with additional takes on January 30. The lyrics were written during 1972, although the melody was culled from the mid-1971 Springsteen composition "Talking About My Baby", a recording of which exists, from a show in Richmond, VA in October 1971. "Janey Needs A Shooter" appeared on provisional lists for The Wild, The Innocent & The E Street Shuffle, but did not make the final cut. Also listed on the earliest known album #3 sequence, from spring 1974. Session log documents indicate that a full-band arrangement was recorded at 914 Sound Studios at some point during the Born To Run sessions, but it was bypassed for the album.
+
+V3 and V4 are acoustic demos Bruce recorded around March–April 1979, at Telegraph Hill. V5 is a magnificent full band recording originally attributed to the Darkness On The Edge Of Town sessions, and later to the October 1978 rehearsal session at Telegraph Hill, Holmdel, NJ. Given the evidence (including audio not circulating), we can confirm it is a Telegraph Hill rehearsal from May 1979. The quality of the private audio is far superior to that found on the 'Definitive Darkness Outtakes' or 'Iceman' CDs, and includes the count-in and runs at the correct speed. "Janey Needs A Shooter" was also included on a very early tracklist for what became The River, but in all likelihood never seriously considered.
+
+Warren Zevon has said that he became obsessed with the title line after Jon Landau mentioned it along with other songs that Springsteen was intending to record. Zevon pestered Bruce, pleading to hear the song. Bruce agreed, and he ended up working on his own version of the song, his interpretation of "Jeannie Needs A Shooter" (he had misheard the name), and played an incomplete version to Bruce sometime in the spring of 1979. Springsteen loved the arrangement, and they wrote the remainder of "Jeannie Needs A Shooter" together. The Zevon/Springsteen version is "a romantic saga of an outlaw pursuing a maiden while her father tries to gun him down," the opposite of Springsteen's original. Zevon's studio take of "Jeannie Needs A Shooter" from the Bad Luck Streak In Dancing School album was recorded during the summer of 1979 and released in February 1980.
+
+V6 was the earliest track recorded for Letter To You, and was initially intended for release on Record Store Day, as Bruce confirmed during a phone call to E Street Radio on October 23, 2020.
+
+Studio Sessions: Born To Run and Letter To You
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/bd3de1f0-977d-4789-ac77-a20319a17d75|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/bd3de1f0-977d-4789-ac77-a20319a17d75
+
+'''''[http://brucebase.wikidot.com/stats:born-to-run-studio-sessions#janeyneedsashooter|Born to Run – Studio Sessions]|[http://brucebase.wikidot.com/stats:the-river-studio-sessions#janeyneedsashooter|The River – Studio Sessions]|[http://brucebase.wikidot.com/stats:letter-to-you-studio-sessions#janeyneedsashooter|Letter to You – Studio Sessions]|[http://brucebase.wikidot.com/song:janey-needs-a-shooter|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=janeyneedsashooter|Springsteen Lyrics]|[http://www.brucespringsteen.it/DB/sd3.aspx?sid=729|Killing Floor]'''''
+
+*** Misc
 ** Jungleland
 *** Brucewiki - http://brucebase.wikidot.com/song:jungleland
 **** On the tracks
@@ -1616,6 +1734,26 @@ Studio Sessions: Wrecking Ball
 [http://www.brucespringsteen.it/DB/sd3.aspx?sid=322|Lyrics from brucespringsteen.it]
 [http://brucebase.wikispaces.com/Land+Of+Hope+And+Dreams|All known live performances]
 
+** Last Man Standing
+*** Brucewiki - http://brucebase.wikidot.com/song:last-man-standing
+**** On the tracks
+
+LAST MAN STANDING - V1	4:00	LETTER
+Note: "Last Man Standing" was recorded over a five-day period in November 2019 at Stone Hill Studio, Colts Neck, New Jersey, with the E Street Band.
+
+Studio Sessions: Letter To You
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/c436ac05-514a-49d5-a86b-42341260706e|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/c436ac05-514a-49d5-a86b-42341260706e
+
+'''''[http://brucebase.wikidot.com/stats:letter-to-you-studio-sessions#lastmanstanding|Letter to You – Studio Sessions]|[http://brucebase.wikidot.com/song:last-man-standing|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=lastmanstanding|Springsteen Lyrics]'''''
+
+*** Misc
 ** Letter to You
 *** Brucewiki - http://brucebase.wikidot.com/song:letter-to-you
 **** On the tracks
@@ -1873,10 +2011,10 @@ Studio Sessions: Born In The U.S.A.
     * '''Your Hometown''' - '''''version 2''''' - ''3:14'' - rockabilly
     * '''Your Hometown''' - '''''version 3''''' - ''3:23'' - rockabilly
     * '''Your Hometown''' - '''''version 4''''' - ''3:16'' - rockabilly
-    * '''My Hometown'''   - '''''version 5 take 1''''' - ''6:47'' - 
-    * '''My Hometown'''   - '''''version 6 take 2''''' - ''6:22'' - 
+    * '''My Hometown'''   - '''''version 5 take 1''''' - ''6:47'' -
+    * '''My Hometown'''   - '''''version 6 take 2''''' - ''6:22'' -
     * '''[https://www.springsteenlyrics.com/lyrics.php?song=myhometown|My Hometown]'''   - '''''[https://musicbrainz.org/recording/cf0afe0f-7fd7-4cb9-87a1-82a960739c2b|version 7 take 3]''''' - ''4:25'' - chosen for [https://musicbrainz.org/release-group/3c39a076-8e52-38f2-8076-260d0672fb23|Born in the U.S.A]
-    * '''My Hometown'''   - '''''version 8 take 4''''' - ''4:54'' - 
+    * '''My Hometown'''   - '''''version 8 take 4''''' - ''4:54'' -
 
 *** Misc
 [http://brucebase.wikispaces.com/Born+In+The+USA+-+Studio+Sessions|Studio and Session Info]
@@ -2211,6 +2349,28 @@ Studio Sessions: Darkness On the Edge of Town
 [http://brucebase.wikispaces.com/Racing+In+The+Street|All known live performances]
 [http://brucebase.wikispaces.com/Racing+In+The+Street+%28%2778%29|All known live performances - Racing In The Street (’78)]
 
+** Rainmaker
+*** Brucewiki - http://brucebase.wikidot.com/song:rainmaker
+**** On the tracks
+
+RAINMAKER - V1		uncirculating
+RAINMAKER - V2		uncirculating
+RAINMAKER - V3	4:47	LETTER
+Note: "Rainmaker" was first recorded in November 2003, at 40 Bellevue Studio, Rumson, New Jersey, with two finished takes. V3 was possibly completed over a five-day period in November 2019 at Stone Hill Studio, Colts Neck, New Jersey, with the E Street Band.
+
+Studio Sessions: Letter To You
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/79772b1c-171d-47e5-9afd-b54a9cbd878f|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/79772b1c-171d-47e5-9afd-b54a9cbd878f
+
+'''''[http://brucebase.wikidot.com/stats:letter-to-you-studio-sessions#rainmaker|Letter to You – Studio Sessions]|[http://brucebase.wikidot.com/song:rainmaker|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=rainmaker|Springsteen Lyrics]'''''
+
+*** Misc
 ** Ramrod
 *** Brucewiki - http://brucebase.wikidot.com/song:ramrod
 **** On the tracks
@@ -2583,6 +2743,37 @@ Studio Sessions: Western Stars
 '''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions#somewherenorthofnashville|Western Stars – Studio Sessions]|[http://brucebase.wikidot.com/song:somewhere-north-of-nashville|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=somewherenorthofnashville|Springsteen Lyrics]'''''
 
 *** Misc
+** Song for Orphans
+*** Brucewiki - http://brucebase.wikidot.com/song:song-for-orphans
+**** On the tracks
+
+SONG TO THE ORPHANS - V1		uncirculating
+SONG TO THE ORPHANS - V2		uncirculating
+SONG FOR ORPHANS - V3	6:34	BTF / UNE / PS / EY / US4 / DT / ATMF
+SONG FOR ORPHANS - V4		uncirculating
+SONG FOR ORPHANS - V5	6:08	LETTER
+Note: According to several authors, including Peter Ames Carlin (Bruce!) and Ryan White (Springsteen Album by Album), "Song To the Orphans" V1 was one of the songs Bruce Springsteen played for Mike Appel, following "Baby Doll", at their first meeting on November 4, 1971, at Pocketful of Tunes, 39 West 55th Street, New York, NY. It should also be noted neither Springsteen or Appel have confirmed or denied this in their writings to date. V2 recorded at Mediasound Studios, 311 West 57th Street, New York, NY, June–July 1972. V3 recorded at 914 Sound Studios on February 19, 1973, V4 recorded next day. Found on a proposed track-listing document for the Greetings album. First known live performance of "Song For Orphans" was on August 10, 1972 at Max's Kansas City, New York City, NY, and it was an occasional inclusion in Bruce’s opening solo segment during the first three months of the Greetings Tour. A couple of live audio performances from that period are circulating. Occasionally written as "Song To Orphans", "Song To The Orphans" and variations thereof. Although not considered for album #2, Springsteen composed several lists of songs in 1974, that were candidates for inclusion on his third album, and "Song For Orphans" made several. More information.... V5 was recorded over a five-day period in November 2019 at Stone Hill Studio, Colts Neck, New Jersey, with the E Street Band.
+
+Studio Sessions: Born To Run and Letter To You
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/8b024f59-978b-42b3-adbb-b0f0c2587c2f|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/8b024f59-978b-42b3-adbb-b0f0c2587c2f
+
+'''''[http://brucebase.wikidot.com/stats:born-to-run-studio-sessions#songfororphans|Born to Run – Studio Sessions]|[http://brucebase.wikidot.com/stats:letter-to-you-studio-sessions#songfororphans|Letter to You – Studio Sessions]|[http://brucebase.wikidot.com/song:song-for-orphans|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=songfororphans|Springsteen Lyrics]|[http://www.brucespringsteen.it/DB/sd3.aspx?sid=528|Killing Floor]'''''
+
+*** Misc
+
+[http://brucebase.wikispaces.com/Demo+-+Studio+Sessions|Studio and Session Info]
+[http://brucebase.wikispaces.com/Born+To+Run+-+Studio+Sessions|Studio and Session Info]
+[http://www.springsteenlyrics.com/lyrics/s/songfororphans.php|Lyrics from springsteenlyrics.com]
+[http://www.brucespringsteen.it/DB/sd3.aspx?sid=528|Lyrics from brucespringsteen.it]
+[http://brucebase.wikispaces.com/Song+For+Orphans|All known live performances]
+
 ** Souls of the Departed
 *** Brucewiki - http://brucebase.wikidot.com/song:souls-of-the-departed
 **** On the tracks
@@ -3005,7 +3196,7 @@ Studio Sessions: Greetings From Asbury Park
 [http://brucebase.wikispaces.com/The+Angel|All known live performances]
 
 ** The Ballad
-*** Brucewiki - 
+*** Brucewiki -
 **** On the tracks
 
 **** Links
@@ -3169,8 +3360,28 @@ Studio Sessions: Human Touch
 [http://www.brucespringsteen.it/DB/sd3.aspx?sid=579|Lyrics from brucespringsteen.it]
 [http://brucebase.wikispaces.com/The+Long+Goodbye|All known live performances]
 
+** The Power of Prayer
+*** Brucewiki - http://brucebase.wikidot.com/song:the-power-of-prayer
+**** On the tracks
+
+THE POWER OF PRAYER - V1	3:31	LETTER
+Note: "The Power Of Prayer" was recorded over a five-day period in November 2019 at Stone Hill Studio, Colts Neck, New Jersey, with the E Street Band.
+
+Studio Sessions: Letter To You
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/c4844b57-4cb0-40a9-876c-205451c73746|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/c4844b57-4cb0-40a9-876c-205451c73746
+
+'''''[http://brucebase.wikidot.com/stats:letter-to-you-studio-sessions#thepowerofprayer|Letter to You – Studio Sessions]|[http://brucebase.wikidot.com/song:the-power-of-prayer|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=thepowerofprayer|Springsteen Lyrics]'''''
+
+*** Misc
 ** The Promise
-*** Brucewiki - 
+*** Brucewiki -
 **** On the tracks
 
 THE PROMISE - V1	5:32	DO-2 / UP / SOTE / LUTHER
@@ -3247,7 +3458,7 @@ Studio Sessions: Darkness On the Edge of Town
 [http://brucebase.wikispaces.com/The+Promised+Land|All known live performances]
 
 ** The Ties That Bind
-*** Brucewiki - 
+*** Brucewiki -
 **** On the tracks
 
 THE TIES THAT BIND - V1	3:30	US6 / URT-1M / RRR
@@ -3434,7 +3645,7 @@ Studio Sessions: Tunnel Of Love
  [[tab Links]]
  * [[[*https://musicbrainz.org/work/da90db56-e9b9-3e23-9106-3b54b20e546b|MusicBrainz]]]
  [[/tab]]
- 
+
 *** Musicbrainz - https://musicbrainz.org/work/da90db56-e9b9-3e23-9106-3b54b20e546b
 
 '''''[http://brucebase.wikidot.com/stats:tunnel-of-love-studio-sessions#tougherthantherest|Tunnel Of Love - Studio Sessions]|[http://brucebase.wikidot.com/stats:the-essential-studio-sessions|The Essential - Studio Sessions]|[http://brucebase.wikidot.com/song:tougher-than-the-rest|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=tougherthantherest|Springsteen Lyrics]|[http://www.brucespringsteen.it/DB/sd3.aspx?sid=609|Killing Floor]'''''
@@ -3510,7 +3721,7 @@ Studio Sessions: Tunnel Of Love
  [[tab Links]]
  * [[[*https://musicbrainz.org/work/dd9b9058-1da9-419f-9caf-8b6c696c0942|MusicBrainz]]]
  [[/tab]]
- 
+
 *** Musicbrainz - https://musicbrainz.org/work/dd9b9058-1da9-419f-9caf-8b6c696c0942
 
 '''''[http://brucebase.wikidot.com/stats:tunnel-of-love-studio-sessions#twofaces|Tunnel Of Love - Studio Sessions]|[http://brucebase.wikidot.com/song:two-faces|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=twofaces|Springsteen Lyrics]|[http://www.brucespringsteen.it/DB/sd3.aspx?sid=622|Killing Floor]'''''
@@ -3550,7 +3761,7 @@ Studio Sessions: Tunnel Of Love
 [http://brucebase.wikispaces.com/Valentine%27s+Day|All known live performances]
 
 ** Valentine’s Day (1973)
-*** Brucewiki - 
+*** Brucewiki -
 **** On the tracks
 
 **** Links
@@ -3663,7 +3874,7 @@ Studio Sessions: Tunnel Of Love
  [[tab Links]]
  * [[[*https://musicbrainz.org/work/78237b33-96cb-4aed-a21a-3d858f93e29b|MusicBrainz]]]
  [[/tab]]
- 
+
 *** Musicbrainz - https://musicbrainz.org/work/78237b33-96cb-4aed-a21a-3d858f93e29b
 
 '''''[http://brucebase.wikidot.com/stats:tunnel-of-love-studio-sessions#whenyourealone|Tunnel Of Love - Studio Sessions]|[http://brucebase.wikidot.com/song:when-you-re-alone|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=whenyourealone|Springsteen Lyrics]|[http://www.brucespringsteen.it/DB/sd3.aspx?sid=653|Killing Floor]'''''
@@ -3868,8 +4079,28 @@ Studio Sessions: The Wild, The Innocent & The E Street Shuffle
 
 *** Misc
 
+** Hymn to Him
+*** Brucewiki - http://brucebase.wikidot.com/song:hymn-to-him
+**** On the tracks
+
+HYMN TO HIM	4:30	GUEST: BLUES / 2020 single
+Note: The original version of "Hymn To Him" was recorded for Dion's 1987 gospel album Velvet & Steel. As songs are never finished, Dion kept hearing it with Patti's voice, and he asked her to help remake the song. Bruce joined in the studio with his guitar and played a solo.
+
+Studio Sessions: Blues With Friends
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/5d86ef9d-3ca8-4cdd-8d23-84e531ff29d5|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/5d86ef9d-3ca8-4cdd-8d23-84e531ff29d5
+
+'''''[http://brucebase.wikidot.com/stats:letter-to-you-studio-sessions#hymntohim|Letter to You – Studio Sessions]|[http://brucebase.wikidot.com/song:hymn-to-him|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=hymntohim|Springsteen Lyrics]'''''
+
+*** Misc
 ** I Ain’t Got No Home
-*** Brucewiki - 
+*** Brucewiki -
 **** On the tracks
 
 **** Links
