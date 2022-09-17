@@ -2324,7 +2324,7 @@ Includes '''printed innersleeve''', on which one will find a photograph, song te
 
 == Identifiers on back cover ==
 
-'''Label:''' CBS (walking eye logo)
+'''Label:''' [https://musicbrainz.org/label/b8d33bec-92cc-40d9-bd92-4eb089b401a9|CBS] [https://seeklogo.com/images/D/DISCOS_CBS-logo-F718B1BA40-seeklogo.com.png|&#91;CBS walking eye logo with text above logo&#93;]
 '''Catalognumber:''' CBS 460270 1 (SE)
 
 (P) (C) 1987 Bruce Springsteen “Todos los derechos del productor y del propietario de la obra grabada están reservados. Están prohibidas la copia, interpretación pública, radiodifusión, alquiler o préstamo de esta
@@ -2357,7 +2357,7 @@ PROHIBIDA LA REPRODUCCION. LA EJECUCION PUBLICA, LA RADIODIFUSION O AQUILER DE E
     * '''Variant 1'''
         * 460270-1-A AL 40999-INT G MASTERDISK DMM ('''''side 1, hand-etched''''')
         * 460270-1-B BL-40999-IB G5 MASTERDISK DMM ('''''side 2, hand-etched''''')
-    * '''Variant 1'''
+    * '''Variant 2'''
         * 460270-1-A AL 40999-INT G MASTERDISK DMM ('''''side 1, hand-etched''''')
         * BL-40999-INT-G 460270-1-B MASTERDISK     ('''''side 2, hand-etched''''')
 
@@ -2452,7 +2452,7 @@ Includes '''printed innersleeve''', on which one will find a photograph, song te
 
 == Identifiers on back cover ==
 
-'''Label:''' CBS (walking eye logo)
+'''Label:''' [https://musicbrainz.org/label/b8d33bec-92cc-40d9-bd92-4eb089b401a9|CBS] [https://seeklogo.com/images/D/DISCOS_CBS-logo-F718B1BA40-seeklogo.com.png|&#91;CBS walking eye logo with text above logo&#93;]
 '''Catalognumber:''' CBS 460270 1 (SE)
 
 (P) (C) 1987 Bruce Springsteen “Todos los derechos del productor y del propietario de la obra grabada están reservados. Están prohibidas la copia, interpretación pública, radiodifusión, alquiler o préstamo de esta
@@ -8983,6 +8983,10 @@ SONY𝄞BMG
 MUSIC ENTERTAINMENT
 
 https://commons.wikimedia.org/wiki/File:Sony_BMG.png
+
+** CBS
+
+CBS walking eye logo with text above logo - [https://seeklogo.com/images/D/DISCOS_CBS-logo-F718B1BA40-seeklogo.com.png|&#91;CBS walking eye logo with text above logo&#93;]
 
 * DONE
 ** https://musicbrainz.org/release/5d8c238e-1057-48c2-ad6c-2e0d96cb250c
