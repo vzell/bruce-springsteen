@@ -25,9 +25,7 @@ Added MusicBrainz link to "Links" tab
 
 * Sessions
 
-[http://brucebase.wikidot.com/stats:early-bands-studio-sessions|Early Bands – Studio Sessions]|
-[http://brucebase.wikidot.com/stats:demo-studio-sessions|Demo – Studio Sessions]|
-[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-studio-sessions|Greetings From Asbury Park, N.J. – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-nj-studio-sessions|Greetings From Asbury Park, N.J. – Studio Sessions]|
 [http://brucebase.wikidot.com/stats:wild-innocent-e-street-shuffle-studio-sessions|The Wild, the Innocent & The E Street Shuffle – Studio Sessions]|
 [http://brucebase.wikidot.com/stats:born-to-run-studio-sessions|Born to Run – Studio Sessions]|
 [http://brucebase.wikidot.com/stats:darkness-on-the-edge-of-town-studio-sessions|Darkness on the Edge Of Town – Studio Sessions]|
@@ -53,7 +51,8 @@ Added MusicBrainz link to "Links" tab
 [http://brucebase.wikidot.com/stats:chapter-and-verse-studio-sessions|Chapter And Verse – Studio Sessions]|
 [http://brucebase.wikidot.com/stats:western-stars-studio-sessions|Western Stars – Studio Sessions]|
 [http://brucebase.wikidot.com/stats:letter-to-you-studio-sessions|Letter to You – Studio Sessions]|
-
+[http://brucebase.wikidot.com/stats:early-bands-studio-sessions|Early Bands – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:other-studio-sessions|Collaborations - Studio Sessions]
 
 * Songs
 ** 4th of July, Asbury Park (Sandy)
@@ -599,7 +598,7 @@ Studio Sessions: Greetings From Asbury Park
 
 *** Musicbrainz - https://musicbrainz.org/work/7a757d97-da2a-3751-8d32-94d471de2eeb
 
-[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-studio-sessions#blindedbythelight|'''''Greetings From Asbury Park, N.J. - Studio Sessions''''']'''|'''[http://brucebase.wikidot.com/stats:the-essential-studio-sessions|'''''The Essential - Studio Sessions''''']'''|'''[http://brucebase.wikidot.com/song:blinded-by-the-light|'''''Brucebase Wiki''''']'''|'''[https://www.springsteenlyrics.com/lyrics.php?song=blindedbythelight|'''''Springsteen Lyrics''''']'''|'''[http://www.brucespringsteen.it/DB/sd3.aspx?sid=68|'''''Killing Floor''''']
+[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-nj-studio-sessions#blindedbythelight|'''''Greetings From Asbury Park, N.J. - Studio Sessions''''']'''|'''[http://brucebase.wikidot.com/stats:the-essential-studio-sessions|'''''The Essential - Studio Sessions''''']'''|'''[http://brucebase.wikidot.com/song:blinded-by-the-light|'''''Brucebase Wiki''''']'''|'''[https://www.springsteenlyrics.com/lyrics.php?song=blindedbythelight|'''''Springsteen Lyrics''''']'''|'''[http://www.brucespringsteen.it/DB/sd3.aspx?sid=68|'''''Killing Floor''''']
 
 *** Misc
 
@@ -931,7 +930,7 @@ Studio Sessions: Greetings From Asbury Park
 
 *** Musicbrainz - https://musicbrainz.org/work/5c22bc12-7415-3e6e-a0de-4da58125e44c
 
-[http://brucebase.wikidot.com/stats:demo-studio-sessions|'''''Demo - Studio Sessions''''']'''|'''[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-studio-sessions#doesthisbusstopat82ndstreet|'''''Greetings From Asbury Park, N.J. - Studio Sessions''''']'''|'''[http://brucebase.wikidot.com/stats:tracks-studio-sessions|'''''Tracks - Studio Sessions''''']'''|'''[http://brucebase.wikidot.com/song:does-this-bus-stop-at-82nd-street|'''''Brucebase Wiki''''']'''|'''[https://www.springsteenlyrics.com/lyrics.php?song=doesthisbusstopat82ndstreet|'''''Springsteen Lyrics''''']'''|'''[http://www.brucespringsteen.it/DB/sd3.aspx?sid=142|'''''Killing Floor''''']
+[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-nj-studio-sessions#doesthisbusstopat82ndstreet|'''''Greetings From Asbury Park, N.J. - Studio Sessions''''']'''|'''[http://brucebase.wikidot.com/stats:tracks-studio-sessions|'''''Tracks - Studio Sessions''''']'''|'''[http://brucebase.wikidot.com/song:does-this-bus-stop-at-82nd-street|'''''Brucebase Wiki''''']'''|'''[https://www.springsteenlyrics.com/lyrics.php?song=doesthisbusstopat82ndstreet|'''''Springsteen Lyrics''''']'''|'''[http://www.brucespringsteen.it/DB/sd3.aspx?sid=142|'''''Killing Floor''''']
 
 *** Misc
 
@@ -1072,7 +1071,7 @@ Studio Sessions: Greetings From Asbury Park
 
 *** Musicbrainz - https://musicbrainz.org/work/f73ef1a9-33fe-3f8c-8c87-16e4c0469382
 
-[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-studio-sessions#foryou|'''''Greetings From Asbury Park, N.J. - Studio Sessions''''']'''|'''[http://brucebase.wikidot.com/stats:the-essential-studio-sessions|'''''The Essential - Studio Sessions''''']'''|'''[http://brucebase.wikidot.com/song:for-you|'''''Brucebase Wiki''''']'''|'''[https://www.springsteenlyrics.com/lyrics.php?song=foryou|'''''Springsteen Lyrics''''']'''|'''[http://www.brucespringsteen.it/DB/sd3.aspx?sid=171|'''''Killing Floor''''']
+[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-nj-studio-sessions#foryou|'''''Greetings From Asbury Park, N.J. - Studio Sessions''''']'''|'''[http://brucebase.wikidot.com/stats:the-essential-studio-sessions|'''''The Essential - Studio Sessions''''']'''|'''[http://brucebase.wikidot.com/song:for-you|'''''Brucebase Wiki''''']'''|'''[https://www.springsteenlyrics.com/lyrics.php?song=foryou|'''''Springsteen Lyrics''''']'''|'''[http://www.brucespringsteen.it/DB/sd3.aspx?sid=171|'''''Killing Floor''''']
 
 *** Misc
 
@@ -1125,7 +1124,7 @@ Studio Sessions: Greetings From Asbury Park
 
 *** Musicbrainz - https://musicbrainz.org/work/b1528b3f-0c0e-3977-ba98-5cb5b38108db
 
-[http://brucebase.wikidot.com/stats:demo-studio-sessions|'''''Demo - Studio Sessions''''']'''|'''[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-studio-sessions#growinup|'''''Greetings From Asbury Park, N.J. - Studio Sessions''''']'''|'''[http://brucebase.wikidot.com/stats:tracks-studio-sessions|'''''Tracks - Studio Sessions''''']'''|'''[http://brucebase.wikidot.com/stats:the-essential-studio-sessions|'''''The Essential - Studio Sessions''''']'''|'''[http://brucebase.wikidot.com/song:growin-up|'''''Brucebase Wiki''''']'''|'''[https://www.springsteenlyrics.com/lyrics.php?song=growinup|'''''Springsteen Lyrics''''']'''|'''[http://www.brucespringsteen.it/DB/sd3.aspx?sid=196|'''''Killing Floor''''']
+'''''[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-nj-studio-sessions#growinup|Greetings From Asbury Park, N.J. - Studio Sessions]|[http://brucebase.wikidot.com/stats:tracks-studio-sessions|Tracks - Studio Sessions]|[http://brucebase.wikidot.com/stats:the-essential-studio-sessions|The Essential - Studio Sessions]|[http://brucebase.wikidot.com/song:growin-up|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=growinup|Springsteen Lyrics]|[http://www.brucespringsteen.it/DB/sd3.aspx?sid=196|Killing Floor]'''''
 
 *** Misc
 
@@ -1494,7 +1493,7 @@ Studio Sessions: Greetings From Asbury Park, N.J. and Letter To You
 
 *** Musicbrainz - https://musicbrainz.org/work/a25a665d-6d5f-4b34-ab62-c1e7112f26f1
 
-'''''[http://brucebase.wikidot.com/stats:letter-to-you-studio-sessions#ifiwasthepriest|Letter to You – Studio Sessions]|[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-studio-sessions#ifiwasthepriest|Greetings From Asbury Park, N.J. – Studio Sessions]|[http://brucebase.wikidot.com/song:if-i-was-the-priest|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=ifiwasthepriest|Springsteen Lyrics]'''''
+'''''[http://brucebase.wikidot.com/stats:letter-to-you-studio-sessions#ifiwasthepriest|Letter to You – Studio Sessions]|[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-nj-studio-sessions#ifiwasthepriest|Greetings From Asbury Park, N.J. – Studio Sessions]|[http://brucebase.wikidot.com/song:if-i-was-the-priest|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=ifiwasthepriest|Springsteen Lyrics]'''''
 
 *** Misc
 
@@ -1555,7 +1554,7 @@ Studio Sessions: Greetings From Asbury Park
 
 *** Musicbrainz - https://musicbrainz.org/work/5a564a66-106f-38b6-823a-101396c9ad09
 
-'''''[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-studio-sessions#itshardtobeasaintinthecity|Greetings From Asbury Park, N.J. - Studio Sessions]|[http://brucebase.wikidot.com/stats:tracks-studio-sessions|Tracks - Studio Sessions]|[http://brucebase.wikidot.com/song:it-s-hard-to-be-a-saint-in-the-city|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=itshardtobeasaintinthecity|Springsteen Lyrics]|[http://www.brucespringsteen.it/DB/sd3.aspx?sid=287|Killing Floor]'''''
+'''''[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-nj-studio-sessions#itshardtobeasaintinthecity|Greetings From Asbury Park, N.J. - Studio Sessions]|[http://brucebase.wikidot.com/stats:tracks-studio-sessions|Tracks - Studio Sessions]|[http://brucebase.wikidot.com/song:it-s-hard-to-be-a-saint-in-the-city|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=itshardtobeasaintinthecity|Springsteen Lyrics]|[http://www.brucespringsteen.it/DB/sd3.aspx?sid=287|Killing Floor]'''''
 
 *** Misc
 
@@ -1802,7 +1801,7 @@ Studio Sessions: Greetings From Asbury Park
 
 *** Musicbrainz - https://musicbrainz.org/work/545da9e7-c563-31fd-8342-6f40060f0af2
 
-'''''[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-studio-sessions#lostintheflood|Greetings From Asbury Park, N.J. - Studio Sessions]|[http://brucebase.wikidot.com/song:lost-in-the-flood|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=lostintheflood|Springsteen Lyrics]|[http://www.brucespringsteen.it/DB/sd3.aspx?sid=354|Killing Floor]'''''
+'''''[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-nj-studio-sessions#lostintheflood|Greetings From Asbury Park, N.J. - Studio Sessions]|[http://brucebase.wikidot.com/song:lost-in-the-flood|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=lostintheflood|Springsteen Lyrics]|[http://www.brucespringsteen.it/DB/sd3.aspx?sid=354|Killing Floor]'''''
 
 *** Misc
 
@@ -1887,7 +1886,7 @@ Studio Sessions: Greetings From Asbury Park
 
 *** Musicbrainz - https://musicbrainz.org/work/d0241567-4101-3d1c-b4a8-d48784285fb6
 
-'''''[http://brucebase.wikidot.com/stats:demo-studio-sessions#maryqueenofarkansas|Demo - Studio Sessions]|[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-studio-sessions#maryqueenofarkansas|Greetings From Asbury Park, N.J. - Studio Sessions]|[http://brucebase.wikidot.com/stats:tracks-studio-sessions|Tracks - Studio Sessions]|[http://brucebase.wikidot.com/song:mary-queen-of-arkansas|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=maryqueenofarkansas|Springsteen Lyrics]|[http://www.brucespringsteen.it/DB/sd3.aspx?sid=369|Killing Floor]'''''
+'''''[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-nj-studio-sessions#maryqueenofarkansas|Greetings From Asbury Park, N.J. - Studio Sessions]|[http://brucebase.wikidot.com/stats:tracks-studio-sessions|Tracks - Studio Sessions]|[http://brucebase.wikidot.com/song:mary-queen-of-arkansas|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=maryqueenofarkansas|Springsteen Lyrics]|[http://www.brucespringsteen.it/DB/sd3.aspx?sid=369|Killing Floor]'''''
 
 *** Misc
 
@@ -2833,7 +2832,7 @@ Studio Sessions: Demo
 
 *** Musicbrainz - https://musicbrainz.org/work/3e0eea37-9ae6-4934-9dca-69f657fa5b18
 
-[http://brucebase.wikidot.com/stats:demo-studio-sessions#southernsun|'''''Demo - Studio Sessions''''']'''|'''[http://brucebase.wikidot.com/song:southern-sun|'''''Brucebase Wiki''''']'''|'''[https://www.springsteenlyrics.com/lyrics.php?song=southernsun|'''''Springsteen Lyrics''''']'''|'''[http://www.brucespringsteen.it/DB/sd3.aspx?sid=706|'''''Killing Floor''''']
+'''''[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-nj-studio-sessions#southernsun|Greetings From Asbury Park, N.J. – Studio Sessions]|[http://brucebase.wikidot.com/song:southern-sun|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=southernsun|Springsteen Lyrics]|[http://www.brucespringsteen.it/DB/sd3.aspx?sid=706|Killing Floor]'''''
 
 *** Misc
 
@@ -2920,7 +2919,7 @@ Studio Sessions: Greetings From Asbury Park
 
 *** Musicbrainz - https://musicbrainz.org/work/dba2f648-cb81-3d19-b252-1bbecc62758b
 
-[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-studio-sessions#spiritinthenight|'''''Greetings From Asbury Park, N.J. - Studio Sessions''''']'''|'''[http://brucebase.wikidot.com/stats:the-essential-studio-sessions|'''''The Essential - Studio Sessions''''']'''|'''[http://brucebase.wikidot.com/song:spirit-in-the-night|'''''Brucebase Wiki''''']'''|'''[https://www.springsteenlyrics.com/lyrics.php?song=spiritinthenight|'''''Springsteen Lyrics''''']'''|'''[http://www.brucespringsteen.it/DB/sd3.aspx?sid=536|'''''Killing Floor''''']
+'''''[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-nj-studio-sessions#spiritinthenight|Greetings From Asbury Park, N.J. - Studio Sessions]|[http://brucebase.wikidot.com/stats:the-essential-studio-sessions|The Essential - Studio Sessions]|[http://brucebase.wikidot.com/song:spirit-in-the-night|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=spiritinthenight|Springsteen Lyrics]|[http://www.brucespringsteen.it/DB/sd3.aspx?sid=536|Killing Floor]'''''
 
 *** Misc
 
@@ -3201,7 +3200,7 @@ Studio Sessions: Greetings From Asbury Park
 
 *** Musicbrainz - https://musicbrainz.org/work/6eaeba87-f301-3932-84a5-39d4d88f9c53
 
-[http://brucebase.wikidot.com/stats:demo-studio-sessions|'''''Demo - Studio Sessions''''']'''|'''[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-studio-sessions#theangel|'''''Greetings From Asbury Park, N.J. - Studio Sessions''''']'''|'''[http://brucebase.wikidot.com/song:the-angel|'''''Brucebase Wiki''''']'''|'''[https://www.springsteenlyrics.com/lyrics.php?song=theangel|'''''Springsteen Lyrics''''']'''|'''[http://www.brucespringsteen.it/DB/sd3.aspx?sid=568|'''''Killing Floor''''']
+'''''[http://brucebase.wikidot.com/stats:greetings-from-asbury-park-nj-studio-sessions#theangel|Greetings From Asbury Park, N.J. - Studio Sessions]|[http://brucebase.wikidot.com/song:the-angel|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=theangel|Springsteen Lyrics]|[http://www.brucespringsteen.it/DB/sd3.aspx?sid=568|Killing Floor]'''''
 
 *** Misc
 
