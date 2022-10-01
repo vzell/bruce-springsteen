@@ -1,17 +1,45 @@
-* https://www.discogs.com/user/andrenafulva
+*
 
-I will stand by my opinion and I will be right. – no, not my motto; just the funniest thing I've read in the forum recently.
+https://www.discogs.com/user/andrenafulva
+
+* andrenafulva
+
+** I will stand by my opinion and I will be right. – no, not my motto; just the funniest thing I've read in the forum recently.
 
 Welcome
-Welcome to Discogs! There are some resources to help you learn how things should be done in Discogs, so it's not so baffling. If you haven't already done so, read the [url=https://support.discogs.com/hc/en-us/articles/360004051893-Quick-Start-Guide-For-New-Contributors]quick start guide for new contributors[/ url], which takes about 20 minutes and gives you all the basics in simple form. It's worth bookmarking the [url=https://support.discogs.com/hc/en-us/sections/360001058453-Full-Submission-Guidelines]full release submission guidelines[/ url] for reference on specific points. If you get stuck and want help, feel free to post in the [url=https://www.discogs.com/forum/topic/25]Submission Help forum[/ url]. Good luck!
 
-Copy to draft
-One other thing that you'll find useful: when you're adding a new version of something already in the database, there's a very handy 'copy to draft' function that can save a lot of time and avoid errors being introduced. Simply find the version that most closely matches your copy or is most complete, and 'copy to draft'. You'll then need to go through the draft line by line, checking every piece of data against your copy and changing or removing anything that doesn't match exactly, but it can still save a lot of work. Read this article on [url=https://support.discogs.com/hc/en-us/articles/360005007074-How-To-Copy-A-Release-To-Draft]how to copy a release to draft[/ url] for more information.
+Welcome to Discogs! There are some resources to help you learn how things should be done in Discogs, so it's not so
+baffling. If you haven't already done so, read the
+[url=https://support.discogs.com/hc/en-us/articles/360004051893-Quick-Start-Guide-For-New-Contributors]quick start guide
+for new contributors[/ url], which takes about 20 minutes and gives you all the basics in simple form. It's worth
+bookmarking the [url=https://support.discogs.com/hc/en-us/sections/360001058453-Full-Submission-Guidelines]full release
+submission guidelines[/ url] for reference on specific points. If you get stuck and want help, feel free to post in the
+[url=https://www.discogs.com/forum/topic/25]Submission Help forum[/ url]. Good luck!
 
-Taking images
-The only images that are allowed are photos or scans taken of the physical copy in your possession. It's not allowed to upload images found on the web or elsewhere. If you could take some photos or scans of your copy to replace the small image, that would be great. The best procedure is to take photos of the front and back of the cover, each of the disc labels and each page of the booklet (if there is one). Take them from front-on (not at an angle) in good light – preferably in daylight but without the sun shining on the object. Then rotate them if necessary to make them 'horizontal' and crop them to the edges of the box/booklet and the edges of the disc labels – seeing the whole disc surface is of no use. Your computer or smart-phone will have inbuilt editing software that will allow you to crop the images, and most also allow you to rotate them. Please make sure they are at least 600 pixels wide (the maximum display width) so that text is as legible as possible.
+** Copy to draft
 
-Cut-and-paste links:
+One other thing that you'll find useful: when you're adding a new version of something already in the database, there's
+a very handy 'copy to draft' function that can save a lot of time and avoid errors being introduced. Simply find the
+version that most closely matches your copy or is most complete, and 'copy to draft'. You'll then need to go through the
+draft line by line, checking every piece of data against your copy and changing or removing anything that doesn't match
+exactly, but it can still save a lot of work. Read this article on
+[url=https://support.discogs.com/hc/en-us/articles/360005007074-How-To-Copy-A-Release-To-Draft]how to copy a release to
+draft[/ url] for more information.
+
+** Taking images
+
+The only images that are allowed are photos or scans taken of the physical copy in your possession. It's not allowed to
+upload images found on the web or elsewhere. If you could take some photos or scans of your copy to replace the small
+image, that would be great. The best procedure is to take photos of the front and back of the cover, each of the disc
+labels and each page of the booklet (if there is one). Take them from front-on (not at an angle) in good light –
+preferably in daylight but without the sun shining on the object. Then rotate them if necessary to make them
+'horizontal' and crop them to the edges of the box/booklet and the edges of the disc labels – seeing the whole disc
+surface is of no use. Your computer or smart-phone will have inbuilt editing software that will allow you to crop the
+images, and most also allow you to rotate them. Please make sure they are at least 600 pixels wide (the maximum display
+width) so that text is as legible as possible.
+
+** Cut-and-paste links
+
 Quick start guide – [url=https://support.discogs.com/hc/en-us/articles/360004051893-Quick-Start-Guide-For-New-Contributors]quick start guide for new contributors[/ url]
 Full guidelines – [url=https://support.discogs.com/hc/en-us/sections/360001058453-Full-Submission-Guidelines]full release submission guidelines[/ url]
 Submission Help forum – [url=https://www.discogs.com/forum/topic/25]Submission Help forum[/ url]
@@ -23,7 +51,8 @@ Copy-to-draft article – [url=https://support.discogs.com/hc/en-us/articles/360
 Formatting codes in Discogs – [url=https://support.discogs.com/hc/en-us/articles/360007331734]list of formatting codes in Discogs[/ url]
 FAQ for artists and labels – [url=https://support.discogs.com/hc/en-us/articles/360005007054-FAQ-For-Artists-And-Labels]FAQ for artists and labels[/ url]
 
-Discussions, lists and groups:
+** Discussions, lists and groups
+
 Runout groove etchings – [url=https://www.discogs.com/forum/thread/810326]discussion of runout groove etchings[/ url]
 Votes requests – [url=https://www.discogs.com/forum/thread/172073]thread for vote requests[/ url]
 Credit role requests – [url=https://www.discogs.com/forum/thread/157839]thread for credit role requests[/ url]
@@ -38,81 +67,107 @@ Churches as recording locations – [url=https://www.discogs.com//lists/Churches
 Animals credited as artists – [url=https://www.discogs.com/lists/Credited-animals/152837]animals credited as artists[/ url]
 Inanimate objects credited as artists – [url=https://www.discogs.com/lists/Inanimate-Objects-Credited-As-Artists/174865]inanimate objects credited as artists[/ url]
 
-Cut-and-paste guidelines:
+** Cut-and-paste guidelines
+
 [quote][ g1.1.1]. You must have the exact release in your possession when you make a release submission.
 
 Basing your submission only on information from websites, images, or anywhere else is forbidden, as is entering information for planned releases that haven't been manufactured.[/ quote]
 [quote][ g13.1.4]. ... Images of physical items [ b]must be taken by you[/b] and [ b]cannot be sourced from other websites or third party sources[/b].[/ quote]
 
-Useful links:
+** Useful links
+
 List of packaging terminology – [url=https://reference.discogslabs.com/wiki/packaging]List of packaging terminology[/ url]
 Online multilingual keyboard – [url=https://www.lexilogos.com/keyboard/]Online multilingual keyboard[/ url]
 
-Tips:
-See full-size images: Remove portions https://img.discogs.com/TsLZ-IoEO4Xg1U3N02XDOMgKmaQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15622410-1595764033-4204.jpeg.jpg to leave https://discogs.com/image/R-15622410-1595764033-4204.jpeg or use https://qsniyg.github.io/maxurl/
+** Tips
 
-External resources:
+See full-size images: Remove portions
+https://img.discogs.com/TsLZ-IoEO4Xg1U3N02XDOMgKmaQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15622410-1595764033-4204.jpeg.jpg
+to leave https://discogs.com/image/R-15622410-1595764033-4204.jpeg or use https://qsniyg.github.io/maxurl/
+
+** External resources
+
 Reverse image search: https://tineye.com/how
 
-* Common symbols
-℗ & © ©+℗ ℗© ® ™ № ¼ ½ ¾ ⅔ ⅛ ⅜ ⅝ ⅞ ⅓ 33⅓ ℅ ☼ ♀ ♂ ☠ ☢ ☣ ☧ ☪ ☩ ☭ ☮ ☯ ☹ ☺ ✓
+* Unicode symbols
+** Common symbols
 
-* Geometrical shapes
+℗ & © ©+℗ ℗© ® ™ № ¼ ½ ¾ ⅔ ⅛ ⅜ ⅝ ⅞ ⅓ 33⅓ ℅ ☼ ♀ ♂ ☠ ☢ ☣ ☧ ☪ ☩ ☭ ☮ ☯ ☹ ☺ ✓
+©℗
+
+** Geometrical shapes
+
 ■ □ ▪ ▫ ▬ ▭ ▮ ▯ ▰ ▱ ▲ △ ▴ ▵ ▶ ▷ ▸ ▹ ► ▻ ▼ ▽ ▾ ▿ ◀ ◁ ◂ ◃ ◄ ◅ ◆ ◇ ◈ ◉ ◊ ○ ◌ ◎ ● ◐ ◑ ◒ ◓ ◔ ◕ ◖ ◗ ◜ ◝ ◞ ◟ ◠ ◡ ◢ ◣ ◤ ◥ ◦ ◩ ◪ ◧ ◨ ◬ ◭ ◮ △ ▽ ◁ · • … ⊗ ☉ ⁞ ▪ ▫ ■ □ ◌ ● ◦ ◘ ◙ ○ ⌀ ⌗⌒⌓ ๑ ര ᇰ ㅇ ⁖
 
-* Arrows and lines
+** Arrows and lines
+
 ¦ ­ ‒ ― ‖ ‗ ‾ ⌐ ¬ ﹂﹁ ︵ ︶ ︷ ︸ ︿ ﹀ ← → ↑ ↓ ↔ ↕ ↖ ↗ ↘ ↙ ↯ ⌈ ⌉ ⌐ ⌙ ⌜ ⌝ ⌞ ⌟
 
-* Punctuation
+** Punctuation
+
 » « ‘’‚‛“„”‟ ‹› ´ ¿ ¡ ⁄ ‼ ⥍
 
-* Currencies and maths
+** Currencies and maths
+
 ¢ £ ¥ ₤ ₧ € ₯ ₰ ₱ ₺ ₽ ₣ ₢ ₨ ₩ ₳ ± × ÷ ‰ ∞ ∟ ∫ ≈ ≤ ≥ ≠ √ ∩≡ ∂
 
-* Encircled letters and numbers
+** Encircled letters and numbers
+
 ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏ
 ⓐⓑⓒⓓⓔⓕⓖⓗⓘⓙⓚⓛⓜⓝⓞⓟⓠⓡⓢⓣⓤⓥⓦⓧⓨⓩ
 ①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕㉖㉗㉘㉙㉚㉛㉜㉝㉞㉟㊱㊲㊳㊴㊵㊶㊷㊸㊹㊺㊻㊼㊽㊾㊿
 ➊➋➌➍➎➏➐➑➒➓
 
-* Other signs and symbols
+** Other signs and symbols
+
 ¤ ¶ ‡ † ⌂ ‿ ⁀ ℃ ℉ ℇ ℈ № ℔ ✉ ✝ ✚ ✡ ✠ ✈ 𐍉
 
-* Super- and subscript
+** Super- and subscript
+
 ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ª º ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ ₀
 
-* Greek
+** Greek
+
 Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω
 α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω
 
-* Cyrillic
+** Cyrillic
+
 А Б В Г Д Е Ё Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я
 а б в г д е ё ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я
 
-* Extra European letters
+** Extra European letters
+
 Æ æ Ø ø Œ œ Ð ð Þ þ Ł ł ß ſ Ƃ ƀ Ŧ ŧ
 
-* Roman numerals:
+** Roman numerals:
+
 Ⅰ Ⅱ Ⅲ Ⅳ Ⅴ Ⅵ Ⅶ Ⅷ Ⅸ Ⅹ Ⅺ Ⅻ Ⅼ Ⅽ Ⅾ Ⅿ ⅰ ⅱ ⅲ ⅳ ⅴ ⅵ ⅶ ⅷ ⅸ ⅹ ⅺ ⅻ ⅼ ⅽ ⅾ ⅿ
 
-* Stars and hearts
+** Stars and hearts
+
 ♣ ♥ ♦ ♠ ⁑ ⁂ ✩ ✪ ✱ ✳ ★✶ ✻ ✿ ✲ ✵❇
 
-* Musical symbols
+** Musical symbols
+
 ♩ ♪ ♫ ♬ ♭ ♮ ♯
 
-* Rotated/reflected letters
+** Rotated/reflected letters
+
 ƍ Ǝ Ə Ɯ Ƨ ƨ Ʊ Ƹ Ʌ ɐ ɒ ɔ ɘ ə ɜ ɞ ɟ ɥ ɯ ɹ ʁ ʇ ʌ ʍ ʎ ʞ ⅎ
 
-* Modifiers
+** Modifiers
+
 ʻ ʼ ʽ ʾ ʿ ˂ ˃ ˄ ˅ ˆ ˇ ˈ ˉ ˊ ˋ ˌ ˍ ˎ ˏ ⸗ ˒ ˓ ˔ ˕ ˖ ˗ ˘ ˙ ˚ ˛ ˜ ︡ ︢︢ ︣
 
-* Strike-throughs
+** Strike-throughs
+
 A̶B̶C̶D̶E̶F̶G̶H̶I̶J̶K̶L̶M̶N̶O̶P̶Q̶R̶S̶T̶U̶V̶W̶X̶Y̶Z̶
 a̶b̶c̶d̶e̶f̶g̶h̶i̶j̶k̶l̶m̶n̶o̶p̶q̶r̶s̶t̶u̶v̶w̶x̶y̶z̶
 1̶2̶3̶4̶5̶6̶7̶8̶9̶0̶
 
-* Full-width characters
+** Full-width characters
+
 Ａ Ｂ Ｃ Ｄ Ｅ Ｆ Ｇ Ｈ Ｉ Ｊ Ｋ Ｌ Ｍ Ｎ Ｏ Ｐ Ｑ Ｒ Ｓ Ｔ Ｕ Ｖ Ｗ Ｘ Ｙ Ｚ
 ａ ｂ ｃ ｄ ｅ ｆ ｇ ｈ ｉ ｊ ｋ ｌ ｍ ｎ ｏ ｐ ｑ ｒ ｓ ｔ ｕ ｖ ｗ ｘ ｙ ｚ
 ０ １ ２ ３ ４ ５ ６ ７ ８ ９
