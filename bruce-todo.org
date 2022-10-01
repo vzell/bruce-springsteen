@@ -22,7 +22,7 @@ http://musicbrainz.org/release-group/f42a1c9a-b92d-4378-8e81-2928f7a1b306  - tit
 
 ################################################################################
 
-Added a couple of songs - check the recordings + readd event info on release
+Added a couple of songs - check the recordings + read event info on release
 
 http://musicbrainz.org/release/61176fd1-e7d5-4d37-8b2e-3725e4720849
 
