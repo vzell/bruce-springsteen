@@ -51,6 +51,7 @@ Added MusicBrainz link to "Links" tab
 [http://brucebase.wikidot.com/stats:chapter-and-verse-studio-sessions|Chapter And Verse – Studio Sessions]|
 [http://brucebase.wikidot.com/stats:western-stars-studio-sessions|Western Stars – Studio Sessions]|
 [http://brucebase.wikidot.com/stats:letter-to-you-studio-sessions|Letter to You – Studio Sessions]|
+[http://brucebase.wikidot.com/stats:only-the-strong-survive-studio-sessions|Only the Strong Survive (Covers Vol. 1) – Studio Sessions]|
 [http://brucebase.wikidot.com/stats:early-bands-studio-sessions|Early Bands – Studio Sessions]|
 [http://brucebase.wikidot.com/stats:other-studio-sessions|Collaborations - Studio Sessions]
 
