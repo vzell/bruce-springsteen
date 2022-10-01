@@ -10,7 +10,7 @@ chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=dashboard
 
 ################################################################################
 
-https://musicbrainz.org/release-group/73eb3203-074c-44f5-9832-d6762d295d11 - checken mismatch btwen digital and cdr release
+https://musicbrainz.org/release-group/73eb3203-074c-44f5-9832-d6762d295d11 - checken mismatch betwen digital and cdr release
 
 ################################################################################
 
