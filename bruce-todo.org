@@ -1,4 +1,4 @@
-* Userscripts URs
+* Userscripts URLs
 
 https://greasyfork.org/en/scripts/by-site/musicbrainz.org
 
