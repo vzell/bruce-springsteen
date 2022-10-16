@@ -2,6 +2,7 @@
 
 == Identifiers on Inlay ==   ==
 == Identifiers on CD Main Printable Area ==
+== Identifiers on CD-R Main Printable Area ==
 
 * Copyrights
 
@@ -8967,7 +8968,10 @@ https://musicbrainz.org/search?query=Matrix%20Runout%20%22SID%20code%22%20SPARS&
 https://logos.fandom.com/wiki/Columbia_Records
 
 COLUMBIA walking eye logo with text below icon - [https://static.wikia.nocookie.net/logopedia/images/8/8c/Columbia_Records_1999_Alt.svg/revision/latest?format=original|COLUMBIA walking eye logo with text below icon]
+COLUMBIA walking eye logo with text below icon, black on red background - [https://static.wikia.nocookie.net/logopedia/images/8/8c/Columbia_Records_1999_Alt.svg/revision/latest?format=original|COLUMBIA walking eye logo with text below icon, black on red background]
 SONY MUSIC logo, black - [https://iconape.com/wp-content/files/lh/293727/png/sony-music-logo.png|SONY MUSIC logo, black]
+
+COLUMBIA walking eye logo with text above icon, thin lines - [https://static.wikia.nocookie.net/logopedia/images/6/62/Columbia_Records_1969_Alt.svg|COLUMBIA walking eye logo with text above icon, thin lines]
 
 [https://static.wikia.nocookie.net/logopedia/images/8/8c/Columbia_Records_1999_Alt.svg/revision/latest?format=original|&#91;COLUMBIA walking eye logo with text below icon&#93;]  [https://iconape.com/wp-content/files/lh/293727/png/sony-music-logo.png|&#91;SONY MUSIC logo, black&#93;]
 
@@ -8986,13 +8990,27 @@ CBS / [Walking Eye logo] / SONY in box below each other - https://seeklogo.com/i
 ** Sony BMG Music Entertainment
 
 SONY𝄞BMG
-MUSIC ENTERTAINMENT
+MUSIC ENTERTAINMENT - [https://upload.wikimedia.org/wikipedia/commons/e/ec/Sonybmg-logo.svg|SONY𝄞BMG MUSIC ENTERTAINMENT logo]
 
 https://commons.wikimedia.org/wiki/File:Sony_BMG.png
 
 ** CBS
 
 CBS walking eye logo with text above logo - [https://seeklogo.com/images/D/DISCOS_CBS-logo-F718B1BA40-seeklogo.com.png|&#91;CBS walking eye logo with text above logo&#93;]
+
+
+** COMPACT disc DIGITAL AUDIO
+
+COMPACT disc DIGITAL AUDIO - [https://logowik.com/content/uploads/images/compact-disc-cd.jpg|COMPACT disc DIGITAL AUDIO logo]
+
+** FBI Anti-Piracy Warning
+
+https://www.google.com/search?rlz=1C1CHBD_enDE763DE767&sxsrf=ALiCzsYzqmnIIlyOFOxBt56YFTRevaq1aQ:1665918161864&source=univ&tbm=isch&q=fbi+anti+piracy+warning+logo&fir=Bqr9jH1WDa6K3M%252CrK_-k3J-QldjFM%252C_%253Buz71-wNVLzljqM%252CapyerGI3jQkaDM%252C_%253B4yWj05Aa-4oqZM%252CR3ZXRqIGqucZ0M%252C_%253BIodqYCy7rhHLTM%252CswVMHvKRSctFQM%252C_%253BPs5csP4BG1yGIM%252ClXW7JeWEBZLPRM%252C_%253BjP-DrVZY6RKxGM%252Cw2QaGo9hMz5kIM%252C_%253BFFBlpXZqT3BJ7M%252C9lg1BzdyRSewCM%252C_%253Bo1xCnwilcsmarM%252C5Vd_ppZeWghXpM%252C_%253BnCI0Ac93-b6f6M%252CUcYPh2Y4Xc9ktM%252C_%253BOb9Hkka5h9S-QM%252CIB2mauQUf44c7M%252C_%253BbK7IyAc2Rf3nrM%252CEyBHvOzigM85sM%252C_%253BDSnwWGZsNdOvzM%252Cw2QaGo9hMz5kIM%252C_%253BQv_x1kHkGeHqLM%252CaxqhxOE2espQIM%252C_&usg=AI4_-kTaZgCppNJ2RECMsI2c9P2lFeUlMg&sa=X&ved=2ahUKEwjfyozizOT6AhW3_rsIHSB5DEcQjJkEegQICBAC&biw=1920&bih=975&dpr=1
+
+FBI Anti-Piracy Warning - [https://www.pngkit.com/png/detail/43-431712_fbi-anti-piracy-warning-logo-png-clip-black.png|FBI Anti-Piracy Warning logo]
+FBI Anti-Piracy Warning:
+Unauthorized copying is
+punishable under federal law.
 
 * DONE
 ** https://musicbrainz.org/release/5d8c238e-1057-48c2-ad6c-2e0d96cb250c
