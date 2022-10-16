@@ -1,6 +1,7 @@
 * Identifiers
 
-== Identifiers on Inlay ==   ==
+== Identifiers on Info Sticker ==
+== Identifiers on Inlay ==
 == Identifiers on CD Main Printable Area ==
 == Identifiers on CD-R Main Printable Area ==
 
@@ -11636,6 +11637,7 @@ radiodyphusion y cualesquera  otro uso no autorizado de estos fonogramas
 
 Sony Music Entertainment Argentina S.A. miembro de "CAPIF" y "AABI / CAPIF". SADAIC / BIEM. INDUSTRIA ARGENTINA. 8876 545385-2
 
+
 * polish
 
 Prawa producenta oraz prawa autorskie zastrzeżone
@@ -11646,3 +11648,20 @@ Jede öffentliche Wiedergabe ohne Genehmigung ist untersagt
 
 Manufacturer's rights and copyrights reserved
 Any public reproduction without permission is prohibited
+
+
+* finish
+
+Bruce Springsteen julkaisee uuden
+albumin Devils&Dust 27.4. Devils&Dust on
+"Pomon" 19. albumi ja sisältää uutta
+biisiä. Albumin ensimmäinen radiosingle
+on tunnelmallinen levyn nimibiisi
+Devils&Dust.
+
+Bruce Springsteen releases a new
+album Devils&Dust 27.4. Devils&Dust is
+the 19th album of "Boss" and contains new
+song. The album's first radio single
+is the atmospheric title song of the album
+Devils&Dust.
