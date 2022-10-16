@@ -80,6 +80,7 @@ Side A label / Side B label
 
 ◈ = Richmond pressing for US vinyls
 
+
 * Symbols
 ** ᴍᴀsᴛᴇʀᴇᴅ ʙʏ ᴄᴀᴘɪᴛᴏʟ
 
@@ -11602,6 +11603,7 @@ MQA
 MP3
 320 Kbps MP3
 
+
 * argentina
 ** Letter to You
 
@@ -11610,3 +11612,14 @@ RESERVADOS TODOS LOS DERECHOS DE LOS AUTORES DEL PRODUCTOR, Y DE LOS INTÉRPRETE
 radiodyphusion y cualesquera  otro uso no autorizado de estos fonogramas
 
 Sony Music Entertainment Argentina S.A. miembro de "CAPIF" y "AABI / CAPIF". SADAIC / BIEM. INDUSTRIA ARGENTINA. 8876 545385-2
+
+* polish
+
+Prawa producenta oraz prawa autorskie zastrzeżone
+Wszelkie kopiowanie publiczne bez zezwolenia zabronione
+
+Hersteller- und Urheberrechte vorbehalten
+Jede öffentliche Wiedergabe ohne Genehmigung ist untersagt
+
+Manufacturer's rights and copyrights reserved
+Any public reproduction without permission is prohibited
