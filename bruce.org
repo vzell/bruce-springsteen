@@ -1,9 +1,63 @@
+* High release quality
+** Born in the U.S.A. (The Freedom Mix) (sunburst labels)
+
+https://musicbrainz.org/release/2560c7bd-34ef-4fd4-baa2-ad3b0d61a026
+https://musicbrainz.org/release/8e898cb3-56b7-4732-abcb-dbc58bfbf913
+
 * Identifiers
 
 == Identifiers on Info Sticker ==
 == Identifiers on Inlay ==
 == Identifiers on CD Main Printable Area ==
-== Identifiers on CD-R Main Printable Area ==
+== Identifiers on CD‐R Main Printable Area ==
+== Identifiers on Front Cover ==
+== Identifiers on Back Cover ==
+== Identifiers on Spine ==
+== Identifiers on A‐Side Label ==
+== Identifiers on B‐Side Label ==
+== Identifiers on Labels ==
+== Identifiers on Run‐Out Groove ==
+
+
+* Label Info
+
+ALL RIGHTS OF THE PRODUCER AND OF THE OWNER OF THE RECORDED WORK RESERVED. UNAUTHORIZED COPYING, LENDING, HIRING, PUBLIC PERFORMANCE, DIFFUSION AND BROADCASTING OF THIS RECORDING PROHIBITED.
+ALL RIGHTS OF THE PRODUCER AND OF THE OWNER OF THE RECORDED WORK RESERVED. UNAUTHORIZED COPYING, PUBLIC PERFORMANCE, BROADCASTING, HIRING OR RENTAL OF THIS RECORDING PROHIBITED. MADE IN HOLLAND. "COLUMBIA" IS THE EXCLUSIVE TRADEMARK OF SONY MUSIC ENTERTAINMENT INC.
+ALL RIGHTS OF THE PRODUCER AND OF THE OWNER OF THE RECORDED WORK RESERVED. UNAUTHORIZED COPYING, PUBLIC PERFORMANCE, BROADCASTING, HIRING OR RENTAL OF THIS RECORDING PROHIBITED. MADE IN HOLLAND. CBS AND [https://3.bp.blogspot.com/-SgQfKmGIGCo/U3knd_QsNKI/AAAAAAAABeE/MSWrfV016aQ/s0/columbia+eye+logo.jpg=s0?imgmax=0|&#91;CBS walking eye logo&#93;]® CBS INC.
+
+
+WARNING: All rights of the producer and of the owner of the recorded work reserved. Unauthorized copying, public
+performance, broadcasting, hiring or rental of this recording prohibited. In the UK apply for public performance licenses to PPL.
+14/22 Ganton Street, London WI.
+
+
+'''Logo:''' [https://seeklogo.com/images/D/DISCOS_CBS-logo-F718B1BA40-seeklogo.com.png|&#91;CBS walking eye logo with text above logo&#93;]
+'''Catalognumber:''' A 12.4920
+'''Distribution Code:''' CB 181 ('''''capsuled''''')
+'''Price Code:''' 43 ('''''circled''''' on CBS sticker)
+
+
+'''Logo:''' [https://3.bp.blogspot.com/-SgQfKmGIGCo/U3knd_QsNKI/AAAAAAAABeE/MSWrfV016aQ/s0/columbia+eye+logo.jpg=s0?imgmax=0|&#91;CBS walking eye logo&#93;]
+'''Label:''' [https://musicbrainz.org/label/b8d33bec-92cc-40d9-bd92-4eb089b401a9|CBS]
+'''Label Code:''' LC 0149 ('''''capsuled''''')
+STEREO
+45 RPM
+'''Manufacturing Code:''' 11-004920-1
+'''Rights Society:''' [https://www.biem.org/|BIEM]/[https://www.bumastemra.nl/en/|STEMRA]
+'''Catalognumber:''' CBSA 12-4920
+(44-05147)
+
+== Identifiers on Run‐Out Groove ==
+
+'''''Run‐Out Groove Variations'''''
+
+    * '''Variant 1'''
+        * 11-4920-1A-1 B ('''''side A, stamped''''')
+        * 11-4920-1B-1 A ('''''side B, stamped''''')
+    * '''Variant 2'''
+        * 11-4920-1A-1 A ('''''side A, stamped''''')
+        * 11-4920-1B-1 A ('''''side B, stamped''''')
+
 
 * Copyrights
 
@@ -14,6 +68,22 @@
 © & ℗ Bruce Springsteen
 © & ℗ BRUCE SPRINGSTEEN
 
+
+* Dashes
+
+hyphen         (‐)    - 2010 - 8208 - joins words and syllables of a word (e.g. “Tenth Avenue Freeze‐Out” or “co‐operate”)
+
+figure dash    (‒)    - 2012 - 8210 - used as a dash within numbers (e.g. 555‒1212)
+en dash        (–)    - 2013 - 8211 - indicates a range of numbers (e.g. 1989–90)
+em dash        (—)    - 2014 - 8212 - separate thoughts—like this
+minus sign     (−)    - 2212 - 8722 - indicates subtraction
+hyphen minus   (-)    - 2D   - 45   - on alphanumeric keys
+quotation dash (―)    - 2015 - 8213 - introduces quoted text in some cases (non‐standard for English dialect)
+
+
+* Brüche
+
+⅓ ¼ ½ ¾ 
 
 * Special characters, diacritics and symbols
 
@@ -52,7 +122,7 @@ Symbols:☯
 © and ℗ © & ℗ © + ℗
 ™ ®
 „ " » « … ~ – — ι | Λ ∧∨ · • ⦁ ☆ ★ ⁎ ✶ ✲ ✱ ✳ ✴ ✵ ❉ ✧ ✦ ■ ☐ ◆ ◇ ⋄ ◊ Δ ▼ ▽△ ◁ ▷ ----◁ ∴ ← ↑ → ↓ ♩ ♪ ♫ ♬ ♥ ✝ ☮ ‡ Ѱ ❀ ⓧ ☉ 〄 ◎—∈—◎
-№ º ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ ₀ ¼ ½ ¾ A₁ B₁ C₁ D₁ A¹ B¹ A² B²
+№ º ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ ₀ A₁ B₁ C₁ D₁ A¹ B¹ A² B²
 
 ℗ © ® ™ ✓ ✔ ☑ ☒ № ¶ ~ ⋅ · • ★ ✶ ٭ ∗ ☆ ✳ ✵ ♠ ♣ ♥ ♦ ♪ ♫ ✝ † ۩ ๑ ¿ ¡ » « ⊳ ⊲ △▽ ▷◁ ∇ ◊ ∆ ◄▼►▲● □ ○ ◇ ◈ ◊ ▫ ▪ ▣ ◙ Λ ◬ — – ‑ ← → ↔ ↓ ↑ ↗ ⇒ ⇔ ⇐ ⇑ ⇓ ¦ | 
 × … ☹ ☺ ☻ ⦿ ☂ ⁂ ☃ ٩ ۶ ☼ ≈ ± ≠ ° º ° ÷ ♂ ♀ ¸ × ∞ ′ ″ ´ ` ‰ ∴ ÷ ⁄ ✽ ✠ ✡ ✢ ✣ ✤ ✥ ✦ ✧ ✩ ✪ ✫ ✬ ✭ ✮ ✯ ✰ ✱ ✲ ✳ ✴ ✵ ✶ ✷ ✸ ✹ ✺ ✻ ✼ ✽ ✾ ✿ ❀ ❁ ❂ ❃ ❄ ❅ ❆ ❇ ❈ ❉ ❊ ❋ ❖ ❤ ★ ☆ 〄 † 凶 凸凹 ᄼ ᄾ ℅ 回-G-回 n©b ◙ ⌶
@@ -65,7 +135,7 @@ Symbols:☯
 Special characters:
 Ⓟ © Ⓜ Ⓦ ® ™ ℠ ˢᵗ, 2ᶮᵈ, 3ʳᵈ, 4ᵗʰ N° № ℒ „” „“ “” ‘ ’ ‴ «» ‹ › ⟨ ⟩ ♪ ♫
 ★ ✯ ☆ ✰ ✞ ☼ ☀ ○ ◎ ◉ ⵙ • ⚫ ⚪ ▪ ▫ ◾■ □ △ ▽ ◈ ⟐ ♦ ⬦ ⬥ ❖ * ∗ ⚹ ✽ ✤ ✲ ⁂ ※ ~ ≈
-Æ æ ã ā ñ ø Ø ò £ § µ ¼ ½ ¾ ‡ ª ¹ ² ³ ¿ ¡
+Æ æ ã ā ñ ø Ø ò £ § µ ‡ ª ¹ ² ³ ¿ ¡
 
 Romanian diacritics: ș Ș ț Ț
 
@@ -8997,8 +9067,8 @@ https://commons.wikimedia.org/wiki/File:Sony_BMG.png
 
 ** CBS
 
+CBS walking eye logo - [https://3.bp.blogspot.com/-SgQfKmGIGCo/U3knd_QsNKI/AAAAAAAABeE/MSWrfV016aQ/s0/columbia+eye+logo.jpg=s0?imgmax=0|&#91;CBS walking eye logo&#93;]
 CBS walking eye logo with text above logo - [https://seeklogo.com/images/D/DISCOS_CBS-logo-F718B1BA40-seeklogo.com.png|&#91;CBS walking eye logo with text above logo&#93;]
-
 
 ** COMPACT disc DIGITAL AUDIO
 
@@ -9012,6 +9082,7 @@ FBI Anti-Piracy Warning - [https://www.pngkit.com/png/detail/43-431712_fbi-anti-
 FBI Anti-Piracy Warning:
 Unauthorized copying is
 punishable under federal law.
+
 
 * DONE
 ** https://musicbrainz.org/release/5d8c238e-1057-48c2-ad6c-2e0d96cb250c
@@ -11665,3 +11736,283 @@ the 19th album of "Boss" and contains new
 song. The album's first radio single
 is the atmospheric title song of the album
 Devils&Dust.
+
+
+* first
+
+Promotion‐only “Bruce Springsteen” EP. Altered picture sleeve featuring the “Born In The U.S.A.” cover shot overlaid with entirely different colours (Bruce’s T‐shirt being orange instead of white, for example) on both sides and white album‐style title graphics throughout. Issued in Canada (COL CDN 178), Holland (CBS SAMP 89) and the US (COL AS 1957) with only marginal sleeve variations.
+
+== Identifiers on Front Cover ==
+
+MAXI
+SINGLE
+33⅓ RPM
+
+BORN IN THE U.S.A.  SHUT OUT THE LIGHT (Previously unreleased)
+PINK CADILLAC  JERSEY GIRL  SANTA CLAUS IS COMIN’ TO TOWN
+
+== Identifiers on Back Cover ==
+
+'''Logo:''' [https://seeklogo.com/images/D/DISCOS_CBS-logo-F718B1BA40-seeklogo.com.png|&#91;CBS walking eye logo with text above logo&#93;]
+'''Catalognumber:''' SAMP 89
+
+SIDE ONE
+BORN IN THE U.S.A.
+Produced by Bruce Springsteen, Jon Landau, Chuck Plotkin, Steven Van Zandt
+Recorded by Toby Scott/Mixed by Bob Clearmountain
+Taken from the Columbia Lp “BORN IN THE U.S.A.” QC38653
+
+SIDE TWO
+SHUT OUT THE LIGHT
+Produced by Bruce Springsteen, Jon Landau, Chuck Plotkin, Steven Van Zandt
+Recorded by Toby Scott/Mixed by Bob Clearmountain
+
+PINK CADILLAC
+Produced by Bruce Springsteen, Jon Landau, Chuck Plotkin, Steven Van Zandt
+Recorded by Toby Scott/Mixed by Bob Clearmountain
+
+JERSEY GIRL
+Recorded Live at the Meadowlands on July 9, 1981
+
+SANTA CLAUS IS COMIN TO TOWN*
+Produced by Bruce Springsteen, Mike Appel, Jimmy Iovine
+Recorded Live at C.W. Post College (Greenvale, NY) on December 12, 1975
+
+© 1984 Bruce Springsteen/℗ 1984 Bruce Springsteen/*℗ 1981 CBS Inc.
+
+CBS & [https://3.bp.blogspot.com/-SgQfKmGIGCo/U3knd_QsNKI/AAAAAAAABeE/MSWrfV016aQ/s0/columbia+eye+logo.jpg=s0?imgmax=0|&#91;CBS walking eye logo&#93;] are trademarks of CBS Inc.
+Made in Holland. Distribution CBS Records/CBS Disques S.A.
+
+WARNING: All rights of the producer
+and of the owner of the recorded work
+reserved. Unauthorized copying,
+public performance, broadcasting,
+hiring or rental of this recording
+prohibited. In the UK apply for public
+performance licenses to PPL. 14/22
+Ganton Street, London WI.
+
+Design: Andrea Klein/Photo: Annie Leibovitz
+
+'''Manufacturing Code:''' 11‒000089‒20
+
+FOR PROMOTION ONLY‐NOT FOR SALE
+
+'''Label Code:''' LC 0149 ('''''capsuled''''')
+
+== Identifiers on A‐Side Label ==
+
+ALL RIGHTS OF THE PRODUCER AND OF THE OWNER OF THE RECORDED WORK RESERVED. UNAUTHORIZED COPYING, PUBLIC PERFORMANCE, BROADCASTING, HIRING OR RENTAL OF THIS RECORDING PROHIBITED. MADE IN HOLLAND. CBS AND [https://3.bp.blogspot.com/-SgQfKmGIGCo/U3knd_QsNKI/AAAAAAAABeE/MSWrfV016aQ/s0/columbia+eye+logo.jpg=s0?imgmax=0|&#91;CBS walking eye logo&#93;]® CBS INC.
+
+'''Logo:''' [https://3.bp.blogspot.com/-SgQfKmGIGCo/U3knd_QsNKI/AAAAAAAABeE/MSWrfV016aQ/s0/columbia+eye+logo.jpg=s0?imgmax=0|&#91;CBS walking eye logo&#93;]
+'''Label:''' [https://musicbrainz.org/label/b8d33bec-92cc-40d9-bd92-4eb089b401a9|CBS]
+
+'''Label Code:''' LC 0149 ('''''capsuled''''')
+STEREO
+33⅓ RPM
+'''Manufacturing Code:''' 11‒000089‒1
+XSM 173076
+
+'''Rights Society:''' [https://www.biem.org/|BIEM]/[https://www.bumastemra.nl/en/|STEMRA]
+'''Catalognumber:''' CBS SAMP 89
+(AS 1957)
+
+Taken From The CBS Lp: “BORN IN THE U.S.A.”
+CBS 86304
+
+For Promotion Only ‐ NOT FOR SALE
+
+Original Sound Recording Made By CBS Inc.
+
+℗ 1984 Bruce Springsteen
+
+== Identifiers on B‐Side Label ==
+
+ALL RIGHTS OF THE PRODUCER AND OF THE OWNER OF THE RECORDED WORK RESERVED. UNAUTHORIZED COPYING, PUBLIC PERFORMANCE, BROADCASTING, HIRING OR RENTAL OF THIS RECORDING PROHIBITED. MADE IN HOLLAND. CBS AND [https://3.bp.blogspot.com/-SgQfKmGIGCo/U3knd_QsNKI/AAAAAAAABeE/MSWrfV016aQ/s0/columbia+eye+logo.jpg=s0?imgmax=0|&#91;CBS walking eye logo&#93;]® CBS INC.
+
+'''Logo:''' [https://3.bp.blogspot.com/-SgQfKmGIGCo/U3knd_QsNKI/AAAAAAAABeE/MSWrfV016aQ/s0/columbia+eye+logo.jpg=s0?imgmax=0|&#91;CBS walking eye logo&#93;]
+'''Label:''' [https://musicbrainz.org/label/b8d33bec-92cc-40d9-bd92-4eb089b401a9|CBS]
+
+'''Label Code:''' LC 0149 ('''''capsuled''''')
+STEREO
+33⅓ RPM
+'''Manufacturing Code:''' 11‒000089‒2
+XSM 173077
+
+'''Rights Society:''' [https://www.biem.org/|BIEM]/[https://www.bumastemra.nl/en/|STEMRA]
+'''Catalognumber:''' CBS SAMP 89
+(AS 1957)
+
+For Promotion Only ‐ NOT FOR SALE
+Original Sound Recording Made By CBS Inc.
+
+℗ 1984 Bruce Springsteen
+*℗ 1981 CBS Inc.
+
+== Identifiers on Run‐Out Groove ==
+
+'''''Run‐Out Groove Variations'''''
+
+    * '''Variant 1'''
+        * II-00089-IA-I A ('''''side A''''')
+        * II-00089-IB-I A ('''''side B''''')
+
+
+* 2-nd
+
+== Identifiers on Front Cover ==
+
+MAXI SINGLE‐45RPM
+
+== Identifiers on Back Cover ==
+
+'''Logo:''' [https://seeklogo.com/images/D/DISCOS_CBS-logo-F718B1BA40-seeklogo.com.png|&#91;CBS walking eye logo with text above logo&#93;]
+'''Catalognumber:''' A 12.4920
+'''Distribution Code:''' CB 181 ('''''capsuled''''')
+
+Additional 12″ production and remix by
+Arthur Baker for Arthur Baker Inc.
+12″ Remix Engineer: Toby Scott
+Remixed at Shakedown Studio,
+New York City
+Edits by The Latin Rascals
+
+Based on original production by:
+Bruce Springsteen, Jon Landau, Chuck Plotkin, Steven Van Zandt
+Recorded by Toby Scott
+Mixed by Bob Clearmountain
+Mastered at Sterling Sound
+by George Marino
+Taken From the CBS Lp:
+“Born In The U.S.A.” CBS 86304
+Design: Andrea Klein
+Photo: Annie Leibovitz
+
+© 1984 Bruce Springsteen/℗ 1984 Bruce Springsteen
+Made in Holland. Distribution CBS Records/CBS Disques S.A
+WARNING: All rights of the producer and of the owner of the recorded work reserved. Unauthorized copying, public
+performance, broadcasting, hiring or rental of this recording prohibited. In the UK apply for public performance licenses to PPL.
+14/22 Ganton Street, London WI.
+
+'''Manufacturing Code:''' 11‒004920‒20
+'''Label Code:''' LC 0149 ('''''capsuled''''')
+
+== Identifiers on A‐Side Label ==
+
+ALL RIGHTS OF THE PRODUCER AND OF THE OWNER OF THE RECORDED WORK RESERVED. UNAUTHORIZED COPYING, PUBLIC PERFORMANCE, BROADCASTING, HIRING OR RENTAL OF THIS RECORDING PROHIBITED. MADE IN HOLLAND. CBS AND [https://3.bp.blogspot.com/-SgQfKmGIGCo/U3knd_QsNKI/AAAAAAAABeE/MSWrfV016aQ/s0/columbia+eye+logo.jpg=s0?imgmax=0|&#91;CBS walking eye logo&#93;]® CBS INC.
+
+'''Logo:''' [https://3.bp.blogspot.com/-SgQfKmGIGCo/U3knd_QsNKI/AAAAAAAABeE/MSWrfV016aQ/s0/columbia+eye+logo.jpg=s0?imgmax=0|&#91;CBS walking eye logo&#93;]
+'''Label:''' [https://musicbrainz.org/label/b8d33bec-92cc-40d9-bd92-4eb089b401a9|CBS]
+'''Label Code:''' LC 0149 ('''''capsuled''''')
+STEREO
+45 RPM
+'''Manufacturing Code:''' 11‒004920‒1
+'''Rights Society:''' [https://www.biem.org/|BIEM]/[https://www.bumastemra.nl/en/|STEMRA]
+'''Catalognumber:''' CBSA 12–4920
+(44–05147)
+
+Special Version From The CBS Lp: “BORN IN THE U.S.A.” CBS 86304
+Based on original production by: Bruce Springsteen,
+Jon Landau, Chuck Plotkin, Steven van Zandt.
+Additional 12″ production and remix by Arthur Baker for Arthur Baker Inc.
+12″ Remix Engineer: Toby Scott
+Remixed at Shakedown Studio, New York City
+Edits by The Latin Rascals
+Recorded by Toby Scott. Mixed by Bob Clearmountain
+Mastered at Sterling Sound by George Marino
+Original Sound Recording Made By CBS Inc.
+
+℗ 1984 Bruce Springsteen
+
+== Identifiers on B‐Side Label ==
+
+ALL RIGHTS OF THE PRODUCER AND OF THE OWNER OF THE RECORDED WORK RESERVED. UNAUTHORIZED COPYING, PUBLIC PERFORMANCE, BROADCASTING, HIRING OR RENTAL OF THIS RECORDING PROHIBITED. MADE IN HOLLAND. CBS AND [https://3.bp.blogspot.com/-SgQfKmGIGCo/U3knd_QsNKI/AAAAAAAABeE/MSWrfV016aQ/s0/columbia+eye+logo.jpg=s0?imgmax=0|&#91;CBS walking eye logo&#93;]® CBS INC.
+
+'''Logo:''' [https://3.bp.blogspot.com/-SgQfKmGIGCo/U3knd_QsNKI/AAAAAAAABeE/MSWrfV016aQ/s0/columbia+eye+logo.jpg=s0?imgmax=0|&#91;CBS walking eye logo&#93;]
+'''Label:''' [https://musicbrainz.org/label/b8d33bec-92cc-40d9-bd92-4eb089b401a9|CBS]
+'''Label Code:''' LC 0149 ('''''capsuled''''')
+STEREO
+45 RPM
+'''Manufacturing Code:''' 11‒004920‒2
+'''Rights Society:''' [https://www.biem.org/|BIEM]/[https://www.bumastemra.nl/en/|STEMRA]
+'''Catalognumber:''' CBSA 12–4920
+(44–05147)
+
+Special Versions From The CBS Lp: “BORN IN THE U.S.A.” CBS 86304
+Based on original production by: Bruce Springsteen,
+Jon Landau, Chuck Plotkin, Steven van Zandt.
+Additional 12″ production and remix by Arthur Baker for Arthur Baker Inc.
+12″ Remix Engineer: Toby Scott
+Remixed at Shakedown Studio, New York City
+Edits by The Latin Rascals
+Recorded by Toby Scott. Mixed by Bob Clearmountain
+Mastered at Sterling Sound by George Marino
+Original Sound Recording Made By CBS Inc.
+
+℗ 1984 Bruce Springsteen
+
+== Identifiers on Run‐Out Groove ==
+
+'''''Run‐Out Groove Variations'''''
+
+    * '''Variant 1'''
+        * 11-4920-1A-1 A ('''''side A, stamped''''')
+        * 11-4920-1B-1 A ('''''side B, etched''''')
+
+* single
+
+== Identifiers on Back Cover ==
+
+'''Distribution Code:''' CB 111 ('''''capsuled''''')
+'''Logo:''' [https://seeklogo.com/images/D/DISCOS_CBS-logo-F718B1BA40-seeklogo.com.png|&#91;CBS walking eye logo with text above logo&#93;]
+'''Catalognumber:''' A 492
+
+B SIDE
+SHUT OUT THE
+LIGHT
+Words and music by Bruce Springsteen
+
+(THIS SONG DOES NOT
+APPEAR ON THE
+BORN IN THE U.S.A.
+ALBUM)
+
+© 1984 Bruce Springsteen/℗ 1984 Bruce Springsteen
+
+CBS & [https://3.bp.blogspot.com/-SgQfKmGIGCo/U3knd_QsNKI/AAAAAAAABeE/MSWrfV016aQ/s0/columbia+eye+logo.jpg=s0?imgmax=0|&#91;CBS walking eye logo&#93;] are reg. trademarks of CBS Inc. /Made in Holland. Distribution CBS Records/ CBS Disques S.A.
+
+WARNING: All rights of the producer and of the owner of the recorded work reserved. Unauthorized copying, public
+performance, broadcasting, hiring or rental of this recording prohibited. In the UK apply for public performance licenses to PPL.
+14/22 Ganton Street, London WI.
+
+BORN IN THE U.S.A.
+<lyrics>
+
+Words and music by Bruce Springsteen
+© 1984 Bruce Springsteen (ASCAP)
+All rights reserved. Used by permission.
+
+Taken From the CBS Lp:
+“Born In The U.S.A.” CBS 86304
+
+'''Label Code:''' LC 0149 ('''''capsuled''''')
+
+Art direction and design:
+Andrea Klein
+
+Cover photo:
+Annie Leibovitz
+
+== Identifiers on A‐Side Label ==
+
+ALL RIGHTS OF THE PRODUCER AND OF THE OWNER OF THE RECORDED WORK RESERVED. UNAUTHORIZED COPYING, PUBLIC PERFORMANCE, BROADCASTING, HIRING OR RENTAL OF THIS RECORDING PROHIBITED. MADE IN HOLLAND. CBS AND [https://3.bp.blogspot.com/-SgQfKmGIGCo/U3knd_QsNKI/AAAAAAAABeE/MSWrfV016aQ/s0/columbia+eye+logo.jpg=s0?imgmax=0|&#91;CBS walking eye logo&#93;]® CBS INC.
+
+'''Logo:''' [https://3.bp.blogspot.com/-SgQfKmGIGCo/U3knd_QsNKI/AAAAAAAABeE/MSWrfV016aQ/s0/columbia+eye+logo.jpg=s0?imgmax=0|&#91;CBS walking eye logo&#93;]
+'''Label:''' [https://musicbrainz.org/label/b8d33bec-92cc-40d9-bd92-4eb089b401a9|CBS]
+'''Label Code:''' LC 0149 ('''''capsuled''''')
+45 RPM
+STEREO
+'''Rights Society:''' [https://www.biem.org/|BIEM]/[https://www.bumastemra.nl/en/|STEMRA]
+'''Catalognumber:''' CBSA 4920
+'''Manufacturing Code:'''01–004920–1
+38–04680
