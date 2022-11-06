@@ -55,6 +55,7 @@ Added MusicBrainz link to "Links" tab
 [http://brucebase.wikidot.com/stats:early-bands-studio-sessions|Early Bands – Studio Sessions]|
 [http://brucebase.wikidot.com/stats:other-studio-sessions|Collaborations - Studio Sessions]
 
+
 * Songs
 ** 4th of July, Asbury Park (Sandy)
 *** Brucewiki - http://brucebase.wikidot.com/song:4th-of-july-asbury-park-sandy
@@ -1626,6 +1627,22 @@ Studio Sessions: Born To Run and Letter To You
 '''''[http://brucebase.wikidot.com/stats:born-to-run-studio-sessions#janeyneedsashooter|Born to Run – Studio Sessions]|[http://brucebase.wikidot.com/stats:the-river-studio-sessions#janeyneedsashooter|The River – Studio Sessions]|[http://brucebase.wikidot.com/stats:letter-to-you-studio-sessions#janeyneedsashooter|Letter to You – Studio Sessions]|[http://brucebase.wikidot.com/song:janey-needs-a-shooter|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=janeyneedsashooter|Springsteen Lyrics]|[http://www.brucespringsteen.it/DB/sd3.aspx?sid=729|Killing Floor]'''''
 
 *** Misc
+** Jann’s Song
+*** Brucewiki - http://brucebase.wikidot.com/song:jann-s-song
+**** On the tracks
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/a82eed1b-dcc1-41ce-8ef2-153609d582ae|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/a82eed1b-dcc1-41ce-8ef2-153609d582ae
+
+'''''[http://brucebase.wikidot.com/song:jann-s-song|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=jannssong|Springsteen Lyrics]'''''
+
+*** Misc
+
 ** Jungleland
 *** Brucewiki - http://brucebase.wikidot.com/song:jungleland
 **** On the tracks
