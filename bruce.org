@@ -65,11 +65,13 @@ STEREO
 ℗
 ℗ ©
 ℗ & ©
+© & ℗
 © ℗
 © & ℗ Bruce Springsteen
 © & ℗ BRUCE SPRINGSTEEN
 © 1987 Bruce Springsteen/℗ 1987 Bruce Springsteen
 
+℗ 1980 Bruce Springsteen/℗ 1984, 1985 Bruce Springsteen/© CBS Inc.
 
 
 * Dashes
@@ -12019,3 +12021,15 @@ STEREO
 '''Catalognumber:''' CBSA 4920
 '''Manufacturing Code:'''01–004920–1
 38–04680
+
+
+* Only the Strong Survive
+
+C-300576 AL19658753701
+C-300576 BL19658753701
+C-300576 CL19658753701
+
+C-300576 AL19658753701 © & ℗ 2022 Columbia Records,
+A divison of Sony Music Entertainment, Columbia is the exclusive
+trademark of Sony Music Entertainment. All rights reserved,
+Made in the EU. BIEM/GEMA / LC00162
