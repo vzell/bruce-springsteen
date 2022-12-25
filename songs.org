@@ -14,7 +14,7 @@ Added MusicBrainz link to "Links" tab
 
 '''''[http://brucebase.wikidot.com/stats:darkness-on-the-edge-of-town-studio-sessions#|Darkness on the Edge Of Town – Studio Sessions]|[http://brucebase.wikidot.com/stats:greatest-hits-studio-sessions|Greatest Hits – Studio Sessions]|[http://brucebase.wikidot.com/stats:the-essential-studio-sessions|The Essential – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]|[|Killing Floor]'''''
 '''''[http://brucebase.wikidot.com/stats:nebraska-studio-sessions#|Nebraska – Studio Sessions]|[http://brucebase.wikidot.com/stats:chapter-and-verse-studio-sessions|Chapter And Verse – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]|[|Killing Floor]'''''
-'''''[http://brucebase.wikidot.com/stats:born-in-the-usa-studio-sessions#|Born in the U.S.A. – Studio Sessions]|[http://brucebase.wikidot.com/stats:tracks-studio-sessions|Tracks – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]|[|Killing Floor]'''''
+'''''[http://brucebase.wikidot.com/stats:born-in-the-usa-studio-sessions#|Born in the U.S.A. – Studio Sessions]|[http://brucebase.wikidot.com/stats:greatest-hits-studio-sessions|Greatest Hits – Studio Sessions]|[http://brucebase.wikidot.com/stats:the-essential-studio-sessions|The Essential – Studio Sessions]|[http://brucebase.wikidot.com/stats:tracks-studio-sessions|Tracks – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]|[|Killing Floor]'''''
 '''''[http://brucebase.wikidot.com/stats:tunnel-of-love-studio-sessions#|Tunnel of Love – Studio Sessions]|[http://brucebase.wikidot.com/stats:greatest-hits-studio-sessions|Greatest Hits – Studio Sessions]|[http://brucebase.wikidot.com/stats:the-essential-studio-sessions|The Essential – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]|[|Killing Floor]'''''
 '''''[http://brucebase.wikidot.com/stats:high-hopes-studio-sessions#|High Hopes – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]'''''
 '''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions#|Western Stars – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]'''''
@@ -636,6 +636,56 @@ Studio Sessions: Greetings From Asbury Park
 [http://www.brucespringsteen.it/DB/sd3.aspx?sid=68|Lyrics from brucespringsteen.it]
 [http://brucebase.wikispaces.com/Blinded+By+The+Light|All known live performances]
 
+** Born in the U.S.A.
+*** Brucewiki - http://brucebase.wikidot.com/song:born-in-the-u-s-a
+**** On the tracks
+
+BORN IN THE U.S.A. - V1	2:22	FFOD / HNWB / MT2
+BORN IN THE U.S.A. - V2	0:30	FFOD / HNWB
+BORN IN THE U.S.A. - V3	4:45	FFOD / HNWB
+BORN IN THE U.S.A. - V4	3:10	FFOD / HNWB
+BORN IN THE U.S.A. - V5	2:55	FFOD / HNWB
+BORN IN THE U.S.A. - V6	4:00	FFOD / HNWB
+BORN IN THE U.S.A. - V7a (take 1)	3:06	LM-1 / HNWB
+BORN IN THE U.S.A. - V7b (take 1 mix 2)	3:06	TRACKS
+BORN IN THE U.S.A. - V8 (take 2)		private
+BORN IN THE U.S.A. - V9 (take 3)		private
+BORN IN THE U.S.A. - V10 (take 4)		private
+BORN IN THE U.S.A. - V11 (takes 5-8)		uncirculating
+BORN IN THE U.S.A. - V12 (take 9)	8:09	THLBB / UH / GS / BUERM / MI
+BORN IN THE U.S.A. - V12a (take 9 edit 1)	4:34	BITUSA / GREATEST / ESSENTIAL / GREATEST: 2009 / CHAPTER
+BORN IN THE U.S.A. - V12b (take 9 edit 2)	4:52	LM-19 / THLBP
+BORN IN THE U.S.A. - V13 (take 10)		uncirculating
+BORN IN THE U.S.A. - V14a freedom mix	7:20	1984 EP
+BORN IN THE U.S.A. - V14b radio mix	6:10	1984 EP
+BORN IN THE U.S.A. - V14c dub mix	7:36	1984 EP
+Note: Writing and recording began at Springsteen's house in Colts Neck, NJ during the fall of 1981 with a set of acoustic demos. V1 evolved, both musically and lyrically, from the bluesy demo "Vietnam". V1 includes the chorus "born in the USA" that Springsteen lifted from the title of a script of a Paul Schrader movie given to him by Jon Landau, as well as many lyrical elements that would remain in the final released version. The demo begins its transition with V2, a brief snippet of the "Born In The U.S.A." riff, the opening verse, and then the sardonic chorus "Born baby in the USA / I believe in the American way". V3-V6 were all recorded soon after, and see Springsteen developing the lyrics with every take. V7 was recorded between December 17, 1981 and January 3, 1982 on the TEAC Portastudio that Mike Batlan had set up in Bruce's home, and was included on the demo cassette tape sent to Jon Landau. In his notes to Landau, Bruce described the song as "a little ditty. should be done very hard rockin." A copy leaked to bootleggers via Batlan and was pressed on 'Lost Masters I' in 1996, before V7b was mixed in 1998 and officially released on Tracks.
+
+When Bruce and the E Street Band entered Power Station on April 26, 1982, the aim was to re-record the songs on his demo tape in a professional studio environment. Logs indicate that work on "Born In The U.S.A." began on the second day, and continued on April 28 and May 3. What work was done on what day is unclear, but it appears that the bulk of the song was recorded across ten takes on a single night, most likely May 3. A Power Station mixsheet dated to May 3 exists, which supports this position. We know that Springsteen initially attempted to re-record his demo tape alone, which may have occurred on April 27 and 28.
+
+On May 3, Springsteen and the band cut a number of takes of a rocking electric reimagining of that original acoustic demo. In take 2 Bruce sung the first verse over his electric guitar, before bass and drum joined in. Take 3 sees Max accompanying Bruce right from the opening, yet the famous organ riff is nowhere to be found. Take 4 begins with Springsteen singing the first verse a cappella, before the band join in. We now skip ahead to take 9, where the riff is now in place alongside other new elements, some of which did not make the final track. Brief audio of the opening verse of takes 2, 3, 4, and the multitracks of take 9 first emerged in April 2022, played by Toby Scott at a public event in Mexico City. Recollections vary as to the origin of the riff; Roy Bittan remembers Springsteen demonstrating the song on acoustic guitar before he improvised the organ riff on a new Yamaha CS-80 synth, and the first take evolved from there. Max Weinberg, however, recalls the first recording was as "a country trio" with a country beat (Max may have been referring to the arrangement found in takes 2-4 above), and the main riff came from Springsteen's guitar. Weinberg doesn't dispute Bittan's memories though.
+
+The eight minute V12 is the full length of take 9. With some edits, including using all or parts of take 10 (V13) for the ending, this take eventually became the first song on side one of Born In The U.S.A (V12b). V12c continues where V12b fades out with an extended synthesizer ending. Toby Scott recalls a total of eight to ten takes, with take six (or nine, recollections seem to vary) as the master. V14a-V14c are 12" dance remixes by Arthur Baker that were recorded at Shakedown Studios in New York City in September 1984. Toby Scott was the recording engineer for the remixes (which include additional vocals by The Latin Rascals), and all were mixed by Bob Clearmountain. The remixes were first released in December 1984. Baker utilised several aspects of the original mixes that were removed for the final album take.
+
+Studio Sessions: Born In The U.S.A.
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/55d593ce-52cc-30ec-9494-eca1ab879f5c|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/55d593ce-52cc-30ec-9494-eca1ab879f5c
+
+'''''[http://brucebase.wikidot.com/stats:born-in-the-usa-studio-sessions#bornintheusa|Born in the U.S.A. – Studio Sessions]|[http://brucebase.wikidot.com/stats:greatest-hits-studio-sessions|Greatest Hits – Studio Sessions]|[http://brucebase.wikidot.com/stats:the-essential-studio-sessions|The Essential – Studio Sessions]|[http://brucebase.wikidot.com/stats:tracks-studio-sessions|Tracks – Studio Sessions]|[http://brucebase.wikidot.com/stats:chapter-and-verse-studio-sessions|Chapter And Verse – Studio Sessions]|[http://brucebase.wikidot.com/song:born-in-the-u-s-a|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=bornintheusa|Springsteen Lyrics]|[http://www.brucespringsteen.it/DB/sd3.aspx?sid=78|Killing Floor]'''''
+
+*** Misc
+
+[http://brucebase.wikidot.com/stats:born-in-the-usa-studio-sessions#bornintheusa|Studio and Session Info]
+[https://www.springsteenlyrics.com/lyrics.php?song=bornintheusa|Lyrics from springsteenlyrics.com]
+[http://www.brucespringsteen.it/DB/sd3.aspx?sid=78|Lyrics from brucespringsteen.it]
+[http://brucebase.wikidot.com/song:born-in-the-u-s-a|All known live performances]
+
 ** Born to Run
 *** Brucewiki - http://brucebase.wikidot.com/song:born-to-run
 **** On the tracks
@@ -874,6 +924,39 @@ Studio Sessions: Western Stars
 [http://brucebase.wikidot.com/stats:born-to-run-studio-sessions#thunderroad|'''''Born To Run - Studio Sessions''''']
 
 *** Misc
+
+** Cover Me
+*** Brucewiki - http://brucebase.wikidot.com/song:cover-me
+**** On the tracks
+
+COVER ME - V1	3:15	THLBB
+COVER ME - V2a	3:36	1984AC / RTT
+COVER ME - V2b	3:28	BITUSA
+COVER ME - V3		uncirculating
+COVER ME (Undercover Mix) - V4a	6:11	1984 EP
+COVER ME (Radio) - V4b	3:46	1984 EP
+COVER ME (Dub I) - V4c	4:11	1984 EP
+COVER ME (Dub II) - V4d	4:14	1984 EP
+Note: "Cover Me" versions 1 and 2 were recorded at The Hit Factory on January 25, 1982. Earlier in the year, David Geffen had approached Jon Landau to ask if Springsteen would write a song for Donna Summer. In response, Bruce wrote "Cover Me", but after Landau heard the January 25 tape, he told Bruce to come up with another song, because "we're keeping this one," so Bruce wrote "Protection". The January 25 session was recorded by Neil Dorfsman, who was also working on the Gary U.S. Bonds On the Line sessions. V2a is an alternative mix that lacks Springsteen's lead guitar overdubs, but has the count-in and full ending chopped off the released track. A copyright was filed on February 8, 1982. On May 12, 1982 at Power Station Studios, Springsteen cut nine additional takes (V3), but those recordings remain in the vault. V4a thru V4d are dance/disco remixes cut at The Hit Factory in July 1984 by Arthur Baker. The recording engineer was Toby Scott, and they were released in early September 1984. V2 and V4 feature background vocals by Richie "La Bamba" Rosenberg.
+
+Studio Sessions: Born In The U.S.A.
+
+**** Links
+
+[[ tab Links]]
+ * [[[*https://musicbrainz.org/work/13da1f8d-c08d-3d9b-891b-395e363c3a5b|MusicBrainz]]]
+[[ /tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/13da1f8d-c08d-3d9b-891b-395e363c3a5b
+
+'''''[http://brucebase.wikidot.com/stats:born-in-the-usa-studio-sessions#coverme|Born in the U.S.A. – Studio Sessions]|[http://brucebase.wikidot.com/song:cover-me|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=coverme|Springsteen Lyrics]|[http://www.brucespringsteen.it/DB/sd3.aspx?sid=112|Killing Floor]'''''
+
+*** Misc
+
+[http://brucebase.wikispaces.com/Born+In+The+USA+-+Studio+Sessions|Studio and Session Info]
+[http://www.springsteenlyrics.com/lyrics/c/coverme.php|Lyrics from springsteenlyrics.com]
+[http://www.brucespringsteen.it/DB/sd3.aspx?sid=112|Lyrics from brucespringsteen.it]
+[http://brucebase.wikispaces.com/Cover+Me|All known live performances]
 
 ** Dancing in the Dark
 *** Brucewiki - http://brucebase.wikidot.com/song:dancing-in-the-dark
