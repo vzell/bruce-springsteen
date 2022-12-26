@@ -18,6 +18,14 @@ https://musicbrainz.org/release/8e898cb3-56b7-4732-abcb-dbc58bfbf913
 == Identifiers on Labels ==
 == Identifiers on Run‐Out Groove ==
 
+== Identifiers on Front J‐Card (Front Panel) ==
+== Identifiers on Front J‐Card (Spine Panel) ==
+== Identifiers on Front J‐Card (Back Panel) ==
+
+== Identifiers on Back J‐Card ==
+== Identifiers on Back J‐Card (Panel 8) ==
+
+== Identifiers on Tape Shell ==
 
 * Label Info
 
@@ -69,12 +77,153 @@ STEREO
 © ℗
 © & ℗ Bruce Springsteen
 © & ℗ BRUCE SPRINGSTEEN
+© 1987 Bruce Springsteen
+℗ 1988 Bruce Springsteen
 © 1987 Bruce Springsteen/℗ 1987 Bruce Springsteen
 
 ℗ 1980 Bruce Springsteen/℗ 1984, 1985 Bruce Springsteen/© CBS Inc.
+℗ 1988 Bruce Springsteen/ © 1987 Bruce Springsteen/CBS and [logo]® CBS Inc./
+
+© 1987 Bruce Springsteen/℗ 1988 Bruce Springsteen/“Columbia” is the exclusive trademark of Sony Music Entertainment Inc.
+Manufactured in Australia by Sony Music Entertainment (Australia) Limited. 667600 2
+
+© 1999 BRUCE SPRINGSTEEN/℗ 1988 BRUCE SPRINGSTEEN/“COLUMBIA” IS THE EXCLUSIVE TRADEMARK OF SONY MUSIC ENTERTAINMENT INC./HDCD® AND HIGH DEFINITION COMPATIBLE DIGITAL® ARE REGISTERED TRADEMARKS OF PACIFIC MICROSONICS, INC. MANUFACTURED IN AUSTRALIA BY SONY MUSIC ENTERTAINMENT (AUSTRALIA) LIMITED.
+
 
 © & ℗ Bruce Springsteen / Manufactured And Distributed By Columbia Records, A Division Of Sony Music Entertainment
 © & ℗ BRUCE SPRINGSTEEN / MANUFACTURED AND DISTRIBUTED BY COLUMBIA RECORDS, A DIVISION OF SONY MUSIC ENTERTAINMENT
+
+Printed in Holland/Imprimé en Hollande/Distribution CBS Records/CBS Disques S.A.
+
+* upside down - https://www.upsidedowntext.com/
+
+http://www.discogs.com/user/mossinterest
+
+* Unicode symbols - https://www.key-shortcut.com/en/character-tables/unicode-2000-2fff
+
+* Deadwax
+
+OTHER SCRIBINGS IN THE DEADWAX:
+
+22, 33, 44, 66, 77, 114 etched = pressed by All Disc Records, Inc.
+"ɑ" looks like Q (stamped) = Allied Record Company logo (usually followed by B-#####)
+ab or AB = Abbey Record Manufacturing Co., Inc.
+⍺ʙ = Al Brown (5)
+ABS = Alex Sadkin
+ACR = RCA Records Pressing Plant, Smiths Falls, Ontario
+AMP = ABC-Paramount
+ARC or ALt (etch) = Allentown Record Co. Inc.
+𝒜ℛP (stamp) = American Record Pressing Co.
+AT = Mastered at Atlantic Studios
+AT/GP (handwritten) = mastered by George Piros at Atlantic
+AT/DK (handwritten) = mastered by Dennis King at Atlantic
+ATLANTIC STUDIOS DK (stamped) = mastered by Dennis King at Atlantic
+AZ CB = Chris Bellman at [l254254
+Bass Clef note 𝄢 stamped near B side spindle = Sonopress
+BB = Bob Berglund
+BDI or B.D.I. = Brian Ingoldsby
+BK = Bill Kipper
+ʙʟ⍂ɪʀ or ʙʟ△ɪʀ = Chris Blair (mastering)
+¢ = Tom Coyne
+
+Capitol-
+✲ or ☆ (prior to '64) stamp = Capitol Records Pressing Plant, Los Angeles
+Lathe similar to ☖ (prior to '64), IAM in triangle stamps = Capitol Records Pressing Plant, Scranton
+—◁ etch = Capitol Records Pressing Plant, Winchester
+0 stamp = Capitol Records Pressing Plant, Jacksonville
+
+"cg" + "☮" = Chris Gehringer
+Chet = Chet Bennett
+⋐riteriɑ = Criteria Recording Studios
+CSB ♪♪ = Carlton Batts (usually with F/W)
+DC, whereas D is incorporated into the top of the C (usually associated with Masterdisk) = Dave Crawford (2)
+dg = David Gold (3) (Gold Star Studios)
+dh (interlocked, inverted, looks like 'Lp') = Don Holden
+DT = Dave Travis
+DWJ = Darrell Johnson
+ℰcK = Ralph Eck
+EDP [in oval] = Europadisk Pressing & Mastering
+ELA (followed by delta#) = Electrosound Los Angeles
+ℰMW = Electrosound Group Midwest, Inc.
+ES = Doc Siegel
+ESR = Elektra Sound Recorders
+Ⓕ = Fidelatone Mfg.
+F (etch) = Fine Recording Studios
+FW Ѽ or FWNY = Frankford/Wayne Mastering Labs
+G or G1= Columbia Records Pressing Plant, Carrollton, GA
+GC, ℊc, ☆ or ⚾ (Baseball looking symbol) next to Sterling = Greg Calbi
+GF = Greg Fulginiti, of Artisan Sound Recorders
+GK = Gilbert Kong
+GOL = Goldisc Recording Products, Inc.
+HERbiE :^) = Herb Powers Jr. (mastering)
+H.W. = Howie Weinberg
+ℐ⍺ = Jack Adelman
+JG = John Golden
+JG♡ = Joe Gastwirt
+JJ = John Johnson (3)
+JS = Joe Sidore
+⁄|⁄ǀ⁄|⁄ǀ⁄|⁄K = Randy Kling (mastering)
+L ##### and L #####-X = Greg Lee Processing
+LB = Larry Boden
+LH = Lee Hulko
+LH-##### = Houston Records
+LW or LWP = Longwear Plating (maker of metal parts from lacquers) Enter as "Mastered At"
+
+MCA-
+◈-P-◈ = MCA Pressing Plant, Pinckneyville
+回-G-回 = MCA Pressing Plant, Gloversville ⧈-̶ɢ-̶⧈
+◎—∈—◎ = MCA Records (Canada)
+
+McM = Ron McMaster at EMI NY
+MF = Mike Fuller
+MG = MGM Records Division in Bloomfield, NJ (Pressing)
+MR = Mercury Record Manufacturing Company
+m w/ T rising from atop, similar to ⭄ = Mastertone Studio
+Pecko Duck = George Peckham
+♡POGO = Keith Olsen's Pogologo, Inc. (Productions)
+Porky or Porky Prime Cut = George Peckham
+PP = Plastic Products
+PR or PRC or (PR) = Philips Recording Company, Inc. (prior '73) PRC Recording Company, Richmond, IN (10/72)
+PRP = Precision Record Pressing, Inc.
+R3 or R4 = Mastered at Rainbo Records (on Capitol Pressing)
+RAYS = Ray Staff at Trident Studios, London
+RB = Ron Boustead (Precision)
+
+RCA-
+H (stamp or etch) = RCA Records Pressing Plant, Hollywood
+ɪ (very small stamp often mistaken for 1) = RCA Records Pressing Plant, Indianapolis
+R (etch or stamp, usually halfway around from matrix) = RCA Records Pressing Plant, Rockaway
+
+RG = Rob Grenell, mastering engineer for Atlantic in the late 60's
+RJ or √ᴀɴᴏs = Ray Janos
+RL = Bob Ludwig
+Ƨ or S, S1 or S\ etch = Columbia Records Pressing Plant, Santa Maria
+(Ƨ) circled = Shelley Products
+sƒ = Sam Feldman
+SG = Steve Guy
+SH = Steve Hall
+SJR = Stuart J. Romaine
+SM = Stephen Marcussen
+SMK (etched) = Sound Makers
+SON or Son = Sonic Recording Products, Inc.
+SoN (on label, followed by matrix #)) = Sound Of Nashville
+TD = Terry Dunavan
+THE WASP = Martin Birch
+T, T1 or T\ etch = Columbia Records Pressing Plant, Terre Haute
+TJ = Ted Jensen
+TLC = The Lacquer Channel
+TS = Tommy Simmes
+TSM or TƧM (looks like TZM) = True Sound Manufacturing Corp.
+ⓤ or Ⓤ = United Record Pressing
+US⦾ = United Sound (3)
+ⱳcⱳ = Bill Wysock (Allen Zentz Mastering)
+WM (W integrated atop M stamp) or (ᵛᵛ) = Wakefield Manufacturing
+WMℰ = Mack Evans
+WSS = Woodland Studios
+X stamped, prior to '68 = Shelley Products
+◵ graphic of a disc and radius gauge for the A in Artisan Sound Recorders
+︵︵〰༼ -(birds) or メ or ❀、= Brian Gardner
+μs = Microsecond
 
 * Dashes
 
@@ -114,6 +263,11 @@ quotation dash (―)    - 2015 - 8213 - introduces quoted text in some cases (no
 ᑉ ᑦ ᒃ ᒡ ᒻ ᓐ ᔅ ᓪ ᔾ ᕝ ᕐ ᖅ ᖕ
 
 Symbols:☯
+
+℗ © ™ ℠ ® RИ ▷ △ ◁ ∇ Δ ◊ ∆ £ ↔ ◅ ▻ ℒ • · ˙ ⋮ Ψ º ժ Σ ● ⇧ Ⴔ ⚇ ɪ ∞ ⎎ (ˆ◡ˆ) ¯\_(ツ)_/¯
+𝒜 ℬ ℰ ℯ ℱ ℊ ℋ ℎ ℐ ℒ ℓ ℳ ℴ ℘ ℛ sᴛᴇʀʟɪɴɢ ᴛᴍʟ-ᴍ ᴍᴀsᴛᴇʀᴇᴅ ʙʏ ᴄᴀᴘɪᴛᴏʟ ᴍᴀsᴛᴇʀᴅɪsᴋ ᴄᴏʟᴜᴍʙɪᴀ ɴʏ 𝓑𝓮𝓵𝓵 𝓢𝓸𝓾𝓷𝓭 𝓑𝓮𝓼𝓽𝔀𝓪𝔂
+ᴀʙᴄᴅᴇғɢʜɪᴊᴋʟᴍɴᴏᴘǫʀsᴛᴜᴠᴡxʏᴢ
+ᵃ ᵇ ᶜ ᵈ ᵉ ᶠ ᵍ ʰ ⁱ ʲ ᵏ ˡ ᵐ ⁿ ᵒ ᵖ ʳ ˢ ᵗ ᵘ ᵛ ʷ ˣ ʸ ᶻ
 
 ® ™ € £ $ ¢ ¿ ¡ § BIEM / n©b
 ℗ © • · ▪ ✴ – œ æ ß ï ë Œuvre
