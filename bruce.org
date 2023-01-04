@@ -18,9 +18,13 @@ https://musicbrainz.org/release/8e898cb3-56b7-4732-abcb-dbc58bfbf913
 == Identifiers on Labels ==
 == Identifiers on Run‐Out Groove ==
 
+== Identifiers on Front Cassette Case ==
+== Identifiers on Back Cassette Case ==
+
 == Identifiers on Front J‐Card (Front Panel) ==
 == Identifiers on Front J‐Card (Spine Panel) ==
 == Identifiers on Front J‐Card (Back Panel) ==
+== Identifiers on Front J‐Card (Panel 1) ==
 
 == Identifiers on Back J‐Card ==
 == Identifiers on Back J‐Card (Panel 8) ==
