@@ -19,6 +19,7 @@ Added MusicBrainz link to "Links" tab
 '''''[http://brucebase.wikidot.com/stats:high-hopes-studio-sessions#|High Hopes – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]'''''
 '''''[http://brucebase.wikidot.com/stats:western-stars-studio-sessions#|Western Stars – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]'''''
 '''''[http://brucebase.wikidot.com/stats:letter-to-you-studio-sessions#|Letter to You – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]'''''
+'''''[http://brucebase.wikidot.com/stats:born-to-run-studio-sessions#|Born to Run – Studio Sessions]|[|Brucebase Wiki]|[|Springsteen Lyrics]|[|Killing Floor]'''''
 
 *** Misc
 
@@ -1910,6 +1911,33 @@ Studio Sessions: Letter To You
 '''''[http://brucebase.wikidot.com/stats:letter-to-you-studio-sessions#lettertoyou|Letter to You – Studio Sessions]|[http://brucebase.wikidot.com/song:letter-to-you|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=lettertoyou|Springsteen Lyrics]'''''
 
 *** Misc
+** Lonely Night in the Park
+*** Brucewiki - http://brucebase.wikidot.com/song:lonely-night-in-the-park
+**** On the tracks
+
+LONELY NIGHT IN THE PARK - V1	4:30	uncirculating
+LONELY NIGHT IN THE PARK - V2	4:48	ESR / BWNH / BTRS / BTRCS / UBTROC
+LONELY NIGHT IN THE PARK - V3	4:20	uncirculating
+Note: This long-documented song finally surfaced in late 2005 during broadcasts by Sirius radio. The circulating version is clearly only an unfinished, early workout. This recording and additional takes on May 4 or 5 are the only mention of the song in studio logs. The song was documented on two handwritten song lists from 1974, with "Lonely Night In The Park" listed on one, and "Lonely Night At The Beach" on another, which may have been an earlier version of the song. It was in the running for the album up until July 2, 1975, before Mike Appel convinced Bruce to replace it with the title track. The fact that it was considered for the album so late in the process suggests that more work was undertaken on the song between May and July that is undocumented.
+
+Studio Sessions: Born To Run
+
+**** Links
+
+ [[tab Links]]
+ * [[[*https://musicbrainz.org/work/151b7a46-8059-4897-bd47-a276fa5250ff|MusicBrainz]]]
+ [[/tab]]
+
+*** Musicbrainz - https://musicbrainz.org/work/151b7a46-8059-4897-bd47-a276fa5250ff
+
+'''''[http://brucebase.wikidot.com/stats:born-to-run-studio-sessions#lonelynightinthepark|Born to Run – Studio Sessions]|[http://brucebase.wikidot.com/song:lonely-night-in-the-park|Brucebase Wiki]|[https://www.springsteenlyrics.com/lyrics.php?song=lonelynightinthepark|Springsteen Lyrics]|[http://www.brucespringsteen.it/DB/sd3.aspx?sid=733|Killing Floor]'''''
+
+*** Misc
+
+[http://brucebase.wikispaces.com/Born+To+Run+-+Studio+Sessions|Studio and Session Info]
+[http://www.springsteenlyrics.com/lyrics/l/lonelynightinthepark.php|Lyrics from springsteenlyrics.com]
+[http://www.brucespringsteen.it/DB/sd3.aspx?sid=733|Lyrics from brucespringsteen.it]
+
 ** Lost in the Flood
 *** Brucewiki - http://brucebase.wikidot.com/song:lost-in-the-flood
 **** On the tracks
